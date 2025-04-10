@@ -314,8 +314,9 @@ Las entrevistas de usuarios para CleanWind tienen como objetivo principal compre
 ### 2.2.1 Diseño de entrevistas
 Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los diferentes segmentos de usuarios de CleanWind (empresas medianas, grandes empresas y ciudadanos interesados en reciclar), así como sus objetivos, características y principales desafíos. Se definieron los objetivos de la investigación, las preguntas clave y los temas a abordar durante cada entrevista.
 
-![entrevistas-1](https://github.com/user-attachments/assets/57cb9e34-cf67-458b-8fc5-b754c461b2f3)
-![entrevistas-2](https://github.com/user-attachments/assets/facdca92-c876-402a-968e-008e4612f5d0)
+![image](https://github.com/user-attachments/assets/bc28d8fd-6cab-4407-992d-d36a861a802d)
+
+![image](https://github.com/user-attachments/assets/6aafc357-f802-42f8-b62c-942beb76b541)
 
 ## 2.3. Needfinding
 
