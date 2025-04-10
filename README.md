@@ -475,3 +475,20 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 | 31      | US-031        | Escaneo de productos reciclables                 | Como ciudadano, quiero escanear un producto y saber si es reciclable                             | 3                        |
 | 32      | US-032        | Foro de comunidad ambiental                      | Como usuario, quiero compartir ideas y experiencias sobre sostenibilidad                         | 2                        |
 
+# Capítulo IV
+## 4.1 Style Guidelines
+CleanWind es una plataforma enfocada en la gestión sostenible de residuos. Para ofrecer una experiencia amigable y clara, se ha optado por un diseño visual limpio y funcional. Predominan colores fríos como el verde claro, verde oscuro, blanco y negro, transmitiendo compromiso ecológico y profesionalismo. El diseño prioriza la simplicidad, el orden y la accesibilidad, facilitando que cualquier usuario pueda interactuar con la plataforma de forma intuitiva y efectiva.
+
+## 4.1.1. General Style Guidelines
+CleanWind emplea un diseño minimalista y moderno, centrado en la funcionalidad, la accesibilidad y la estética limpia. La interfaz combina los siguientes colores:
+
+- Fondo blanco (#FFFFFF): genera limpieza visual y mejora la legibilidad.
+- Texto negro (#000000): garantiza el contraste óptimo para facilitar la lectura.
+- Verde claro (#9FE7A4): utilizado en botones primarios y llamadas a la acción.
+- Verde oscuro (#00724D): usado en botones de interacción secundaria y elementos destacados.
+
+**Tipografía**
+La tipografía utilizada para CleanWind es Montserrat, seleccionada por su claridad y modernidad, asegurando que sea legible y adecuada para su uso tanto en personas adultas jóvenes, como en personas ancianas. La base de la tipografía es de 14.5px con un interlineado de 1.1. Además, se utiliza una escala con un ratio de 1.125 para ajustar los tamaños de la tipografía según las necesidades de la web, abarcando desde títulos, subtítulos hasta el cuerpo del texto.
+
+## 4.1.2. Web Style Guidelines
+
