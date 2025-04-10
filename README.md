@@ -387,3 +387,59 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 
 ![AS-IS Segmento 2](https://github.com/JKOlimpo/CleanView/blob/c4fe59115133d1f64908ec68993bf86c4bf7d23d/img/AS-IS%20-%20Segmento%202.jpg)
 ## 2.4. Ubiquitous Language 
+
+
+# Capítulo III : Requirements Specification 
+## 3.1. To-Be Scenario Mapping
+>  Segmento 1 : Empresas
+
+![TO-BE Segmento 1](https://github.com/JKOlimpo/CleanView/blob/b47c727e6fd4a4d59d1dd675a468e9aeba787303/img/TO-BE%20-%20Segmento%201.jpg)
+
+>Segmento 2 : Personas Naturales
+
+![TO-BE Segmento 2](https://github.com/JKOlimpo/CleanView/blob/5614947fd18c4e4b2412340d6bdd21dedbe92ebf/img/TO-BE%20-%20Segmento%202.jpg)
+## 3.2. User Stories
+
+| Epic / Story ID  | Título  | Descripción  | Criterios de Aceptación  | Relacionado con (Epic ID)  |
+|------------------|---------|--------------|---------------------------|-----------------------------|
+| US-001           | Monitoreo de residuos en tiempo real | Como empresario quiero visualizar la cantidad y tipo de residuos generados en tiempo real, para tomar decisiones rápidas. | Al acceder al panel, puedo ver datos en tiempo real y alertas por incremento inusual. | EP-001 |
+| US-002           | Cumplimiento de normativas ambientales | Como gerente, quiero generar reportes automáticos que cumplan con regulaciones ambientales. | El sistema genera reportes conforme a normativas locales e internacionales. | EP-002 |
+| US-003           | Reporte detallado sobre residuos | Como gerente de operaciones, quiero ver reportes detallados, para reducir desperdicios. | El panel muestra tipo, cantidad y origen de residuos. | EP-001 |
+| US-004           | Puntos de reciclaje cercanos | Como ciudadano, quiero ver puntos de reciclaje cerca de mi casa. | La app muestra centros de reciclaje en un mapa con filtros por tipo. | EP-003 |
+| US-005           | Consejos para manejo de residuos | Como ciudadano, quiero recibir consejos para reducir residuos en casa. | El sistema recomienda buenas prácticas sostenibles basadas en mi actividad. | EP-003 |
+| US-006           | Gamificación ecológica | Como ciudadano, quiero recibir puntos por buenas prácticas, para motivarme. | Registro acciones y gano puntos visibles en mi perfil. | EP-003 |
+| US-007           | Registro manual de residuos | Como ciudadano, quiero registrar los residuos que genero. | El sistema permite ingresar tipo, cantidad y frecuencia de residuos. | EP-003 |
+| US-008           | Alertas por umbrales críticos | Como gerente, quiero alertas cuando los residuos superen un umbral. | Configuro umbrales y recibo alertas por e-mail o app. | EP-001 |
+| US-009           | Comparación entre periodos | Como gerente, quiero comparar residuos entre meses. | Gráficos comparativos disponibles en dashboard. | EP-002 |
+| US-010           | Ranking interno de sostenibilidad | Como gerente, quiero ver qué áreas generan menos residuos. | La plataforma ordena las áreas por sostenibilidad. | EP-002 |
+| US-011           | Exportación de reportes | Como gerente, quiero exportar reportes en PDF o Excel. | Botón de exportación con selección de formato. | EP-002 |
+| US-012           | Integración con sensores IoT | Como empresa, quiero usar sensores inteligentes para monitoreo automático. | Datos actualizados automáticamente desde sensores. | EP-001 |
+| US-013           | Notificación por tipo de residuo | Como gerente, quiero recibir alertas si un tipo específico de residuo aumenta. | Configuro alertas específicas por categoría. | EP-001 |
+| US-014           | Información sobre normativa local | Como ciudadano, quiero saber qué leyes ambientales aplican a mi zona. | Visualización de regulaciones según ubicación. | EP-003 |
+| US-015           | Simulación de impacto ambiental | Como usuario, quiero ver una simulación del impacto ambiental de mis residuos. | Gráfico interactivo con equivalencias ecológicas. | EP-003 |
+| US-016           | Plan de reducción de residuos | Como empresa, quiero un plan personalizado para reducir residuos. | Sistema sugiere acciones y metas según historial. | EP-001 |
+| US-017           | Chat de soporte ambiental | Como usuario, quiero consultar dudas con un asesor ambiental. | Chat disponible en horario laboral con asistencia técnica. | EP-003 |
+| US-018           | Gestión de roles y permisos | Como administrador, quiero asignar permisos a cada usuario. | Puedo definir qué usuarios acceden a qué funciones. | EP-002 |
+| US-019           | Módulo de auditorías | Como auditor, quiero acceder a reportes históricos y registros. | Panel con auditorías pasadas, descargas y bitácoras. | EP-002 |
+| US-020           | Tareas programadas de reciclaje | Como ciudadano, quiero programar recordatorios para reciclar. | Calendario con alertas personalizadas por tipo. | EP-003 |
+| US-021           | Verificación de acciones sostenibles | Como gerente, quiero validar si las acciones implementadas reducen residuos. | Módulo compara acciones con impacto posterior. | EP-002 |
+| US-022           | Marketplace de reciclaje | Como empresa, quiero vender o donar residuos reciclables a otros actores. | Plataforma conecta generadores con recicladores. | EP-001 |
+| US-023           | Panel para municipios | Como entidad pública, quiero ver datos agregados por distrito. | Dashboard con mapas, indicadores y comparación entre zonas. | EP-004 |
+| US-024           | Centro de aprendizaje ambiental | Como usuario, quiero aprender sobre sostenibilidad en videos o blogs. | Acceso a recursos educativos segmentados por nivel. | EP-003 |
+| US-025           | Integración con APIs externas | Como desarrollador, quiero conectar CleanWind a otras plataformas. | Disponibilidad de API REST para consulta de datos. | EP-002 |
+| US-026           | Recomendaciones inteligentes | Como usuario, quiero recomendaciones personalizadas según mis datos. | Sugerencias automáticas basadas en historial y perfil. | EP-003 |
+| US-027           | Etiquetado de residuos | Como operario, quiero categorizar residuos desde un móvil. | App permite escanear, clasificar y etiquetar con códigos QR. | EP-001 |
+| US-028           | Control de almacenamiento de residuos peligrosos | Como empresa, quiero controlar residuos peligrosos con alertas. | Módulo especializado con alertas y registro histórico. | EP-001 |
+| US-029           | Seguimiento de reducción de huella de carbono | Como gerente, quiero ver cómo mis acciones reducen emisiones. | Gráfico que muestra reducción de CO2 equivalente. | EP-002 |
+| US-030           | Sistema de insignias por logros sostenibles | Como usuario, quiero recibir insignias por hitos alcanzados. | Insignias visibles en perfil al cumplir metas. | EP-003 |
+| US-031           | Escaneo de productos reciclables | Como ciudadano, quiero escanear un producto y saber si es reciclable. | Escaneo por código de barras y sugerencia de reciclaje. | EP-003 |
+| US-032           | Foro de comunidad ambiental | Como usuario, quiero compartir ideas y experiencias en sostenibilidad. | Foro accesible por tema, con comentarios y reacciones. | EP-003 |
+
+
+## 3.3. Impact Mapping
+## 3.4. Product Backlog
+
+| # Orden |  User Story Id  |  Título                                 |  Descripción                                                                             |  Story Points (1/2/3/5/8)   |
+|---------|-----------------|-----------------------------------------|------------------------------------------------------------------------------------------|-----------------------------|
+| 1       |   US-001        | Monitoreo de residuos en tiempo real    | Como empersarío quiero visualizar la cantidad y tipo de residuos generados a tiempo real |                 5           |
+| 2       |   US-002        | Cumplimiento de normativas ambientales  | Cómo gerente, quiero generar reportes automáticos que cumplan con regulaciones ambientales para garantizar transparencia  |        3         |
