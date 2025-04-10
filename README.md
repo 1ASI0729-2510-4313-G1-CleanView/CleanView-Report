@@ -23,7 +23,7 @@
 |Fabian Alejandro Oliva Lopez           |U202312013    |
 |Marcia Victoria Melgarejo Gomez        |U20231C505    |
 |Gabriel Fernando Gordon Salas          |U20221E229    |
-|Valentino Sandoval Paiva     |U20211A962    |
+|Valentino Sandoval Paiva               |U20211A962    |
 
 **Abril 2025**
 
