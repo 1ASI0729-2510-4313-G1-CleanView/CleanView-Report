@@ -421,9 +421,41 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 
 
 ## 3.3. Impact Mapping
+
 ## 3.4. Product Backlog
 
-| # Orden |  User Story Id  |  Título                                 |  Descripción                                                                             |  Story Points (1/2/3/5/8)   |
-|---------|-----------------|-----------------------------------------|------------------------------------------------------------------------------------------|-----------------------------|
-| 1       |   US-001        | Monitoreo de residuos en tiempo real    | Como empersarío quiero visualizar la cantidad y tipo de residuos generados a tiempo real |                 5           |
-| 2       |   US-002        | Cumplimiento de normativas ambientales  | Cómo gerente, quiero generar reportes automáticos que cumplan con regulaciones ambientales para garantizar transparencia  |        3         |
+| # Orden | User Story Id | Título                                           | Descripción                                                                                      | Story Points (1/2/3/5/8) |
+|---------|---------------|--------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------|
+| 1       | US-001        | Monitoreo de residuos en tiempo real             | Como empresario quiero visualizar la cantidad y tipo de residuos generados a tiempo real         | 5                        |
+| 2       | US-002        | Cumplimiento de normativas ambientales           | Como gerente, quiero generar reportes automáticos que cumplan con regulaciones ambientales       | 3                        |
+| 3       | US-003        | Reporte detallado sobre residuos                 | Como gerente, quiero ver reportes detallados para reducir desperdicios                           | 3                        |
+| 4       | US-008        | Alertas por umbrales críticos                    | Como gerente, quiero alertas cuando los residuos superen un umbral crítico                       | 3                        |
+| 5       | US-004        | Puntos de reciclaje cercanos                     | Como ciudadano, quiero ver puntos de reciclaje cerca de mi casa                                  | 2                        |
+| 6       | US-005        | Consejos para manejo adecuado de residuos        | Como ciudadano, quiero recibir consejos para reducir residuos en el hogar                        | 2                        |
+| 7       | US-016        | Plan de reducción de residuos                    | Como empresa, quiero un plan personalizado para reducir residuos                                 | 5                        |
+| 8       | US-007        | Registro manual de residuos                      | Como ciudadano, quiero registrar los residuos que genero                                         | 3                        |
+| 9       | US-006        | Gamificación ecológica                           | Como ciudadano, quiero recibir puntos por buenas prácticas ecológicas                            | 3                        |
+| 10      | US-009        | Comparación entre periodos                       | Como gerente, quiero comparar residuos entre meses                                               | 3                        |
+| 11      | US-011        | Exportación de reportes                          | Como gerente, quiero exportar reportes en PDF o Excel                                            | 2                        |
+| 12      | US-012        | Integración con sensores IoT                     | Como empresa, quiero usar sensores inteligentes para monitoreo automático                        | 8                        |
+| 13      | US-013        | Notificación por tipo de residuo                | Como gerente, quiero recibir alertas por aumento de un tipo de residuo específico                | 2                        |
+| 14      | US-014        | Información sobre normativa local                | Como ciudadano, quiero conocer las leyes ambientales de mi zona                                  | 2                        |
+| 15      | US-017        | Chat de soporte ambiental                        | Como usuario, quiero consultar dudas con un asesor ambiental                                     | 3                        |
+| 16      | US-010        | Ranking interno de sostenibilidad                | Como gerente, quiero ver qué áreas generan menos residuos                                        | 3                        |
+| 17      | US-018        | Gestión de roles y permisos                      | Como administrador, quiero asignar permisos a cada usuario                                       | 3                        |
+| 18      | US-019        | Módulo de auditorías                             | Como auditor, quiero acceder a registros históricos y bitácoras                                  | 5                        |
+| 19      | US-020        | Tareas programadas de reciclaje                  | Como ciudadano, quiero programar recordatorios para reciclar                                     | 2                        |
+| 20      | US-021        | Verificación de acciones sostenibles             | Como gerente, quiero validar si las acciones implementadas reducen residuos                     | 5                        |
+| 21      | US-022        | Marketplace de reciclaje                         | Como empresa, quiero vender o donar residuos reciclables a otros actores                         | 8                        |
+| 22      | US-023        | Panel para municipios                            | Como entidad pública, quiero ver datos agregados por distrito                                   | 5                        |
+| 23      | US-024        | Centro de aprendizaje ambiental                  | Como usuario, quiero aprender sobre sostenibilidad en videos o blogs                             | 3                        |
+| 24      | US-015        | Simulación de impacto ambiental                  | Como usuario, quiero ver una simulación del impacto ambiental de mis residuos                    | 3                        |
+| 25      | US-025        | Integración con APIs externas                    | Como desarrollador, quiero conectar CleanWind a otras plataformas                                | 5                        |
+| 26      | US-026        | Recomendaciones inteligentes                     | Como usuario, quiero recomendaciones personalizadas según mis datos                              | 5                        |
+| 27      | US-027        | Etiquetado de residuos                           | Como operario, quiero categorizar residuos desde un móvil                                        | 3                        |
+| 28      | US-028        | Control de almacenamiento de residuos peligrosos | Como empresa, quiero controlar residuos peligrosos con alertas                                  | 5                        |
+| 29      | US-029        | Seguimiento de huella de carbono                 | Como gerente, quiero ver cómo mis acciones reducen emisiones                                     | 3                        |
+| 30      | US-030        | Sistema de insignias por logros sostenibles      | Como usuario, quiero recibir insignias por hitos alcanzados                                      | 2                        |
+| 31      | US-031        | Escaneo de productos reciclables                 | Como ciudadano, quiero escanear un producto y saber si es reciclable                             | 3                        |
+| 32      | US-032        | Foro de comunidad ambiental                      | Como usuario, quiero compartir ideas y experiencias sobre sostenibilidad                         | 2                        |
+
