@@ -480,15 +480,62 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 CleanWind es una plataforma enfocada en la gestión sostenible de residuos. Para ofrecer una experiencia amigable y clara, se ha optado por un diseño visual limpio y funcional. Predominan colores fríos como el verde claro, verde oscuro, blanco y negro, transmitiendo compromiso ecológico y profesionalismo. El diseño prioriza la simplicidad, el orden y la accesibilidad, facilitando que cualquier usuario pueda interactuar con la plataforma de forma intuitiva y efectiva.
 
 ## 4.1.1. General Style Guidelines
-CleanWind emplea un diseño minimalista y moderno, centrado en la funcionalidad, la accesibilidad y la estética limpia. La interfaz combina los siguientes colores:
+CleanWiew emplea un diseño minimalista y moderno, centrado en la funcionalidad, la accesibilidad y la estética limpia. La interfaz combina los siguientes colores:
 
-- Fondo blanco (#FFFFFF): genera limpieza visual y mejora la legibilidad.
-- Texto negro (#000000): garantiza el contraste óptimo para facilitar la lectura.
-- Verde claro (#9FE7A4): utilizado en botones primarios y llamadas a la acción.
-- Verde oscuro (#00724D): usado en botones de interacción secundaria y elementos destacados.
+- Verde agua – #68D5BF (Fondo principal)
+Utilizado como color de fondo general. Refleja sostenibilidad, frescura y modernidad, alineándose con el enfoque ecológico del proyecto.
+
+- Blanco – #FFFFFF (Subfondo)
+Aplicado en tarjetas, bloques de contenido y secciones internas. Mejora la lectura, aporta limpieza visual y permite un buen contraste con el texto.
+
+- Negro – #000000 (Texto)
+Color principal del texto en toda la interfaz. Garantiza legibilidad óptima sobre cualquier fondo, manteniendo un estilo profesional y claro.
+
+- Celeste claro – #ACE0FA (Cuadros informativos destacados)
+Empleado en cajas de datos, estadísticas y elementos visuales destacados. Atrae la atención del usuario hacia información clave.
+
+- Turquesa suave – #6AD2D7 (Botones de interacción y alertas)
+Usado en botones y elementos interactivos. Agrega dinamismo visual y guía la acción del usuario de manera intuitiva.
+
+**Paleta de colores para CleanWind**
+![image](https://github.com/user-attachments/assets/f9c632d0-b44d-4d21-8613-11c48d7b1010)
 
 **Tipografía**
-La tipografía utilizada para CleanWind es Montserrat, seleccionada por su claridad y modernidad, asegurando que sea legible y adecuada para su uso tanto en personas adultas jóvenes, como en personas ancianas. La base de la tipografía es de 14.5px con un interlineado de 1.1. Además, se utiliza una escala con un ratio de 1.125 para ajustar los tamaños de la tipografía según las necesidades de la web, abarcando desde títulos, subtítulos hasta el cuerpo del texto.
+La tipografía utilizada para CleanWind es Poppins, seleccionada por su claridad y modernidad, asegurando que sea legible y adecuada para su uso tanto en personas adultas jóvenes, como en personas ancianas. La base de la tipografía es de 14.5px con un interlineado de 1.1. Además, se utiliza una escala con un ratio de 1.125 para ajustar los tamaños de la tipografía según las necesidades de la web, abarcando desde títulos, subtítulos hasta el cuerpo del texto.
+
+**Escala:**
+Base: 14.5px
+Ratio: 1.125
+Tipografía: Poppins
+Interlineado: 1.1
+
+**Weights:**
+- Delgado
+- Extra Fino
+- Fino
+- Normal
+- Mediano
+- Semi negrita
+- **Negrita**
+- **Extra negrita**
+- **Grueso**
+
+**Nomenclatura:**
+Nombre / Tamaño / Peso
+Título 0 / 20px / Medium
+
+**Ejemplo:**
+![image](https://github.com/user-attachments/assets/566b559c-bde0-4ca9-b61a-f69eb6b931de)
+
+**Branding e Icono:**
+El logo de CleanWind representa su compromiso con el medio ambiente mediante un diseño simple y simbólico. En el centro, se muestra un tacho de basura verde con un símbolo de reciclaje blanco, reflejando la gestión responsable de residuos. A los costados, hojas verdes refuerzan la conexión ecológica. Todo está enmarcado por círculos verdes, y sobre ellos se encuentra el nombre CleanWind en color verde. Este diseño transmite sostenibilidad, orden y conciencia ambiental de forma clara y visualmente amigable.
+
+![image](https://github.com/user-attachments/assets/612b96ac-0ef3-4768-84c1-b8dcb33ee716)
 
 ## 4.1.2. Web Style Guidelines
+La versión web de CleanWind está pensada para usuarios empresariales, con diseño responsivo, paneles modulares y visualizaciones claras de datos.
 
+- Diseño responsivo: la plataforma se adapta perfectamente a dispositivos móviles, tabletas y escritorio.
+- Hover Effects: los botones cambian de verde claro a verde oscuro al pasar el cursor.
+- Navbar superior: accesos a Inicio, Mi impacto, Reportes, Consejos y Soporte.
+- Animaciones suaves: transiciones sutiles al cambiar entre secciones o desplegar menús.
