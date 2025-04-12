@@ -482,7 +482,7 @@ CleanWind es una plataforma enfocada en la gestión sostenible de residuos. Para
 ## 4.1.1. General Style Guidelines
 CleanWiew emplea un diseño minimalista y moderno, centrado en la funcionalidad, la accesibilidad y la estética limpia. La interfaz combina los siguientes colores:
 
-- Verde agua – #68D5BF (Fondo principal)
+- Verde menta – #D9F2EF (Fondo principal)
 Utilizado como color de fondo general. Refleja sostenibilidad, frescura y modernidad, alineándose con el enfoque ecológico del proyecto.
 
 - Blanco – #FFFFFF (Subfondo)
@@ -491,14 +491,14 @@ Aplicado en tarjetas, bloques de contenido y secciones internas. Mejora la lectu
 - Negro – #000000 (Texto)
 Color principal del texto en toda la interfaz. Garantiza legibilidad óptima sobre cualquier fondo, manteniendo un estilo profesional y claro.
 
-- Celeste claro – #ACE0FA (Cuadros informativos destacados)
+- Verde azulado oscuro – #00A295 (Cuadros informativos destacados)
 Empleado en cajas de datos, estadísticas y elementos visuales destacados. Atrae la atención del usuario hacia información clave.
 
-- Turquesa suave – #6AD2D7 (Botones de interacción y alertas)
+- Verde menta brillante – #89E0B0 (Botones de interacción y alertas)
 Usado en botones y elementos interactivos. Agrega dinamismo visual y guía la acción del usuario de manera intuitiva.
 
 **Paleta de colores para CleanWind**
-![image](https://github.com/user-attachments/assets/f9c632d0-b44d-4d21-8613-11c48d7b1010)
+![image](https://github.com/user-attachments/assets/5e1d61e5-d554-4bd6-8ccd-79a5c5ca4f9b)
 
 **Tipografía**
 La tipografía utilizada para CleanWind es Poppins, seleccionada por su claridad y modernidad, asegurando que sea legible y adecuada para su uso tanto en personas adultas jóvenes, como en personas ancianas. La base de la tipografía es de 14.5px con un interlineado de 1.1. Además, se utiliza una escala con un ratio de 1.125 para ajustar los tamaños de la tipografía según las necesidades de la web, abarcando desde títulos, subtítulos hasta el cuerpo del texto.
