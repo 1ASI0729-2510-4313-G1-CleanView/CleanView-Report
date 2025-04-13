@@ -547,3 +547,44 @@ La versión web de CleanWind está pensada para usuarios empresariales, con dise
 - Hover Effects: los botones cambian de verde claro a verde oscuro al pasar el cursor.
 - Navbar superior: accesos a Inicio, Mi impacto, Reportes, Consejos y Soporte.
 - Animaciones suaves: transiciones sutiles al cambiar entre secciones o desplegar menús.
+
+## 4.2. Information Architecture.  
+La arquitectura de la información de CleanView busca ofrecer una experiencia fluida e intuitiva para dos tipos de usuarios: personas naturales y empresas. La organización y etiquetado de contenidos se diseñó para guiar al usuario de forma eficiente desde el registro hasta el aprovechamiento de todas las funcionalidades de la plataforma. Esto se logra a través de una combinación de jerarquías visuales claras, secuencias lógicas y categorizaciones adaptadas a cada audiencia.
+
+## 4.2.1. Organization Systems.  
+
+## 4.2.2. Labeling Systems.  
+**Landing Page:** 
+|Etiqueta| Descripción|
+|--------|------------|
+|Home| Presenta la propuesta de valor con una imagen representativa|
+|Join as a Company|Registro rápido enfocado a organizaciones y compañías|
+|Join as a User|Registro rápido enfocado a usuarios individuales|
+|Solutions|Muestra los beneficios y funcionalidades clave de CleanView de acuerdo a cada segmento objetivo|
+|¿How Work?|Explica paso a paso el proceso de uso, registro y operación  de acuerdo a cada segmento objetivo|
+|About Us| Breve de la misión y visión de CleanView|
+|Contact| Breve de la misión y visión de CleanView|
+|About Us| Formulario y medios de contacto directo con el equipo|
+|Log In| Botón de acceso a la plataforma para usuarios registrados|
+
+**App Web:** 
+
+|Etiqueta| Descripción|
+|--------|------------|
+|Inicio/ Dashboard| Muestra un resumen de actividad y alertas importantes|
+|Recojo |Solicitar, agendar o visualizar recojos de residuos|
+|Puntos de Acopio| Mapa interactivo con puntos de acopio y reciclaje|
+|Perfil| Edición de datos personales, preferencias y ubicación|
+|Cerrar Sesión| Salida segura de la plataforma|  
+|Recompensas| Acceso al sistema de puntos e incentivos ecológicos|
+|Tips Verdes|Consejos personalizados para reducir y reciclar mejor|
+|Panel de Control|Visualización de desempeño ambiental y seguimiento por sede|
+|Gestión de residuos|Registro detallado de residuos por tipo y volumen|
+|Recojo programado|Agendamiento y control de servicios de recolección|
+|Informes Ambientales|Generación de reportes por periodo, sede o categoría|
+
+## 4.2.3. SEO Tags and Meta Tags  
+
+## 4.2.4. Searching Systems.  
+
+## 4.2.5. Navigation Systems.  
