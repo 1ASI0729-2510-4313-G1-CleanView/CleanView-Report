@@ -370,19 +370,6 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 
 ![user persona 1 - segmento 2 - JMP 2](https://github.com/JKOlimpo/CleanView/blob/main/img/Journey%20map%202.png)
 
-### 2.3.4. Empathy Mapping
-![Empathy Mapping 1](https://github.com/JKOlimpo/CleanView/blob/833ad151a9b478ff48b214a388a50ddf0020ed85/img/Empathy%20Mapping%201.png)
-![Empathy Mapping -2](https://github.com/JKOlimpo/CleanView/blob/e5df12ba57658d28de4ca1aea7b273765c464a73/img/Empathy%20Mapping-2.png)
-
-### 2.3.5. As-is Scenario Mapping
-
->  Segmento 1 : Empresas
-
-![AS-IS Segmento 1](https://github.com/JKOlimpo/CleanView/blob/c4fe59115133d1f64908ec68993bf86c4bf7d23d/img/AS-IS%20-%20Segmento%201.jpg)
-
->Segmento 2 : Personas Naturales
-
-![AS-IS Segmento 2](https://github.com/JKOlimpo/CleanView/blob/c4fe59115133d1f64908ec68993bf86c4bf7d23d/img/AS-IS%20-%20Segmento%202.jpg)
 ## 2.4. Ubiquitous Language 
 
 
