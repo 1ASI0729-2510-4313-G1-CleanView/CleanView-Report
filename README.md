@@ -299,7 +299,7 @@ Cuando veamos con un sistema que envíe notificaciones sobre fechas de recolecci
 
 ### Competitive Analysis Landscape
 
-| **Perfil**               | **Categoría**                                      | **CleanWind** | **Comimtel** | **CARYMA** | **Ulloa** |
+| **Nombre de los Startups**               | **Categoría**                                      | **CleanWind** | **Comimtel** | **CARYMA** | **Ulloa** |
 |--------------------------|----------------------------------------------------|---------------|--------------|------------|-----------|
 | **Perfil**               | Overview                                           | Plataforma de gestión de residuos con estadísticas, recomendaciones y conexión a recicladoras. | Empresa especializada en tratamiento de RAEE. | Gestión integral de residuos sólidos peligrosos y no peligrosos. | Transporte y gestión de residuos peligrosos y no peligrosos a nivel industrial. |
 |                          | Ventaja competitiva / ¿Qué valor ofrece a los clientes?           | Interfaz digital, datos en tiempo real, alertas y trazabilidad. | Planta de valorización propia, experiencia en RAEE. | Registro EO-RS, cumplimiento legal y enfoque ambiental. | Certificaciones ISO y amplia cobertura logística. |
