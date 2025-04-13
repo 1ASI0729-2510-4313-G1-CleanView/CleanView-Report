@@ -335,43 +335,7 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 
 ## 2.3. Needfinding
 
-### 2.3.1. User Personas
 
->  Segmento 1 : Empresas
-
-![user persona 1 - segmento 1](https://github.com/JKOlimpo/CleanView/blob/main/img/User%20Persona-%20Segmento%202.png)
-
->  Segmento 2 : Personas Naturales
-
-![user persona 1 - segmento 2](https://github.com/JKOlimpo/CleanView/blob/main/img/User%20Persona%202%20-%20Segmento%202.png)
-
-### 2.3.2. User Task Matrix
-
-> Leonardo Dan
-
-| Actividades                                       | Frecuencia | Importancia |
-| --------------------------------------------------|------------|-------------|
-| Analizar datos en tiempo real                     | Diario     | Alto        |
-| Generar reportes de impacto ambiental             | Semanal    | Alto        |
-| Revisar cimplimiento de normativas ambientales    | Mensual    | Alto        |
-| Capacitar al equipo en uso de la app              | Diario     | Alto        |
- 
-> Diana Costa
-
-| Actividades                                       | Frecuencia | Importancia |
-| --------------------------------------------------|------------|-------------|
-| Registrar residuos diarios                        | Diario     | Alto        |
-| Monitorear el impacto ambiental                   | Semanal    | Alto        |
-| Compartir avances en redes sociales               | Mensual    | Medio       |
-| Recibir alertas de recolección                    | Diario     | Alto        |
-
-
- 
-### 2.3.3. User Journey Mapping
-
-![user persona 1 - segmento 1 - JMP 1](https://github.com/JKOlimpo/CleanView/blob/main/img/Journey%20map%201.png)
-
-![user persona 1 - segmento 2 - JMP 2](https://github.com/JKOlimpo/CleanView/blob/main/img/Journey%20map%202.png)
 
 ### 2.3.4. Empathy Mapping
 ![Empathy Mapping 1](https://github.com/JKOlimpo/CleanView/blob/833ad151a9b478ff48b214a388a50ddf0020ed85/img/Empathy%20Mapping%201.png)
