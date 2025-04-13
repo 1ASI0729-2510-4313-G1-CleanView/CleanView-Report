@@ -336,10 +336,6 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 
 ### 2.3.1. User Personas
 
->  Segmento 1 : Empresas
-
-![user persona 1 - segmento 1](https://github.com/JKOlimpo/CleanView/blob/main/img/User%20Persona-%20Segmento%202.png)
-
 >  Segmento 2 : Personas Naturales
 
 ![user persona 1 - segmento 2](https://github.com/JKOlimpo/CleanView/blob/main/img/User%20Persona%202%20-%20Segmento%202.png)
