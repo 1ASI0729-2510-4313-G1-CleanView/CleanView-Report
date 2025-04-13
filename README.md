@@ -389,6 +389,14 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 
 # Capítulo III : Requirements Specification 
 
+## 3.1. To-Be Scenario Mapping
+>  Segmento 1 : Empresas
+
+![TO-BE Segmento 1](https://github.com/JKOlimpo/CleanView/blob/b47c727e6fd4a4d59d1dd675a468e9aeba787303/img/TO-BE%20-%20Segmento%201.jpg)
+
+>Segmento 2 : Personas Naturales
+
+![TO-BE Segmento 2](https://github.com/JKOlimpo/CleanView/blob/5614947fd18c4e4b2412340d6bdd21dedbe92ebf/img/TO-BE%20-%20Segmento%202.jpg)
 
 
 ## 3.2. User Stories
