@@ -29,15 +29,28 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de la modificación |
-|--------|-------|-------|-------------------------------|
-|        |       |       |                               |
 
----
+| Version | Fecha      | Autor                    | Descripcion                                                                                                                                                                                                                                                                                 |
+| ------- | ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| TB1     |  |            |                                                                                                                                              |
+| TB1     |  |            |                                                                                                                                                         |
+| TB1     |  |  |                                                                        
 
 ## Project Report Collaboration Insights
 
-Repositorio del repositorio del **Project Report**: [)
+
+|  URL de la organización del proyecto  |          URL del repositorio del reporte          |
+| :-----------------------------------: | :-----------------------------------------------: | 
+| https://github.com/1ASI0729-2510-4313-G1-CleanView | https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report |
+
+| URL del repositorio de la landing page |
+:-----------------------------------------------:|
+|  https://github.com/Horizon-ManageWise/LandingPage |
+
+**URL LANDING PAGE DESPLEGADO**: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
+
+
+
 
 ---
 
