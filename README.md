@@ -299,16 +299,22 @@ Cuando veamos con un sistema que envíe notificaciones sobre fechas de recolecci
  **¿Por qué llevar a cabo este análisis?** 
  Para entender cómo se posiciona CleanWind frente a otros competidores en el mercado de soluciones sostenibles de gestión de residuos y detectar oportunidades de mejora o diferenciación.
 
- ### Competitive Analysis Landscape
+### 2.1.1. Análisis competitivo
 
-|Competencia                          | CleanWind                          | Comimtel                                   | CARYMA                               | Ulloa                                |
-|-------------------------------------|------------------------------------|--------------------------------------------|--------------------------------------|---------------------------------
-|**Precio**                           | Modelo freemium + premium ($15/mes) con reportes avanzados y automatización de recolecciones. | Servicios cotizados según tipo y volumen de RAEE, sin modelo de suscripción digital. | Tarifas bajo cotización. No incluye versiones gratuitas ni autoservicio digital. | Costos tradicionales por tipo de residuo y transporte, sin integración tecnológica. |
-|**Confiabilidad**                    | Alta confiabilidad gracias a IoT, validación de actividades, alertas inteligentes y trazabilidad completa. | Procesos estandarizados y confiables en valorización de RAEE, con planta propia. | Cumple con regulación ambiental nacional como EO-RS (Entidad Operadora de Residuos Sólidos). | Amplia experiencia (27+ años), certificaciones ISO y enfoque en residuos industriales. |
-|**Información**                      | Dashboard con métricas en tiempo real, análisis de tendencias y reportes automáticos. | Datos trazables pero sin acceso digital ni reportes automatizados. | Información técnica bajo solicitud, sin paneles web. | Manejo documentado tradicional, sin analítica automatizada. |
-|**Limitaciones**                     | Requiere conexión a internet y geolocalización habilitada. Plan freemium con acceso limitado. | Limitado a RAEE (residuos eléctricos y electrónicos). | No cuenta con herramientas tecnológicas avanzadas ni analítica predictiva. | Procesos no digitalizados ni automatizados; sin conectividad online. |
-|**Características Diferenciales**    |Plataforma web con monitoreo inteligente, mapa de reciclaje, alertas personalizadas, reportes de impacto y conexión con recicladores. | Especialización técnica en RAEE con planta de valorización. | Gestión completa de residuos con enfoque ambiental, pero sin plataforma digital. | Servicios logísticos especializados en residuos industriales, con cobertura nacional. |
+### Competitive Analysis Landscape
 
+| **Nombre de los Startups**               |                                       | **CleanWind** | **Comimtel** | **CARYMA** | **Ulloa** |
+|--------------------------|----------------------------------------------------|---------------|--------------|------------|-----------|
+| **Perfil**               | Overview                                           | Plataforma de gestión de residuos con estadísticas, recomendaciones y conexión a recicladoras. | Empresa especializada en tratamiento de RAEE. | Gestión integral de residuos sólidos peligrosos y no peligrosos. | Transporte y gestión de residuos peligrosos y no peligrosos a nivel industrial. |
+|                          | Ventaja competitiva / ¿Qué valor ofrece a los clientes?           | Interfaz digital, datos en tiempo real, alertas y trazabilidad. | Planta de valorización propia, experiencia en RAEE. | Registro EO-RS, cumplimiento legal y enfoque ambiental. | Certificaciones ISO y amplia cobertura logística. |
+| **Perfil de Marketing**  | Mercado objetivo                                   | Empresas medianas, grandes y ciudadanos conscientes. | Empresas tecnológicas y entidades públicas. | Empresas industriales y comercios que generan residuos. | Minería, construcción, energía, agroindustria. |
+|                          | Estrategias de marketing                           | Modelo freemium, redes sociales, alianzas con recicladoras. | Reputación en el sector y asesorías especializadas. | Servicios personalizados y compromiso ambiental. | Relación directa con empresas industriales y servicios a gran escala. |
+| **Perfil del Producto**  | Productos & Servicios                              | Plataforma web con monitoreo, mapas, reportes y recomendaciones. | Valorización y disposición de RAEE, reportes físicos. | Recolección, transporte y disposición de residuos, asesoría técnica. | Transporte, gestión y destrucción notarial. |
+|                          | Precios & Costos                                   | Freemium + Premium ($15/mes). | Cotización según tipo y volumen. | Cotización por tipo de residuo y servicio. | Tarifa según residuo y logística. |
+|                          | Canales de distribución (Web y/o Móvil)           | Web y móvil (en desarrollo). | Presencial y atención directa. | Presencial y atención por contacto. | Presencial con contacto por web corporativa. |
+| **Análisis SWOT**        | Fortalezas                                         | Digital, accesible, conexión con recicladoras, enfoque educativo. | Experiencia técnica y planta propia. | Certificación MINAM y enfoque ambiental. | Cobertura nacional y flota especializada. |
+|                          | Debilidades                                        | Proyecto en etapa inicial. | Limitado a RAEE. | Sin plataforma tecnológica. | Operación tradicional sin automatización digital. |
+|                          | Oportunidades                                      | Alianzas con municipalidades, integración con apps educativas. | Expansión en RAEE domiciliarios. | Adopción de tecnologías de monitoreo. | Digitalización y modernización de procesos. |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 Nuestra estrategia se basa en la diferenciación tecnológica y el uso de datos en tiempo real para optimizar la gestión de residuos en empresas. Así, nuestras tácticas clave son:
