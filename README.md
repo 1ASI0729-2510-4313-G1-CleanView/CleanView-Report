@@ -552,6 +552,25 @@ La versión web de CleanWind está pensada para usuarios empresariales, con dise
 La arquitectura de la información de CleanView busca ofrecer una experiencia fluida e intuitiva para dos tipos de usuarios: personas naturales y empresas. La organización y etiquetado de contenidos se diseñó para guiar al usuario de forma eficiente desde el registro hasta el aprovechamiento de todas las funcionalidades de la plataforma. Esto se logra a través de una combinación de jerarquías visuales claras, secuencias lógicas y categorizaciones adaptadas a cada audiencia.
 
 ## 4.2.1. Organization Systems.  
+El sistema de organización en CleanView ha sido diseñado para brindar una experiencia intuitiva y eficiente, diferenciando las necesidades de personas naturales y empresas. Aunque ambas audiencias acceden a secciones similares, el enfoque y la profundidad de acceso varía según el tipo de usuario.
+
+**Persona Natural**  
+Los usuarios personas acceden a una interfaz centrada en su historial de recolección y acciones sostenibles. Se utiliza una estructura jerárquica para resaltar primero la información más útil, como puntos acumulados o tips destacados del mes.
+
++ Inicio: Se organiza de manera matricial, ya que se muestran varios módulos visuales al mismo nivel: un tip destacado, el resumen de progreso, puntos de acopio cercanos y el estado actual de sus recompensas. Cada bloque tiene su función clara, y se disponen de manera visual en cuadrícula para facilitar la interacción rápida.
+
++ Recompensas: En la sección de Recompensas para persona natural se aplica un sistema de organización matricial, ya que el usuario puede visualizar en paralelo tanto las recompensas disponibles como sus puntos acumulados. Esta estructura permite comparar de forma inmediata lo que el usuario tiene con lo que puede obtener, favoreciendo la motivación y toma de decisiones. Las recompensas se presentan en tarjetas visuales con imágenes, descripciones y requisitos, mientras que los puntos acumulados se muestran como un resumen destacado en el mismo nivel jerárquico.
+
++ Acciones sostenibles: Visualmente se maneja con jerarquía, mostrando primero los tips destacados del mes. Ademas de organización por categoría de residuo (orgánico, reciclable, electrónico, etc.). Se presenta una lista de tips donde el usuario puede filtrar por tipo de residuo o usar la barra de búsqueda.
+
++ Puntos de acopio: Organización visual jerárquica, mostrando primero los puntos más cercanos al usuario, con posibilidad de filtrar por tipo de residuo, distrito y ver detalles. Se prioriza la proximidad como factor clave.
+
++ Reportes: Organización cronológica, mostrando el historial de recolección filtrado por mes y año. Se prioriza una visualización clara, empezando por el resumen mensual.
+
+**Empresas**  
+El segmento de empresas comparte varias secciones y estructuras organizativas con el de personas naturales, como Inicio, Acciones Sostenibles, Puntos de Acopio y Reportes, aplicando sistemas similares como la organización jerárquica en las recomendaciones, la categorización por tópicos y filtros personalizados. Sin embargo, el módulo para empresas incluye funcionalidades adicionales orientadas a la gestión operativa. Por ejemplo cuenta con la gestión de recolección automatizada, donde las empresas pueden contratar recolectoras que se activan cuando los sensores detectan que se alcanzó un umbral de residuos, optimizando así los tiempos de recolección. Ademas de reportes avanzados, que generan informes detallados, exportables en PDF o Excel, útiles para auditorías, certificaciones y análisis de eficiencia.  
+Se cuenta con la nueva sección de: 
++ Panel de Control: Vista general del estado actual de generación de residuos por zona, sensores activos, niveles de llenado y alertas. Esto tiene una organizacion de tipo matricial.
 
 ## 4.2.2. Labeling Systems.  
 **Landing Page:** 
@@ -572,19 +591,146 @@ La arquitectura de la información de CleanView busca ofrecer una experiencia fl
 |Etiqueta| Descripción|
 |--------|------------|
 |Inicio/ Dashboard| Muestra un resumen de actividad y alertas importantes|
-|Recojo |Solicitar, agendar o visualizar recojos de residuos|
-|Puntos de Acopio| Mapa interactivo con puntos de acopio y reciclaje|
+|Puntos de Acopio| Mapa interactivo con puntos de acopio cercanos, con sus datos. En empresas puedes observar los servicios contratados|
 |Perfil| Edición de datos personales, preferencias y ubicación|
 |Cerrar Sesión| Salida segura de la plataforma|  
 |Recompensas| Acceso al sistema de puntos e incentivos ecológicos|
-|Tips Verdes|Consejos personalizados para reducir y reciclar mejor|
-|Panel de Control|Visualización de desempeño ambiental y seguimiento por sede|
-|Gestión de residuos|Registro detallado de residuos por tipo y volumen|
-|Recojo programado|Agendamiento y control de servicios de recolección|
-|Informes Ambientales|Generación de reportes por periodo, sede o categoría|
+|Acciones Sostenibless|Visualización de tips, sugerencias y actividades ecológicas realizadas por el usuario|
+|Panel de Control| Seguimiento de residuos generados, alertas y zonas|
+|Reportes|	Historial de recolección para persona natural o reportes detallados para empresas.|
+|Añadir Zona|Permite agregar nuevas zonas de recolección de residuos.|
+|Añadir Sensor|Permite añadir sensores a las zonas para monitoreo de residuos en tiempo real.|
+|Contratar|Contratar servicios de recolección de residuos según el tipo.|
 
 ## 4.2.3. SEO Tags and Meta Tags  
 
+Para mejorar la visibilidad de CleanWide en los motores de búsqueda y atraer a los usuarios adecuados, se ha optado por definir los siguientes datos:
+
+**Landing Page**  
++ Title:
+  CleanWide - Plataforma de Gestión de Residuos y Limpieza para Espacios Compartidos
++ Meta Description: CleanWide es una plataforma innovadora que conecta personas y empresas para una gestión eficiente de la limpieza y el reciclaje de espacios compartidos. Facilita la recolección de residuos y el cumplimiento de prácticas sostenibles.
++ Keywords: gestión de residuos, limpieza de espacios compartidos, reciclaje, sostenibilidad, gestión de residuos urbanos, plataforma de limpieza, recolección de residuos, acciones sostenibles.
++ Author: CleanWide Team
+
+**Dashboard / Inicio**
++ Title: Dashboard de CleanWide - Resumen de Actividad y Progreso Ambiental
++ Meta Description: Accede a tu resumen de actividades y progreso en la recolección de residuos.
++ Keywords: dashboard, gestión de residuos, progreso ambiental, recolección de residuos, impacto ecológico.
++ Author: CleanWide Team
+
+**Puntos de Acopio**
++ Title: Puntos de Acopio de CleanWide - Encuentra Ubicaciones Cercanas para el Reciclaje
++ Meta Description: Consulta el mapa interactivo de puntos de acopio en tu área. Encuentra lugares cercanos para depositar tus residuos reciclables y contribuir al cuidado del medio ambiente.
++ Keywords: puntos de acopio, reciclaje, mapa de puntos de acopio, residuos reciclables, gestión de residuos.
++ Author: CleanWide Team
+
+**Acciones Sostenibles**
++ Title: Acciones Sostenibles en CleanWide - Iniciativas Ecológicas para Reducir Residuos
++ Meta Description: Descubre consejos prácticos y acciones sostenibles para reducir tu huella ecológica. Aprende a gestionar tus residuos de manera eficiente y contribuye a la sostenibilidad.
++ Keywords: acciones sostenibles, reducción de residuos, reciclaje, prácticas ecológicas, consejos sostenibles.
++ Author: CleanWide Team
+
+**Recompensas**
++ Title: Recompensas CleanWide - Acumula Puntos por Acciones Sostenibles
++ Meta Description: Acumula puntos por tus acciones sostenibles y accede a recompensas ecológicas. Incentivos para fomentar el reciclaje y la reducción de residuos en tu comunidad.
++ Keywords: recompensas, puntos sostenibles, incentivos ecológicos, reciclaje, recompensas por acciones sostenibles.
++ Author: CleanWide Team
+
+**Reportes**
++ Title: Reportes de Residuos CleanWide - Generación de Informes Detallados
++ Meta Description: Genera reportes detallados sobre la recolección de residuos, filtrados por mes y año. Descarga informes de tu progreso en la gestión de residuos y sostenibilidad.
++ Keywords: reportes, informes de residuos, generación de reportes, progreso de recolección, gestión de residuos, informes ambientales.
++ Author: CleanWide Team
+
+**Panel de Control** 
++ Title: Panel de Control CleanWide - Gestión Eficiente de Residuos en Empresas
++ Meta Description: Accede al panel de control de CleanWide para gestionar el rendimiento ambiental de tu empresa. Monitorea los puntos de acopio y el uso de sensores en tiempo real.
++ Keywords: panel de control, gestión empresarial de residuos, sensores de residuos, gestión de residuos en empresas, seguimiento de residuos.
++ Author: CleanWide Team
+
+
 ## 4.2.4. Searching Systems.  
 
+El sistema de búsqueda diseñado para CleanWide tiene como objetivo facilitar a los usuarios la localización eficiente de información clave relacionada con tareas de limpieza, mantenimiento, reportes y participación comunitaria. Este sistema está diseñado para minimizar la pérdida de tiempo y mejorar la experiencia general del usuario, brindando filtros específicos según el tipo de usuario (persona natural o empresa) y el tipo de actividad que desea consultar o gestionar.
+
+|Nombre del Filtro| Descripción|
+|--------|------------|
+|Buscar Acciones Sostenibles|Permite ingresar palabras clave para encontrar acciones sostenibles registradas. Los resultados se muestran con tarjetas que incluyen tips sostenibles y un boton para guardarlos. Ademas que se puede filtrar segun el tipo de residuo, como reciclaje, órganico, plástico.|
+|Filtrar Reportes por Mes y Año |Herramienta que permite al usuario visualizar sus reportes ambientales o de actividades filtrando por periodo específico.|
+|Buscar Puntos de Acopio |Campo de búsqueda que permite encontrar puntos de acopio por nombre, zona o tipo de residuo que reciben (plástico, vidrio, electrónicos, etc.). Incluye filtros por distrito y tipo de residuo.|
+
 ## 4.2.5. Navigation Systems.  
+El sistema de navegación de CleanView ha sido diseñado para facilitar el recorrido del usuario tanto en la Landing Page como dentro de la aplicación web, garantizando una experiencia fluida, eficiente y centrada en el cumplimiento de los objetivos del usuario. Se aplican principios de diseño centrado en el usuario y técnicas modernas de navegación que aseguran accesibilidad, claridad y mínimo esfuerzo cognitivo.
+
+**Landing Page - CleanWide**
+
++ Estructura:
+  Presentación general del propósito de CleanWide: conectar a usuarios y empresas en torno a la adecuada gestion de residuos.
++ Incluye acceso rápido a:
+   + Registro / Inicio de sesión (con roles de Usuario o Empresa).
+   + Información destacada sobre los beneficios del sistema.
+   + Seccion de contacto
++ Acción del Usuario: Cualquier visitante puede navegar por la landing page. Puede registrarse como empresa o persona natural.
+
+**Sección: Inicio**
++ Estructura:
+  + Muestra un resumen personalizado con una frase de bienvenida.
+  + Muestra un resumen de sus actividades.
+  + Organización matricial con tarjetas visuales.
+    
++ Acción del Usuario:
+   + Persona Natural: Puede ver su progreso, cuantos puntos le faltan para llegar a ciertas recompensas y puntos cercanos a su hogar.
+   + Empresa: Visualiza alertas del sistema y estadísticas rápidas.
+
+**Sección de Recompensas**
+
++ Estructura:
+   + Sección con visualización paralela de puntos acumulados y catálogo de recompensas disponibles.
+   + Diseño en tarjetas con filtros por categoría.
+
++ Acción del Usuario:
+   + Persona Natural: Puede canjear recompensas, revisar puntos y consultar requisitos.
+   + Empresa: No tiene acceso a esta sección (no aplica en su flujo).
+
+**Sección de Acciones Sostenibles**
+
++ Estructura:
+   + Lista filtrable de tips y sugerencias.
+   + Incluye barra de búsqueda.
+   + Tips destacados del mes
+
++ Acción del Usuario:
+   + Persona Natural: Puede visualizar, buscar segun sus intereses y guardar las mejores recomendaciones.
+   + Empresa:  Puede visualizar, buscar segun sus intereses y guardar las mejores recomendaciones. Esto esta mas enfocado a tips de gestion de residuos para empresas
+  
+**Sección de Puntos de Acopio**
+
++ Estructura:
+   + Mapa interactivo
+   + filtros por distrito y tipo de residuo.
+   + Incluye detalles de cada punto y servicios disponibles.
+
++ Acción del Usuario:
+    + Persona Natural: Puede ubicar puntos cercanos y filtrarlos por necesidades.
+    + Empresa: Puede visualizar puntos contratados y monitorear el estado de servicio. Ademas de poder visualizar otros puntos de acopio para poder contratarlos.
+      
+**Sección de Reportes**
++ Estructura:
+   + Historial de recolección con filtros por mes y año.
+   + Breve resumen de lo logrado
+
++ Acción del Usuario:
+    + Persona Natural: Consulta reportes simples de sus actividades. Ademas de ver un resumen de kilogramos de residuos 
+    + Empresa: Genera reportes detallados y exportables, útiles para auditorías o certificaciones.
+  
+**Sección de Panel de Control**
++ Estructura:
+   + Vista general de sensores
+   + Zonas de recolección y alertas
+   + Graficas de nivel de residuos
+
++ Acción del Usuario:
+    + Persona Natural: No tiene acceso a esta sección.
+    + Empresa: Supervisa en tiempo real el estado de sus zonas y sensores. Puede tomar decisiones y activar servicios desde aquí.
+  
