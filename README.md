@@ -382,7 +382,125 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 >Segmento 2 : Personas Naturales
 
 ![TO-BE Segmento 2](https://github.com/JKOlimpo/CleanView/blob/5614947fd18c4e4b2412340d6bdd21dedbe92ebf/img/TO-BE%20-%20Segmento%202.jpg)
-## 3.2. User Stories
+## 3.2. User Stories  
+
+**Épicas**  
+
+<table>
+  <tr>
+    <th colspan="2">Épica 1: Monitoreo y Gestión de Residuos en Tiempo Real</th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>Como</strong> usuario, <br/>
+      <strong>Quiero</strong> monitorear, recibir alertas y gestionar los residuos en tiempo real mediante sensores y zonas configurables, <br/>
+      <strong>Para</strong> tomar decisiones rápidas y evitar situaciones críticas o acumulaciones innecesarias de residuos.
+    </td>
+  </tr>
+  <tr>
+    <th>User Story ID</th><th>Título</th>
+  </tr>
+  <tr>
+    <td>US-001</td><td>Monitoreo de residuos en tiempo real</td>
+  </tr>
+  <tr>
+    <td>US-006</td><td>Alertas por umbrales críticos</td>
+  </tr>
+  <tr>
+    <td>US-011</td><td>Notificación por tipo de residuo</td>
+  </tr>
+  <tr>
+    <td>US-010</td><td>Integración con sensores IoT</td>
+  </tr>
+  <tr>
+    <td>US-020</td><td>Añadir nueva zona de monitoreo</td>
+  </tr>
+</table>
+<br/>
+<table>
+  <tr>
+    <th colspan="2">Épica 2: Análisis y Reportes de Gestión de Residuos</th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>Como</strong> usuario, <br/>
+      <strong>Quiero</strong> acceder a reportes detallados, comparar datos, evaluar avances y verificar acciones, <br/>
+      <strong>Para</strong> medir el impacto de las estrategias implementadas y optimizar la gestión de residuos a lo largo del tiempo.
+    </td>
+  </tr>
+  <tr>
+    <th>User Story ID</th>
+    <th>Título</th>
+  </tr>
+  <tr><td>US-002</td><td>Reporte detallado sobre residuos</td></tr>
+  <tr><td>US-007</td><td>Comparación entre periodos</td></tr>
+  <tr><td>US-008</td><td>Ranking interno de sostenibilidad</td></tr>
+  <tr><td>US-009</td><td>Exportación de reportes</td></tr>
+  <tr><td>US-015</td><td>Verificación de acciones sostenibles</td></tr>
+</table>
+<br/>
+<table>
+  <tr>
+    <th colspan="2">Épica 4: Integraciones y Automatización de Procesos</th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>Como</strong> usuario, <br/>
+      <strong>Quiero</strong> integrar sistemas externos, automatizar el recojo y contratar servicios de recolección, <br/>
+      <strong>Para</strong> reducir carga operativa manual y mejorar la eficiencia del sistema de gestión de residuos.
+    </td>
+  </tr>
+  <tr>
+    <th>User Story ID</th>
+    <th>Título</th>
+  </tr>
+  <tr><td>US-016</td><td>Integración con APIs externas</td></tr>
+  <tr><td>US-012</td><td>Servicio de recojo automático</td></tr>
+  <tr><td>US-019</td><td>Contratación de servicios de recolección​</td></tr>
+</table>
+<br/>
+<table>
+  <tr>
+    <th colspan="2">Épica 5: Educación y Concientización de Residuos</th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>Como</strong> usuario, <br/>
+      <strong>Quiero</strong> recibir consejos, interactuar con un chat de soporte y obtener recomendaciones inteligentes, <br/>
+      <strong>Para</strong> mejorar mis hábitos de manejo de residuos y contribuir de forma informada a la sostenibilidad.
+    </td>
+  </tr>
+  <tr>
+    <th>User Story ID</th>
+    <th>Título</th>
+  </tr>
+  <tr><td>US-004</td><td>Consejos para manejo de residuos</td></tr>
+  <tr><td>US-014</td><td>Chat de soporte ambiental</td></tr>
+  <tr><td>US-017</td><td>Recomendaciones inteligentes</td></tr>
+</table>
+<br/>
+<table>
+  <tr>
+    <th colspan="2">Épica 6: Facilitación del Reciclaje para Ciudadanos</th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>Como</strong> usuario, <br/>
+      <strong>Quiero</strong> conocer puntos de reciclaje cercanos, participar en actividades gamificadas y obtener insignias, <br/>
+      <strong>Para</strong> sentirme motivado a reciclar y hacer de la sostenibilidad una experiencia atractiva y participativa.
+    </td>
+  </tr>
+  <tr>
+    <th>User Story ID</th>
+    <th>Título</th>
+  </tr>
+  <tr><td>US-003</td><td>Puntos de reciclaje cercanos</td></tr>
+  <tr><td>US-005</td><td>Gamificación ecológica</td></tr>
+  <tr><td>US-018</td><td>Sistema de insignias por logros sostenibles</td></tr>
+</table>
+<br/>
+
+**User Stories**  
 
 | Epic / Story ID  | Título  | Descripción  | Criterios de Aceptación  | Relacionado con (Epic ID)  |
 |------------------|---------|--------------|---------------------------|-----------------------------|
