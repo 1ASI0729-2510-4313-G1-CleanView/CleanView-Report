@@ -411,6 +411,9 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 
 ## 3.3. Impact Mapping
 
+![Impact Mapping](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/Impact%20Mapping.jpg)
+> https://miro.com/welcomeonboard/NFZvdkRBQXJwLzdFTTM4OXNGSkQxOFpsSTFtQmE2bFVxYTJhMEw4YzhseXgxTFpVbDFLQnpydlUrdVNuM1ZCalF6U3Bha2g3dUhqeUsrbWtERUxFeVpjeFp5Z0xpTFR0Y0hzdFl2SkxITzBwQUo0T090VnNkaTJsUHdZODNlYUtyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=65294902373 
+
 ## 3.4. Product Backlog
 
 | # Orden | User Story Id | Título                                           | Descripción                                                                                      | Story Points (1/2/3/5/8) |
