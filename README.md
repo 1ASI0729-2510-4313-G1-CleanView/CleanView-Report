@@ -733,4 +733,52 @@ El sistema de navegación de CleanView ha sido diseñado para facilitar el recor
 + Acción del Usuario:
     + Persona Natural: No tiene acceso a esta sección.
     + Empresa: Supervisa en tiempo real el estado de sus zonas y sensores. Puede tomar decisiones y activar servicios desde aquí.
+
+
+## 4.3. Landing Page UI Design.  
+
+El diseño de la landing page de CleanWide se enfocó en ofrecer una experiencia clara, accesible y diferenciada para los dos públicos principales: personas naturales y empresas. Se organizó el contenido siguiendo principios de jerarquía visual y arquitectura de información orientada a la acción, priorizando el entendimiento inmediato de lo que ofrece la plataforma y cómo utilizarla según el perfil del visitante.
+
+## 4.3.1. Landing Page Wireframe.  
+La navegación principal está compuesta por secciones clave: Home, Solutions, How it works, About Us, Contact, y FAQs, complementadas con botones visibles de Login y Join us, permitiendo que los usuarios accedan fácilmente a su cuenta o se inscriban según su tipo (persona o empresa). Cada sección fue pensada para responder una pregunta esencial del usuario, con un enfoque progresivo: primero entender qué es CleanWide, luego cómo funciona y qué soluciones ofrece.
+
+**Desktop Web Browser**
+Se presentan las siguientes secciónes:
+
++ Navbar: Fijo en la parte superior con las secciones Home, Solutions, How it Works, About Us, Contact, FAQs, y botones de Login.
++ Hero Section: Mensaje central con eslogan claro, imagen representativa del manejo de residuos, y botones de llamada a la acción.
++ Solutions: Cards o bloques que explican las soluciones para personas y empresas, con imagenes y breve texto descriptivo.
++ How it Works: Cards con pasos visuales cada una con iconografía y texto que explica el proceso de uso.
++ About Us: Breve descripción CleanWide.
++ Contact & FAQs: Formulario simple de contacto y sección de preguntas frecuentes desplegables de facil acceso.
++ Footer: Información legal, enlaces rápidos y redes sociales.
++ ChatBot: Ícono flotante de acceso rápido ubicado en la esquina inferior derecha. Al hacer clic, se despliega una ventana de chat con preguntas automatizadas.
+
+![Desktop-Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/43b2ba8fe9df0424a75920d188c6342886690d7c/img/Desktop%20-%20Wireframe.png)
+
+  
+## 4.3.2. Landing Page Mock-up.   
+
+El mock-up presenta una interfaz limpia, moderna y funcional, organizada en una estructura vertical con navegación fija superior. Las secciones clave Home, Solutions, How it Works, About Us, Contact, FAQs se muestran claramente en el navbar, acompañado de botones para Login y Register. Visualmente, se utilizaron colores relacionados con sostenibilidad y limpieza, tipografías legibles y elementos gráficos que refuerzan la identidad del proyecto. Todos estos elementos gráficos con la paleta de colores hace que nuestra landing page se atractiva para nuestros usuarios.
+
+**Desktop Web Browser**    
+
+![Desktop-Mock-ups](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/239fa612ec07abfd42e888ed8485b71e2905100e/img/LandingPage-Mockup.png)
+
+
+## 4.4. Web Applications UX/UI Design.
+## 4.4.1. Web Applications Wireframes.
+## 4.4.2. Web Applications Wireflow Diagrams.
+## 4.4.2. Web Applications Mock-ups.
+## 4.4.3. Web Applications User Flow Diagrams.
+## 4.5. Web Applications Prototyping.
+## 4.6. Domain-Driven Software Architecture.
+## 4.6.1. Software Architecture Context Diagram.
+## 4.6.2. Software Architecture Container Diagrams.
+## 4.6.3. Software Architecture Components Diagrams.
+## 4.7. Software Object-Oriented Design.
+## 4.7.1. Class Diagrams.
+## 4.7.2. Class Dictionary.
+## 4.8. Database Design.
+## 4.8.1. Database Diagram.
   
