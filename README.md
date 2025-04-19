@@ -742,7 +742,7 @@ El diseño de la landing page de CleanWide se enfocó en ofrecer una experiencia
 ## 4.3.1. Landing Page Wireframe.  
 La navegación principal está compuesta por secciones clave: Home, Solutions, How it works, About Us, Contact, y FAQs, complementadas con botones visibles de Login y Join us, permitiendo que los usuarios accedan fácilmente a su cuenta o se inscriban según su tipo (persona o empresa). Cada sección fue pensada para responder una pregunta esencial del usuario, con un enfoque progresivo: primero entender qué es CleanWide, luego cómo funciona y qué soluciones ofrece.
 
-**Desktop Web Browser**
+**Desktop Web Browser**  
 Se presentan las siguientes secciónes:
 
 + Navbar: Fijo en la parte superior con las secciones Home, Solutions, How it Works, About Us, Contact, FAQs, y botones de Login.
@@ -756,12 +756,21 @@ Se presentan las siguientes secciónes:
 
 ![Desktop-Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/43b2ba8fe9df0424a75920d188c6342886690d7c/img/Desktop%20-%20Wireframe.png)
 
+**Mobile Web Browser**    
+
+En esta versión, se incorpora un menú tipo hamburguesa para optimizar el espacio en pantalla y asegurar una navegación clara y ordenada. Al desplegarse, este menú permite acceder a todas las secciones: Home, Solutions, How it Works, About Us, Contact y FAQs, junto con los botones.  
+
+![Mobile Web Browser-Menu-Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/2f3e7c492a716e6000042ff707dc7223401f169b/img/Mobile%20Web%20Browser-%20Menu-%20Wireframe.png)
+
+El mock-up para la versión móvil de CleanWide mantiene la misma estructura y contenido que su contraparte de escritorio, pero adaptado a un diseño responsive, ajustándose automáticamente al tamaño y resolución de dispositivos móviles.    
+
+![Mobile Web Browser-Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/2ba2946eaa61070586e6ede9f024bb62abc4fadb/img/Mobile%20Web%20Browser-%20Wireframes.png)
   
 ## 4.3.2. Landing Page Mock-up.   
 
 El mock-up presenta una interfaz limpia, moderna y funcional, organizada en una estructura vertical con navegación fija superior. Las secciones clave Home, Solutions, How it Works, About Us, Contact, FAQs se muestran claramente en el navbar, acompañado de botones para Login y Register. Visualmente, se utilizaron colores relacionados con sostenibilidad y limpieza, tipografías legibles y elementos gráficos que refuerzan la identidad del proyecto. Todos estos elementos gráficos con la paleta de colores hace que nuestra landing page se atractiva para nuestros usuarios.
 
-**Desktop Web Browser**    
+**Desktop Web Browser**  
 
 ![Desktop-Mock-ups](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/239fa612ec07abfd42e888ed8485b71e2905100e/img/LandingPage-Mockup.png)
 
