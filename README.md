@@ -776,7 +776,59 @@ El mock-up presenta una interfaz limpia, moderna y funcional, organizada en una 
 
 
 ## 4.4. Web Applications UX/UI Design.
-## 4.4.1. Web Applications Wireframes.
+## 4.4.1. Web Applications Wireframes.  
+La propuesta de wireframes para CleanWide fue desarrollada teniendo en cuenta los principios de usabilidad, diseño inclusivo, claridad visual y jerarquía informativa, con el fin de brindar una experiencia coherente, accesible y personalizada tanto para usuarios empresariales como personas naturales.
+
+La aplicación se estructura en seis secciones principales, accesibles desde una barra de navegación que varía en función del perfil del usuario. Estas secciones son: Inicio, Panel de Control / Recompensas, Acciones Sostenibles, Puntos de Acopio y Reportes.  
+
+**Inicio**  
+Esta sección ofrece un resumen general personalizado. Se prioriza la visibilidad inmediata de contenido relevante según el segmento.  
+
+Para personas naturales, muestra puntos cercanos a su hogar, un resumen de su progreso y algunas recompensas que puede obtener.
+
+![Inicio-PersonasNaturales-Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/b8ffcab709dc073c38c27f3978e1bccdc1a2f486/img/Inicio-PersonasNaturales-Wireframe.png)  
+
+Para empresas, se presentan indicadores clave sobre generación y manejo de residuos, como últimas alertas y resumen de residuos.   
+
+![Inicio-PersonasNaturales-Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/b8ffcab709dc073c38c27f3978e1bccdc1a2f486/img/Inicio-Empresas-Wireframe.png)  
+
+**Panel de Control (Empresas)**  
+El panel de control está orientado a facilitar la gestión de residuos empresariales, mostrando métricas, alertas sobre umbrales críticos y zonas. El diseño permite a los usuarios empresariales identificar oportunidades de mejora e impacto.
+
+![Panel de Control- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/cdb29cb3bcbacbda32576cc9fab3a9e1b32aa390/img/Panel%20de%20Control-%20Wireframe.png)  
+
+**Recompensas (Personas Naturales)**  
+Para usuarios individuales, esta sección promueve la gamificación ecológica, mostrando insignias obtenidas, puntos acumulados y recompensas disponibles. Se aplicaron elementos visuales atractivos e interactivos para reforzar la motivación del usuario.
+
+![Recompensas- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/505c24ea00f877114cdc925c334c60aa87512b12/img/Recompensas-%20Wireframe.png)  
+
+**Acciones Sostenibles**  
+Esta sección proporciona tips y recomendaciones con prácticas sostenibles. Aunque está disponible para ambos perfiles, el contenido se adapta: empresas reciben estrategias organizacionales, mientras que personas reciben consejos cotidianos y acciones personales. Todo orientado al correcto manejo de residuos.  
+
+![Acciones Sostenibles- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/c6cde8753fd4fd08920416b9e945dee71c01dc5f/img/Acciones%20Sostenibles-%20Wireframe.png)  
+
+**Puntos de Acopio**  
+Esta vista muestra un mapa interactivo y un listado de puntos cercanos para reciclaje y disposición de residuos. Incluye filtros por tipo de residuo y lugar. Se garantiza contraste adecuado, iconografía clara y compatibilidad con lectores de pantalla.
+
+Para personas naturales  
+
+![Puntos de Acopio- Persona- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/35e4eb66dfed96cb27448ab593951919dec099ff/img/Puntos%20de%20Acopio-%20Persona-%20Wireframe.png)  
+
+Para empresas, este añade la seccion de servicios contratados.  
+
+![Puntos de Acopio- Empresa- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/35e4eb66dfed96cb27448ab593951919dec099ff/img/Puntos%20de%20Acopio-%20Empresa-%20Wireframe.png)  
+
+**Reportes**  
+Ambos tipos de usuario acceden a reportes, pero con distinta profundidad y opciones. 
+
+Para personas naturales  
+
+![Reportes- Persona- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/8f40b1f68ab8ce2140f0dc542938444b377a7822/img/Reportes-%20Persona-%20Wireframe.png)  
+
+Para empresas
+
+![Reportes- Empresa- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/8f40b1f68ab8ce2140f0dc542938444b377a7822/img/Reportes-%20Empresa-%20Wireframe.png)  
+
 ## 4.4.2. Web Applications Wireflow Diagrams.
 ## 4.4.2. Web Applications Mock-ups.
 ## 4.4.3. Web Applications User Flow Diagrams.
