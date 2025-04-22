@@ -405,18 +405,20 @@ La entrevista a un empresario de una empresa en crecimiento permitió conocer c�
 
 ## 2.4. Ubiquitous Language
 
-Para garantizar una comunicación clara entre los miembros del equipo y asegurar que todos comprendan el funcionamiento de CleanWind, se ha definido el siguiente lenguaje común. Este glosario reúne términos clave utilizados en el dominio de gestión de residuos y dentro de la plataforma:
+En esta sección se presenta un glosario de términos clave relacionados al dominio de CleanWind: la gestión inteligente de residuos. Los términos están en inglés con su equivalente en español entre paréntesis. Las definiciones están redactadas en español y buscan facilitar una comunicación clara y compartida entre todos los miembros del equipo y los stakeholders del proyecto.
 
-| **Término**               | **Definición**                                                                 |
-|--------------------------|---------------------------------------------------------------------------------|
-| **Residuos**             | Materiales descartados por una empresa o persona, susceptibles de ser reciclados o eliminados. |
-| **Dashboard**            | Panel de control visual que muestra métricas y estadísticas sobre la generación de residuos. |
-| **Centro de reciclaje**  | Establecimiento encargado de recolectar y procesar residuos reciclables.       |
-| **Actividad de reciclaje** | Acción registrada por el usuario donde indica el tipo y cantidad de residuos gestionados. |
-| **Freemium**             | Plan gratuito con acceso limitado a funciones básicas de CleanWind.            |
-| **Premium**              | Plan de pago con acceso a funciones avanzadas como reportes detallados y automatización. |
-| **Impacto ambiental**    | Medición del efecto que los residuos generan en el medio ambiente, expresado en datos. |
-| **Notificaciones**       | Alertas configurables que informan al usuario sobre fechas de recolección u objetivos cumplidos. |
-| **Mapa de reciclaje**    | Herramienta visual que permite ubicar centros de reciclaje cercanos usando geolocalización. |
-| **Proveedor**            | Empresa o entidad encargada de recolectar y gestionar residuos.                |
+| **Término (EN)**        | **Término (ES)**             | **Definición**                                                                 |
+|-------------------------|------------------------------|---------------------------------------------------------------------------------|
+| **Waste**              | (Residuos)                   | Materiales descartados por una empresa o persona que pueden ser reciclados o eliminados. |
+| **Recycling Center**   | (Centro de reciclaje)        | Lugar especializado donde se reciben y procesan residuos reciclables.          |
+| **Dashboard**          | (Panel de control)           | Vista principal donde se presentan métricas, gráficas e información relevante sobre los residuos generados. |
+| **Recycling Activity** | (Actividad de reciclaje)     | Registro realizado por el usuario indicando el tipo y cantidad de residuo gestionado. |
+| **Impact Report**      | (Reporte de impacto)         | Documento que muestra el efecto ambiental de los residuos generados y gestionados. |
+| **Environmental Impact** | (Impacto ambiental)        | Consecuencias que las actividades humanas, como la generación de residuos, tienen sobre el medio ambiente. |
+| **Freemium**           | (Plan gratuito limitado)     | Modelo que permite a los usuarios acceder a funciones básicas sin costo.        |
+| **Premium Plan**       | (Plan premium)               | Versión paga de la plataforma con funcionalidades avanzadas.                   |
+| **Notification**       | (Notificación)               | Mensaje o alerta que informa al usuario sobre acciones a tomar o recordatorios importantes. |
+| **Recycling Map**      | (Mapa de reciclaje)          | Herramienta visual que permite ubicar centros de reciclaje cercanos al usuario. |
+| **Provider**           | (Proveedor)                  | Empresa o entidad que brinda servicios de recolección o reciclaje de residuos. |
+
 
