@@ -402,4 +402,21 @@ La entrevista a un empresario de una empresa en crecimiento permitió conocer c�
 >Segmento 2 : Personas Naturales
 
 ![AS-IS Segmento 2](https://github.com/JKOlimpo/CleanView/blob/c4fe59115133d1f64908ec68993bf86c4bf7d23d/img/AS-IS%20-%20Segmento%202.jpg)
-## 2.4. Ubiquitous Language 
+
+## 2.4. Ubiquitous Language
+
+Para garantizar una comunicación clara entre los miembros del equipo y asegurar que todos comprendan el funcionamiento de CleanWind, se ha definido el siguiente lenguaje común. Este glosario reúne términos clave utilizados en el dominio de gestión de residuos y dentro de la plataforma:
+
+| **Término**               | **Definición**                                                                 |
+|--------------------------|---------------------------------------------------------------------------------|
+| **Residuos**             | Materiales descartados por una empresa o persona, susceptibles de ser reciclados o eliminados. |
+| **Dashboard**            | Panel de control visual que muestra métricas y estadísticas sobre la generación de residuos. |
+| **Centro de reciclaje**  | Establecimiento encargado de recolectar y procesar residuos reciclables.       |
+| **Actividad de reciclaje** | Acción registrada por el usuario donde indica el tipo y cantidad de residuos gestionados. |
+| **Freemium**             | Plan gratuito con acceso limitado a funciones básicas de CleanWind.            |
+| **Premium**              | Plan de pago con acceso a funciones avanzadas como reportes detallados y automatización. |
+| **Impacto ambiental**    | Medición del efecto que los residuos generan en el medio ambiente, expresado en datos. |
+| **Notificaciones**       | Alertas configurables que informan al usuario sobre fechas de recolección u objetivos cumplidos. |
+| **Mapa de reciclaje**    | Herramienta visual que permite ubicar centros de reciclaje cercanos usando geolocalización. |
+| **Proveedor**            | Empresa o entidad encargada de recolectar y gestionar residuos.                |
+
