@@ -835,8 +835,17 @@ Para empresas
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
 ## 4.6.1. Software Architecture Context Diagram.
+
+![structurizr-92816-SystemContext-001](https://github.com/user-attachments/assets/9c004489-6281-4781-b610-71e5dc867cd1)
+
 ## 4.6.2. Software Architecture Container Diagrams.
+
+![structurizr-92816-Container-001](https://github.com/user-attachments/assets/5f7744fb-53ac-4ffc-acfe-c9271e041e0d)
+
 ## 4.6.3. Software Architecture Components Diagrams.
+
+![structurizr-92816-Component-001](https://github.com/user-attachments/assets/d2ba7246-8c86-492c-bae1-d41789c7ae7a)
+
 ## 4.7. Software Object-Oriented Design.
 ## 4.7.1. Class Diagrams.
 ## 4.7.2. Class Dictionary.
