@@ -829,6 +829,40 @@ Para empresas
 
 ![Reportes- Empresa- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/8f40b1f68ab8ce2140f0dc542938444b377a7822/img/Reportes-%20Empresa-%20Wireframe.png)  
 
+**Perfil de Usuario**  
+Ambos Usuarios acceden a un perfil, pero se les muestra una información distinta de acuerdo a la cuenta que escogieron crear.
+
+Para Personas Naturales
+
+![Natural User Profile](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/NaturalUserProfile.png)
+
+Para Empresas
+
+![Bussines User Profile](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/BussinesUserProfile.png)
+
+**LogIn de Usuario**  
+La vista de ambos usuarios es practicemente igual dentro del LogIn, lo que ayuda a diferenciar a ambos es el icono el cuál indeca si es o no una persona natural o empresa.
+
+Para Personas Naturales
+
+![Natural User LogIn](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/SignUpNU.png)
+
+Para Empresas
+
+![Bussines User LogIn](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/SigUpBU.png)
+
+**Registro de Usuario**  
+El usuario posee el mismo diseño en ambas ventanas de registo, pero se diferencian en la información que recibe de cada uno-
+
+Para Personas Naturales
+
+![Natural User Registered](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/SignInNU.png)
+
+Para Empresas
+
+![Bussines User Registered](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/SignInBU.png)
+
+
 ## 4.4.2. Web Applications Wireflow Diagrams.
 ## 4.4.2. Web Applications Mock-ups.
 ## 4.4.3. Web Applications User Flow Diagrams.
