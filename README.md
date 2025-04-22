@@ -341,8 +341,13 @@ Las entrevistas de usuarios para CleanWind tienen como objetivo principal compre
 ### 2.2.1 Diseño de entrevistas
 Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los diferentes segmentos de usuarios de CleanWind (empresas medianas, grandes empresas y ciudadanos interesados en reciclar), así como sus objetivos, características y principales desafíos. Se definieron los objetivos de la investigación, las preguntas clave y los temas a abordar durante cada entrevista.
 
-![entrevistas-1](https://github.com/user-attachments/assets/57cb9e34-cf67-458b-8fc5-b754c461b2f3)
-![entrevistas-2](https://github.com/user-attachments/assets/facdca92-c876-402a-968e-008e4612f5d0)
+![entrevistas-1](https://github.com/user-attachments/assets/55cdaafc-2db6-4e95-8e05-fd9f411be739)
+![entrevistas-2](https://github.com/user-attachments/assets/44290ea2-2cf7-4fbe-bfee-9313e3313101)
+
+### 2.2.3. Análisis de entrevistas.
+
+## Análisis del segmento de empresarios
+La entrevista a un empresario de una empresa en crecimiento permitió conocer cómo gestionan actualmente sus residuos y su apertura hacia soluciones tecnológicas. Actualmente, los residuos que generan son principalmente papeles y componentes electrónicos antiguos. Estos son almacenados temporalmente en un espacio físico dentro de la oficina, hasta que una persona externa acude mensualmente a recogerlos. Esta situación representa un desafío, ya que estos residuos ocupan espacio innecesario y generan incomodidad en el entorno de trabajo. El entrevistado consideró que una plataforma como CleanWind sería útil para recibir alertas o establecer límites visuales que indiquen cuándo gestionar la recolección, especialmente en empresas con jornadas laborales híbridas. Si bien no mantienen contacto directo con centros de reciclaje, recurren mensualmente a terceros para la recolección y venta de piezas electrónicas en desuso. Finalmente, el entrevistado mostró interés en recibir reportes mensuales sobre su impacto ambiental y reducción de costos, con el objetivo de utilizar esta información para tomar decisiones más sostenibles en el futuro.
 
 ## 2.3. Needfinding
 
