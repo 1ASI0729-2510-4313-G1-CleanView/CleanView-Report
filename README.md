@@ -344,7 +344,14 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 ![entrevistas-1](https://github.com/user-attachments/assets/55cdaafc-2db6-4e95-8e05-fd9f411be739)
 ![entrevistas-2](https://github.com/user-attachments/assets/44290ea2-2cf7-4fbe-bfee-9313e3313101)
 
+### 2.2.2 Registro de entrevistas
+
+Video de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EYdkH2BP16hCmVbjeXNVnmcBRZggWBN1BD-u5_knJIiqnQ?e=hTQWMM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ### 2.2.3. Análisis de entrevistas.
+
+## Analisis del segmento de Personas naturales
+Las entrevistas a los distintos ciudadanos aún se encuentra en una fase inicial o exploratoria del reciclaje doméstico, con una clara necesidad de orientación, motivación e infraestructura accesible. Sin embargo, presentan alta disposición a adoptar herramientas tecnológicas que faciliten la organización, el acceso a información, y refuercen su compromiso ambiental a través de estímulos constantes. CleanView tiene una gran oportunidad de posicionarse como un aliado cotidiano y educativo, siempre que logre adaptar su solución a la rutina y limitaciones de este tipo de usuario.
 
 ## Análisis del segmento de empresarios
 La entrevista a un empresario de una empresa en crecimiento permitió conocer cómo gestionan actualmente sus residuos y su apertura hacia soluciones tecnológicas. Actualmente, los residuos que generan son principalmente papeles y componentes electrónicos antiguos. Estos son almacenados temporalmente en un espacio físico dentro de la oficina, hasta que una persona externa acude mensualmente a recogerlos. Esta situación representa un desafío, ya que estos residuos ocupan espacio innecesario y generan incomodidad en el entorno de trabajo. El entrevistado consideró que una plataforma como CleanWind sería útil para recibir alertas o establecer límites visuales que indiquen cuándo gestionar la recolección, especialmente en empresas con jornadas laborales híbridas. Si bien no mantienen contacto directo con centros de reciclaje, recurren mensualmente a terceros para la recolección y venta de piezas electrónicas en desuso. Finalmente, el entrevistado mostró interés en recibir reportes mensuales sobre su impacto ambiental y reducción de costos, con el objetivo de utilizar esta información para tomar decisiones más sostenibles en el futuro.
