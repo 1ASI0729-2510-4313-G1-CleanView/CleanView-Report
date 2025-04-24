@@ -398,8 +398,6 @@ Cuando veamos con un sistema que envíe notificaciones sobre fechas de recolecci
  **¿Por qué llevar a cabo este análisis?** 
  Para entender cómo se posiciona CleanWind frente a otros competidores en el mercado de soluciones sostenibles de gestión de residuos y detectar oportunidades de mejora o diferenciación.
 
-### 2.1.1. Análisis competitivo
-
 ### Competitive Analysis Landscape
 
 | **Nombre de los Startups**               |                                       | **CleanWind** | **Comimtel** | **CARYMA** | **Ulloa** |
@@ -414,6 +412,7 @@ Cuando veamos con un sistema que envíe notificaciones sobre fechas de recolecci
 | **Análisis SWOT**        | Fortalezas                                         | Digital, accesible, conexión con recicladoras, enfoque educativo. | Experiencia técnica y planta propia. | Certificación MINAM y enfoque ambiental. | Cobertura nacional y flota especializada. |
 |                          | Debilidades                                        | Proyecto en etapa inicial. | Limitado a RAEE. | Sin plataforma tecnológica. | Operación tradicional sin automatización digital. |
 |                          | Oportunidades                                      | Alianzas con municipalidades, integración con apps educativas. | Expansión en RAEE domiciliarios. | Adopción de tecnologías de monitoreo. | Digitalización y modernización de procesos. |
+
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 Nuestra estrategia se basa en la diferenciación tecnológica y el uso de datos en tiempo real para optimizar la gestión de residuos en empresas. Así, nuestras tácticas clave son:
@@ -722,3 +721,550 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 | 21      | US-019        | Contratación de servicios de recolección         | **Como** empresa <br/> **Quiero** contratar servicios de recolección de residuos <br/> **Para** asegurar el recojo eficiente según mi necesidad.    | 8                        |
 | 22      | US-020        | Añadir nueva zona de monitoreo                   | **Como** empresario <br/> **Quiero** añadir una nueva zona de monitoreo con sensores <br/> **Para** gestionar y supervisar mejor los residuos en distintas áreas.  | 5                        |
 
+# Capítulo IV
+## 4.1 Style Guidelines
+CleanWind es una plataforma enfocada en la gestión sostenible de residuos. Para ofrecer una experiencia amigable y clara, se ha optado por un diseño visual limpio y funcional. Predominan colores fríos como el verde claro, verde oscuro, blanco y negro, transmitiendo compromiso ecológico y profesionalismo. El diseño prioriza la simplicidad, el orden y la accesibilidad, facilitando que cualquier usuario pueda interactuar con la plataforma de forma intuitiva y efectiva.
+
+## 4.1.1. General Style Guidelines
+CleanWiew emplea un diseño minimalista y moderno, centrado en la funcionalidad, la accesibilidad y la estética limpia. La interfaz combina los siguientes colores:
+
+- Verde menta – #D9F2EF (Fondo principal)
+Utilizado como color de fondo general. Refleja sostenibilidad, frescura y modernidad, alineándose con el enfoque ecológico del proyecto.
+
+- Blanco – #FFFFFF (Subfondo)
+Aplicado en tarjetas, bloques de contenido y secciones internas. Mejora la lectura, aporta limpieza visual y permite un buen contraste con el texto.
+
+- Negro – #000000 (Texto)
+Color principal del texto en toda la interfaz. Garantiza legibilidad óptima sobre cualquier fondo, manteniendo un estilo profesional y claro.
+
+- Verde azulado oscuro – #00A295 (Cuadros informativos destacados)
+Empleado en cajas de datos, estadísticas y elementos visuales destacados. Atrae la atención del usuario hacia información clave.
+
+- Verde menta brillante – #89E0B0 (Botones de interacción y alertas)
+Usado en botones y elementos interactivos. Agrega dinamismo visual y guía la acción del usuario de manera intuitiva.
+
+**Paleta de colores para CleanWind**
+![image](https://github.com/user-attachments/assets/5e1d61e5-d554-4bd6-8ccd-79a5c5ca4f9b)
+
+**Tipografía**
+La tipografía utilizada para CleanWind es Poppins, seleccionada por su claridad y modernidad, asegurando que sea legible y adecuada para su uso tanto en personas adultas jóvenes, como en personas ancianas. La base de la tipografía es de 14.5px con un interlineado de 1.1. Además, se utiliza una escala con un ratio de 1.125 para ajustar los tamaños de la tipografía según las necesidades de la web, abarcando desde títulos, subtítulos hasta el cuerpo del texto.
+
+**Escala:**
+Base: 14.5px
+Ratio: 1.125
+Tipografía: Poppins
+Interlineado: 1.1
+
+**Weights:**
+- Delgado
+- Extra Fino
+- Fino
+- Normal
+- Mediano
+- Semi negrita
+- **Negrita**
+- **Extra negrita**
+- **Grueso**
+
+**Nomenclatura:**
+Nombre / Tamaño / Peso
+Título 0 / 20px / Medium
+
+**Ejemplo:**
+![image](https://github.com/user-attachments/assets/566b559c-bde0-4ca9-b61a-f69eb6b931de)
+
+**Branding e Icono:**
+El logo de CleanWind representa su compromiso con el medio ambiente mediante un diseño simple y simbólico. En el centro, se muestra un tacho de basura verde con un símbolo de reciclaje blanco, reflejando la gestión responsable de residuos. A los costados, hojas verdes refuerzan la conexión ecológica. Todo está enmarcado por círculos verdes, y sobre ellos se encuentra el nombre CleanWind en color verde. Este diseño transmite sostenibilidad, orden y conciencia ambiental de forma clara y visualmente amigable.
+
+![image](https://github.com/user-attachments/assets/612b96ac-0ef3-4768-84c1-b8dcb33ee716)
+
+## 4.1.2. Web Style Guidelines
+La versión web de CleanWind está pensada para usuarios empresariales, con diseño responsivo, paneles modulares y visualizaciones claras de datos.
+
+- Diseño responsivo: la plataforma se adapta perfectamente a dispositivos móviles, tabletas y escritorio.
+- Hover Effects: los botones cambian de verde claro a verde oscuro al pasar el cursor.
+- Navbar superior: accesos a Inicio, Mi impacto, Reportes, Consejos y Soporte.
+- Animaciones suaves: transiciones sutiles al cambiar entre secciones o desplegar menús.
+
+## 4.2. Information Architecture.  
+La arquitectura de la información de CleanView busca ofrecer una experiencia fluida e intuitiva para dos tipos de usuarios: personas naturales y empresas. La organización y etiquetado de contenidos se diseñó para guiar al usuario de forma eficiente desde el registro hasta el aprovechamiento de todas las funcionalidades de la plataforma. Esto se logra a través de una combinación de jerarquías visuales claras, secuencias lógicas y categorizaciones adaptadas a cada audiencia.
+
+## 4.2.1. Organization Systems.  
+El sistema de organización en CleanView ha sido diseñado para brindar una experiencia intuitiva y eficiente, diferenciando las necesidades de personas naturales y empresas. Aunque ambas audiencias acceden a secciones similares, el enfoque y la profundidad de acceso varía según el tipo de usuario.
+
+**Persona Natural**  
+Los usuarios personas acceden a una interfaz centrada en su historial de recolección y acciones sostenibles. Se utiliza una estructura jerárquica para resaltar primero la información más útil, como puntos acumulados o tips destacados del mes.
+
++ Inicio: Se organiza de manera matricial, ya que se muestran varios módulos visuales al mismo nivel: un tip destacado, el resumen de progreso, puntos de acopio cercanos y el estado actual de sus recompensas. Cada bloque tiene su función clara, y se disponen de manera visual en cuadrícula para facilitar la interacción rápida.
+
++ Recompensas: En la sección de Recompensas para persona natural se aplica un sistema de organización matricial, ya que el usuario puede visualizar en paralelo tanto las recompensas disponibles como sus puntos acumulados. Esta estructura permite comparar de forma inmediata lo que el usuario tiene con lo que puede obtener, favoreciendo la motivación y toma de decisiones. Las recompensas se presentan en tarjetas visuales con imágenes, descripciones y requisitos, mientras que los puntos acumulados se muestran como un resumen destacado en el mismo nivel jerárquico.
+
++ Acciones sostenibles: Visualmente se maneja con jerarquía, mostrando primero los tips destacados del mes. Ademas de organización por categoría de residuo (orgánico, reciclable, electrónico, etc.). Se presenta una lista de tips donde el usuario puede filtrar por tipo de residuo o usar la barra de búsqueda.
+
++ Puntos de acopio: Organización visual jerárquica, mostrando primero los puntos más cercanos al usuario, con posibilidad de filtrar por tipo de residuo, distrito y ver detalles. Se prioriza la proximidad como factor clave.
+
++ Reportes: Organización cronológica, mostrando el historial de recolección filtrado por mes y año. Se prioriza una visualización clara, empezando por el resumen mensual.
+
+**Empresas**  
+El segmento de empresas comparte varias secciones y estructuras organizativas con el de personas naturales, como Inicio, Acciones Sostenibles, Puntos de Acopio y Reportes, aplicando sistemas similares como la organización jerárquica en las recomendaciones, la categorización por tópicos y filtros personalizados. Sin embargo, el módulo para empresas incluye funcionalidades adicionales orientadas a la gestión operativa. Por ejemplo cuenta con la gestión de recolección automatizada, donde las empresas pueden contratar recolectoras que se activan cuando los sensores detectan que se alcanzó un umbral de residuos, optimizando así los tiempos de recolección. Ademas de reportes avanzados, que generan informes detallados, exportables en PDF o Excel, útiles para auditorías, certificaciones y análisis de eficiencia.  
+Se cuenta con la nueva sección de: 
++ Panel de Control: Vista general del estado actual de generación de residuos por zona, sensores activos, niveles de llenado y alertas. Esto tiene una organizacion de tipo matricial.
+
+## 4.2.2. Labeling Systems.  
+**Landing Page:** 
+|Etiqueta| Descripción|
+|--------|------------|
+|Home| Presenta la propuesta de valor con una imagen representativa|
+|Join as a Company|Registro rápido enfocado a organizaciones y compañías|
+|Join as a User|Registro rápido enfocado a usuarios individuales|
+|Solutions|Muestra los beneficios y funcionalidades clave de CleanView de acuerdo a cada segmento objetivo|
+|¿How Work?|Explica paso a paso el proceso de uso, registro y operación  de acuerdo a cada segmento objetivo|
+|About Us| Breve de la misión y visión de CleanView|
+|Contact| Breve de la misión y visión de CleanView|
+|About Us| Formulario y medios de contacto directo con el equipo|
+|Log In| Botón de acceso a la plataforma para usuarios registrados|
+
+**App Web:** 
+
+|Etiqueta| Descripción|
+|--------|------------|
+|Inicio/ Dashboard| Muestra un resumen de actividad y alertas importantes|
+|Puntos de Acopio| Mapa interactivo con puntos de acopio cercanos, con sus datos. En empresas puedes observar los servicios contratados|
+|Perfil| Edición de datos personales, preferencias y ubicación|
+|Cerrar Sesión| Salida segura de la plataforma|  
+|Recompensas| Acceso al sistema de puntos e incentivos ecológicos|
+|Acciones Sostenibless|Visualización de tips, sugerencias y actividades ecológicas realizadas por el usuario|
+|Panel de Control| Seguimiento de residuos generados, alertas y zonas|
+|Reportes|	Historial de recolección para persona natural o reportes detallados para empresas.|
+|Añadir Zona|Permite agregar nuevas zonas de recolección de residuos.|
+|Añadir Sensor|Permite añadir sensores a las zonas para monitoreo de residuos en tiempo real.|
+|Contratar|Contratar servicios de recolección de residuos según el tipo.|
+
+## 4.2.3. SEO Tags and Meta Tags  
+
+Para mejorar la visibilidad de CleanWide en los motores de búsqueda y atraer a los usuarios adecuados, se ha optado por definir los siguientes datos:
+
+**Landing Page**  
++ Title:
+  CleanWide - Plataforma de Gestión de Residuos y Limpieza para Espacios Compartidos
++ Meta Description: CleanWide es una plataforma innovadora que conecta personas y empresas para una gestión eficiente de la limpieza y el reciclaje de espacios compartidos. Facilita la recolección de residuos y el cumplimiento de prácticas sostenibles.
++ Keywords: gestión de residuos, limpieza de espacios compartidos, reciclaje, sostenibilidad, gestión de residuos urbanos, plataforma de limpieza, recolección de residuos, acciones sostenibles.
++ Author: CleanWide Team
+
+**Dashboard / Inicio**
++ Title: Dashboard de CleanWide - Resumen de Actividad y Progreso Ambiental
++ Meta Description: Accede a tu resumen de actividades y progreso en la recolección de residuos.
++ Keywords: dashboard, gestión de residuos, progreso ambiental, recolección de residuos, impacto ecológico.
++ Author: CleanWide Team
+
+**Puntos de Acopio**
++ Title: Puntos de Acopio de CleanWide - Encuentra Ubicaciones Cercanas para el Reciclaje
++ Meta Description: Consulta el mapa interactivo de puntos de acopio en tu área. Encuentra lugares cercanos para depositar tus residuos reciclables y contribuir al cuidado del medio ambiente.
++ Keywords: puntos de acopio, reciclaje, mapa de puntos de acopio, residuos reciclables, gestión de residuos.
++ Author: CleanWide Team
+
+**Acciones Sostenibles**
++ Title: Acciones Sostenibles en CleanWide - Iniciativas Ecológicas para Reducir Residuos
++ Meta Description: Descubre consejos prácticos y acciones sostenibles para reducir tu huella ecológica. Aprende a gestionar tus residuos de manera eficiente y contribuye a la sostenibilidad.
++ Keywords: acciones sostenibles, reducción de residuos, reciclaje, prácticas ecológicas, consejos sostenibles.
++ Author: CleanWide Team
+
+**Recompensas**
++ Title: Recompensas CleanWide - Acumula Puntos por Acciones Sostenibles
++ Meta Description: Acumula puntos por tus acciones sostenibles y accede a recompensas ecológicas. Incentivos para fomentar el reciclaje y la reducción de residuos en tu comunidad.
++ Keywords: recompensas, puntos sostenibles, incentivos ecológicos, reciclaje, recompensas por acciones sostenibles.
++ Author: CleanWide Team
+
+**Reportes**
++ Title: Reportes de Residuos CleanWide - Generación de Informes Detallados
++ Meta Description: Genera reportes detallados sobre la recolección de residuos, filtrados por mes y año. Descarga informes de tu progreso en la gestión de residuos y sostenibilidad.
++ Keywords: reportes, informes de residuos, generación de reportes, progreso de recolección, gestión de residuos, informes ambientales.
++ Author: CleanWide Team
+
+**Panel de Control** 
++ Title: Panel de Control CleanWide - Gestión Eficiente de Residuos en Empresas
++ Meta Description: Accede al panel de control de CleanWide para gestionar el rendimiento ambiental de tu empresa. Monitorea los puntos de acopio y el uso de sensores en tiempo real.
++ Keywords: panel de control, gestión empresarial de residuos, sensores de residuos, gestión de residuos en empresas, seguimiento de residuos.
++ Author: CleanWide Team
+
+
+## 4.2.4. Searching Systems.  
+
+El sistema de búsqueda diseñado para CleanWide tiene como objetivo facilitar a los usuarios la localización eficiente de información clave relacionada con tareas de limpieza, mantenimiento, reportes y participación comunitaria. Este sistema está diseñado para minimizar la pérdida de tiempo y mejorar la experiencia general del usuario, brindando filtros específicos según el tipo de usuario (persona natural o empresa) y el tipo de actividad que desea consultar o gestionar.
+
+|Nombre del Filtro| Descripción|
+|--------|------------|
+|Buscar Acciones Sostenibles|Permite ingresar palabras clave para encontrar acciones sostenibles registradas. Los resultados se muestran con tarjetas que incluyen tips sostenibles y un boton para guardarlos. Ademas que se puede filtrar segun el tipo de residuo, como reciclaje, órganico, plástico.|
+|Filtrar Reportes por Mes y Año |Herramienta que permite al usuario visualizar sus reportes ambientales o de actividades filtrando por periodo específico.|
+|Buscar Puntos de Acopio |Campo de búsqueda que permite encontrar puntos de acopio por nombre, zona o tipo de residuo que reciben (plástico, vidrio, electrónicos, etc.). Incluye filtros por distrito y tipo de residuo.|
+
+## 4.2.5. Navigation Systems.  
+El sistema de navegación de CleanView ha sido diseñado para facilitar el recorrido del usuario tanto en la Landing Page como dentro de la aplicación web, garantizando una experiencia fluida, eficiente y centrada en el cumplimiento de los objetivos del usuario. Se aplican principios de diseño centrado en el usuario y técnicas modernas de navegación que aseguran accesibilidad, claridad y mínimo esfuerzo cognitivo.
+
+**Landing Page - CleanWide**
+
++ Estructura:
+  Presentación general del propósito de CleanWide: conectar a usuarios y empresas en torno a la adecuada gestion de residuos.
++ Incluye acceso rápido a:
+   + Registro / Inicio de sesión (con roles de Usuario o Empresa).
+   + Información destacada sobre los beneficios del sistema.
+   + Seccion de contacto
++ Acción del Usuario: Cualquier visitante puede navegar por la landing page. Puede registrarse como empresa o persona natural.
+
+**Sección: Inicio**
++ Estructura:
+  + Muestra un resumen personalizado con una frase de bienvenida.
+  + Muestra un resumen de sus actividades.
+  + Organización matricial con tarjetas visuales.
+    
++ Acción del Usuario:
+   + Persona Natural: Puede ver su progreso, cuantos puntos le faltan para llegar a ciertas recompensas y puntos cercanos a su hogar.
+   + Empresa: Visualiza alertas del sistema y estadísticas rápidas.
+
+**Sección de Recompensas**
+
++ Estructura:
+   + Sección con visualización paralela de puntos acumulados y catálogo de recompensas disponibles.
+   + Diseño en tarjetas con filtros por categoría.
+
++ Acción del Usuario:
+   + Persona Natural: Puede canjear recompensas, revisar puntos y consultar requisitos.
+   + Empresa: No tiene acceso a esta sección (no aplica en su flujo).
+
+**Sección de Acciones Sostenibles**
+
++ Estructura:
+   + Lista filtrable de tips y sugerencias.
+   + Incluye barra de búsqueda.
+   + Tips destacados del mes
+
++ Acción del Usuario:
+   + Persona Natural: Puede visualizar, buscar segun sus intereses y guardar las mejores recomendaciones.
+   + Empresa:  Puede visualizar, buscar segun sus intereses y guardar las mejores recomendaciones. Esto esta mas enfocado a tips de gestion de residuos para empresas
+  
+**Sección de Puntos de Acopio**
+
++ Estructura:
+   + Mapa interactivo
+   + filtros por distrito y tipo de residuo.
+   + Incluye detalles de cada punto y servicios disponibles.
+
++ Acción del Usuario:
+    + Persona Natural: Puede ubicar puntos cercanos y filtrarlos por necesidades.
+    + Empresa: Puede visualizar puntos contratados y monitorear el estado de servicio. Ademas de poder visualizar otros puntos de acopio para poder contratarlos.
+      
+**Sección de Reportes**
++ Estructura:
+   + Historial de recolección con filtros por mes y año.
+   + Breve resumen de lo logrado
+
++ Acción del Usuario:
+    + Persona Natural: Consulta reportes simples de sus actividades. Ademas de ver un resumen de kilogramos de residuos 
+    + Empresa: Genera reportes detallados y exportables, útiles para auditorías o certificaciones.
+  
+**Sección de Panel de Control**
++ Estructura:
+   + Vista general de sensores
+   + Zonas de recolección y alertas
+   + Graficas de nivel de residuos
+
++ Acción del Usuario:
+    + Persona Natural: No tiene acceso a esta sección.
+    + Empresa: Supervisa en tiempo real el estado de sus zonas y sensores. Puede tomar decisiones y activar servicios desde aquí.
+
+
+## 4.3. Landing Page UI Design.  
+
+El diseño de la landing page de CleanWide se enfocó en ofrecer una experiencia clara, accesible y diferenciada para los dos públicos principales: personas naturales y empresas. Se organizó el contenido siguiendo principios de jerarquía visual y arquitectura de información orientada a la acción, priorizando el entendimiento inmediato de lo que ofrece la plataforma y cómo utilizarla según el perfil del visitante.
+
+## 4.3.1. Landing Page Wireframe.  
+La navegación principal está compuesta por secciones clave: Home, Solutions, How it works, About Us, Contact, y FAQs, complementadas con botones visibles de Login y Join us, permitiendo que los usuarios accedan fácilmente a su cuenta o se inscriban según su tipo (persona o empresa). Cada sección fue pensada para responder una pregunta esencial del usuario, con un enfoque progresivo: primero entender qué es CleanWide, luego cómo funciona y qué soluciones ofrece.
+
+**Desktop Web Browser**  
+Se presentan las siguientes secciónes:
+
++ Navbar: Fijo en la parte superior con las secciones Home, Solutions, How it Works, About Us, Contact, FAQs, y botones de Login.
++ Hero Section: Mensaje central con eslogan claro, imagen representativa del manejo de residuos, y botones de llamada a la acción.
++ Solutions: Cards o bloques que explican las soluciones para personas y empresas, con imagenes y breve texto descriptivo.
++ How it Works: Cards con pasos visuales cada una con iconografía y texto que explica el proceso de uso.
++ About Us: Breve descripción CleanWide.
++ Contact & FAQs: Formulario simple de contacto y sección de preguntas frecuentes desplegables de facil acceso.
++ Footer: Información legal, enlaces rápidos y redes sociales.
++ ChatBot: Ícono flotante de acceso rápido ubicado en la esquina inferior derecha. Al hacer clic, se despliega una ventana de chat con preguntas automatizadas.
+
+![Desktop-Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/43b2ba8fe9df0424a75920d188c6342886690d7c/img/Desktop%20-%20Wireframe.png)
+
+**Mobile Web Browser**    
+
+En esta versión, se incorpora un menú tipo hamburguesa para optimizar el espacio en pantalla y asegurar una navegación clara y ordenada. Al desplegarse, este menú permite acceder a todas las secciones: Home, Solutions, How it Works, About Us, Contact y FAQs, junto con los botones.  
+
+![Mobile Web Browser-Menu-Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/2f3e7c492a716e6000042ff707dc7223401f169b/img/Mobile%20Web%20Browser-%20Menu-%20Wireframe.png)
+
+El mock-up para la versión móvil de CleanWide mantiene la misma estructura y contenido que su contraparte de escritorio, pero adaptado a un diseño responsive, ajustándose automáticamente al tamaño y resolución de dispositivos móviles.    
+
+![Mobile Web Browser-Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/2ba2946eaa61070586e6ede9f024bb62abc4fadb/img/Mobile%20Web%20Browser-%20Wireframes.png)
+  
+## 4.3.2. Landing Page Mock-up.   
+
+El mock-up presenta una interfaz limpia, moderna y funcional, organizada en una estructura vertical con navegación fija superior. Las secciones clave Home, Solutions, How it Works, About Us, Contact, FAQs se muestran claramente en el navbar, acompañado de botones para Login y Register. Visualmente, se utilizaron colores relacionados con sostenibilidad y limpieza, tipografías legibles y elementos gráficos que refuerzan la identidad del proyecto. Todos estos elementos gráficos con la paleta de colores hace que nuestra landing page se atractiva para nuestros usuarios.
+
+**Desktop Web Browser**  
+
+![Desktop-Mock-ups](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/239fa612ec07abfd42e888ed8485b71e2905100e/img/LandingPage-Mockup.png)
+
+
+## 4.4. Web Applications UX/UI Design.
+## 4.4.1. Web Applications Wireframes.  
+La propuesta de wireframes para CleanWide fue desarrollada teniendo en cuenta los principios de usabilidad, diseño inclusivo, claridad visual y jerarquía informativa, con el fin de brindar una experiencia coherente, accesible y personalizada tanto para usuarios empresariales como personas naturales.
+
+La aplicación se estructura en seis secciones principales, accesibles desde una barra de navegación que varía en función del perfil del usuario. Estas secciones son: Inicio, Panel de Control / Recompensas, Acciones Sostenibles, Puntos de Acopio y Reportes.  
+
+**Inicio**  
+Esta sección ofrece un resumen general personalizado. Se prioriza la visibilidad inmediata de contenido relevante según el segmento.  
+
+Para personas naturales, muestra puntos cercanos a su hogar, un resumen de su progreso y algunas recompensas que puede obtener.
+
+![Inicio-PersonasNaturales-Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/b8ffcab709dc073c38c27f3978e1bccdc1a2f486/img/Inicio-PersonasNaturales-Wireframe.png)  
+
+Para empresas, se presentan indicadores clave sobre generación y manejo de residuos, como últimas alertas y resumen de residuos.   
+
+![Inicio-PersonasNaturales-Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/b8ffcab709dc073c38c27f3978e1bccdc1a2f486/img/Inicio-Empresas-Wireframe.png)  
+
+**Panel de Control (Empresas)**  
+El panel de control está orientado a facilitar la gestión de residuos empresariales, mostrando métricas, alertas sobre umbrales críticos y zonas. El diseño permite a los usuarios empresariales identificar oportunidades de mejora e impacto.
+
+![Panel de Control- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/cdb29cb3bcbacbda32576cc9fab3a9e1b32aa390/img/Panel%20de%20Control-%20Wireframe.png)  
+
+**Recompensas (Personas Naturales)**  
+Para usuarios individuales, esta sección promueve la gamificación ecológica, mostrando insignias obtenidas, puntos acumulados y recompensas disponibles. Se aplicaron elementos visuales atractivos e interactivos para reforzar la motivación del usuario.
+
+![Recompensas- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/505c24ea00f877114cdc925c334c60aa87512b12/img/Recompensas-%20Wireframe.png)  
+
+**Acciones Sostenibles**  
+Esta sección proporciona tips y recomendaciones con prácticas sostenibles. Aunque está disponible para ambos perfiles, el contenido se adapta: empresas reciben estrategias organizacionales, mientras que personas reciben consejos cotidianos y acciones personales. Todo orientado al correcto manejo de residuos.  
+
+![Acciones Sostenibles- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/c6cde8753fd4fd08920416b9e945dee71c01dc5f/img/Acciones%20Sostenibles-%20Wireframe.png)  
+
+**Puntos de Acopio**  
+Esta vista muestra un mapa interactivo y un listado de puntos cercanos para reciclaje y disposición de residuos. Incluye filtros por tipo de residuo y lugar. Se garantiza contraste adecuado, iconografía clara y compatibilidad con lectores de pantalla.
+
+Para personas naturales  
+
+![Puntos de Acopio- Persona- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/35e4eb66dfed96cb27448ab593951919dec099ff/img/Puntos%20de%20Acopio-%20Persona-%20Wireframe.png)  
+
+Para empresas, este añade la seccion de servicios contratados.  
+
+![Puntos de Acopio- Empresa- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/35e4eb66dfed96cb27448ab593951919dec099ff/img/Puntos%20de%20Acopio-%20Empresa-%20Wireframe.png)  
+
+**Reportes**  
+Ambos tipos de usuario acceden a reportes, pero con distinta profundidad y opciones. 
+
+Para personas naturales  
+
+![Reportes- Persona- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/8f40b1f68ab8ce2140f0dc542938444b377a7822/img/Reportes-%20Persona-%20Wireframe.png)  
+
+Para empresas
+
+![Reportes- Empresa- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/8f40b1f68ab8ce2140f0dc542938444b377a7822/img/Reportes-%20Empresa-%20Wireframe.png)  
+
+**Perfil de Usuario**  
+Ambos Usuarios acceden a un perfil, pero se les muestra una información distinta de acuerdo a la cuenta que escogieron crear.
+
+Para Personas Naturales
+
+![Natural User Profile](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/NaturalUserProfile.png)
+
+Para Empresas
+
+![Bussines User Profile](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/BussinesUserProfile.png)
+
+**LogIn de Usuario**  
+La vista de ambos usuarios es practicemente igual dentro del LogIn, lo que ayuda a diferenciar a ambos es el icono el cuál indeca si es o no una persona natural o empresa.
+
+Para Personas Naturales
+
+![Natural User LogIn](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/SignUpNU.png)
+
+Para Empresas
+
+![Bussines User LogIn](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/SigUpBU.png)
+
+**Registro de Usuario**  
+El usuario posee el mismo diseño en ambas ventanas de registo, pero se diferencian en la información que recibe de cada uno-
+
+Para Personas Naturales
+
+![Natural User Registered](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/SignInNU.png)
+
+Para Empresas
+
+![Bussines User Registered](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/SignInBU.png)
+
+
+## 4.4.2. Web Applications Wireflow Diagrams.
+## 4.4.2. Web Applications Mock-ups.
+## 4.4.3. Web Applications User Flow Diagrams.
+## 4.5. Web Applications Prototyping.
+## 4.6. Domain-Driven Software Architecture.
+## 4.6.1. Software Architecture Context Diagram.
+
+![structurizr-92816-SystemContext-001](https://github.com/user-attachments/assets/9c004489-6281-4781-b610-71e5dc867cd1)
+
+## 4.6.2. Software Architecture Container Diagrams.
+
+![structurizr-92816-Container-001](https://github.com/user-attachments/assets/5f7744fb-53ac-4ffc-acfe-c9271e041e0d)
+
+## 4.6.3. Software Architecture Components Diagrams.
+
+![structurizr-92816-Component-001](https://github.com/user-attachments/assets/d2ba7246-8c86-492c-bae1-d41789c7ae7a)
+
+## 4.7. Software Object-Oriented Design.
+## 4.7.1. Class Diagrams.
+
+![Class-Diagram](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/feature/chapter-4/img/OPS-ClassDiagram3.1.png)
+
+## 4.7.2. Class Dictionary.
+
+
+**Identity**  
+Descripción: Tabla que representa a los usuarios de la empresa, esta es la tabla padre que hereda atributos a las tablas hijas (NaturalUser y BussinessUser) 
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| id | UUID | Identificador único el usuario |
+| firstName | String | Nombre el usuario |
+| lastName | String | Apellido del usuario |
+| email | String | Correo del usuario |
+| password | Strign | Contraseña del usuario |
+
+**BusinessUser**  
+Descripción: Tabla que representa al usuario como empresa, esta además de las caracteristicas heredadas, posee las de si misma 
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| charge | String | Cargo del usuario |
+| companyName | String | RazónSocial de la empresa|
+| bussinessCategory | String | Categoría a la cual va dirigida la empresa |
+| phone | String | Número de contacto de la empresa |
+| domainEmail | String | Servidor por el cual los miembros de la empresa podrán unirse|
+
+**ClearPoint**  
+Descripción: Tabla que representa los puntos que gana el usuario con la app
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| point | int | Puntos para el usurio |
+
+**Category**  
+Descripción: Tabla que representa la categoría de los residuos que se muestran
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| name | String | Categoría de residuos |
+
+**Insignia**  
+Descripción: Tabla que representa el nivel de puntuación que tiene el usuario al hacer las actividades 
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| point | Int | Puntos actuales de la insignia |
+| levelInsignia | int | Nivel actual de la insignia | 
+
+**Adress**  
+Descripción: Tabla que representa la ubicación de alguna entidad 
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| country | String | País de la entidad |
+| disctrict | String | Distrito de la entidad | 
+| address | String | Dirección de la entidad | 
+
+**DateTime**  
+Descripción: Tabla que representa la fecha  
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| date | Date | Fecha |
+| value | Date | Momento en el que sucede |
+
+**Waste**  
+Descripción: Tabla que representa los atributos de residuos   
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| id | UUID |  Identificador único del residuo |
+| type | String | Tipo de residuo | 
+| amount | int | Cantidad de residuo |
+| category | Category | Categoría del residuo |
+
+**Sensor**  
+Descripción: Tabla que representa los sensores que se instalan dentro de la empresa   
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| id | UUID |  Identificador único del sensor |
+| numberSensor | int | Número de sensor en su ubicación |
+| wasteDetected | List<Waste> | Lista de residuos detectados por el sensor |
+| spotDetected | String | Lugar de detección |
+| sensorUbication | String | Lugar donde se ubica el sensor |
+| dateTime | DateTime | fecha de detección |
+| status | String | Estado del sensor |
+
+**Store**  
+Descripción: Tabla que representa los almacenes que la empresa tiene para colocar sus sensores
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| id | UUID |  Identificador único del Almacén |
+| address | Address | Localisación del Almacén |
+| numberSotre | int | Numero de Almacé |
+| sensor | List<Sensor> | Lista de sensores ubicados en el almacén |
+| amountSensor | int | Número total de sensores ubicados en el almacen |
+| percentage | Int | Porcentage de residuos encontrados en el almacén |
+
+**SpotCompany**  
+Descripción: Tabla que representa los lugares donde el usuario puede entregar materiales para ser reciclados y donde la empresa pueda contratar estos lugares 
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| id | UUID |  Identificador único del lugar |
+| name | String | Nombre del lugar |
+| description | String | Descripción del lugar |
+| phone | String | Número de contacto del lugar |
+| waste | String | Lista de residuos que permiten en el lugar |
+
+**Contract**  
+Descripción: Tabla que representa las companías que el usuario de empresa contrata 
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| bussinessUser | BussinessUser | Companía que contrata a la empresa de resiclaje |
+| spot | SpotCompany | Empresa de reciclaje |
+
+**TipMessage**  
+Descripción: Tabla que representa los mensajes que la plataforma muestra al usuario como tips  
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| id | UUID | Identificador único del tip |
+| tittle | String | Titulo del mensaje |
+| category | Category | Categoría del mensaje que se mostrará |
+| favorite | Boolean | Mensaje marcado como favorito |  
+
+**RedeemableReward**  
+Descripción: Tabla que representa cuadros que el usuario puede canjear para sumar puntos  
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| id | UUID | identificador único del cuadro |
+| description | String | Mensaje que muestra el cuadro |
+| valuePoint | Int | Cantidad de puntos que el usuario canjea puede canjear |
+| status | String | Estado del Cuadro Canjeable |
+| expirationDate | Date | fecha de expiración del cuadro |
+| claimDate | Date | fecha en la que se canjea el cuadro
+
+
+## 4.8. Database Design.
+## 4.8.1. Database Diagram.
+
+![CleanView-DataBaseDiagram](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/feature/chapter-4/img/CleanView-DataBaseDiagram.png)
