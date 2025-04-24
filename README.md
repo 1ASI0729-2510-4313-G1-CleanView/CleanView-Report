@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d977d784-d988-42e4-8be1-0537de37d252)# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 ![UPC Logo](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
@@ -883,9 +883,148 @@ Para Empresas
 ## 4.7. Software Object-Oriented Design.
 ## 4.7.1. Class Diagrams.
 
-![Class-Diagram](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/feature/chapter-4/img/OPS-ClassDiagram3.png)
+![Class-Diagram](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/feature/chapter-4/img/OPS-ClassDiagram3.1.png)
 
 ## 4.7.2. Class Dictionary.
+
+
+**Identity**  
+Descripción: Tabla que representa a los usuarios de la empresa, esta es la tabla padre que hereda atributos a las tablas hijas (NaturalUser y BussinessUser) 
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| id | UUID | Identificador único el usuario |
+| firstName | String | Nombre el usuario |
+| lastName | String | Apellido del usuario |
+| email | String | Correo del usuario |
+| password | Strign | Contraseña del usuario |
+
+**BusinessUser**  
+Descripción: Tabla que representa al usuario como empresa, esta además de las caracteristicas heredadas, posee las de si misma 
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| charge | String | Cargo del usuario |
+| companyName | String | RazónSocial de la empresa|
+| bussinessCategory | String | Categoría a la cual va dirigida la empresa |
+| phone | String | Número de contacto de la empresa |
+| domainEmail | String | Servidor por el cual los miembros de la empresa podrán unirse|
+
+**ClearPoint**  
+Descripción: Tabla que representa los puntos que gana el usuario con la app
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| point | int | Puntos para el usurio |
+
+**Category**  
+Descripción: Tabla que representa la categoría de los residuos que se muestran
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| name | String | Categoría de residuos |
+
+**Insignia**  
+Descripción: Tabla que representa el nivel de puntuación que tiene el usuario al hacer las actividades 
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| point | Int | Puntos actuales de la insignia |
+| levelInsignia | int | Nivel actual de la insignia | 
+
+**Adress**  
+Descripción: Tabla que representa la ubicación de alguna entidad 
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| country | String | País de la entidad |
+| disctrict | String | Distrito de la entidad | 
+| address | String | Dirección de la entidad | 
+
+**DateTime**  
+Descripción: Tabla que representa la fecha  
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| date | Date | Fecha |
+| value | Date | Momento en el que sucede |
+
+**Waste**  
+Descripción: Tabla que representa los atributos de residuos   
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| id | UUID |  Identificador único del residuo |
+| type | String | Tipo de residuo | 
+| amount | int | Cantidad de residuo |
+| category | Category | Categoría del residuo |
+
+**Sensor**  
+Descripción: Tabla que representa los sensores que se instalan dentro de la empresa   
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| id | UUID |  Identificador único del sensor |
+| numberSensor | int | Número de sensor en su ubicación |
+| wasteDetected | List<Waste> | Lista de residuos detectados por el sensor |
+| spotDetected | String | Lugar de detección |
+| sensorUbication | String | Lugar donde se ubica el sensor |
+| dateTime | DateTime | fecha de detección |
+| status | String | Estado del sensor |
+
+**Store**  
+Descripción: Tabla que representa los almacenes que la empresa tiene para colocar sus sensores
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| id | UUID |  Identificador único del Almacén |
+| address | Address | Localisación del Almacén |
+| numberSotre | int | Numero de Almacé |
+| sensor | List<Sensor> | Lista de sensores ubicados en el almacén |
+| amountSensor | int | Número total de sensores ubicados en el almacen |
+| percentage | Int | Porcentage de residuos encontrados en el almacén |
+
+**SpotCompany**  
+Descripción: Tabla que representa los lugares donde el usuario puede entregar materiales para ser reciclados y donde la empresa pueda contratar estos lugares 
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| id | UUID |  Identificador único del lugar |
+| name | String | Nombre del lugar |
+| description | String | Descripción del lugar |
+| phone | String | Número de contacto del lugar |
+| waste | String | Lista de residuos que permiten en el lugar |
+
+**Contract**  
+Descripción: Tabla que representa las companías que el usuario de empresa contrata 
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| bussinessUser | BussinessUser | Companía que contrata a la empresa de resiclaje |
+| spot | SpotCompany | Empresa de reciclaje |
+
+**TipMessage**  
+Descripción: Tabla que representa los mensajes que la plataforma muestra al usuario como tips  
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| id | UUID | Identificador único del tip |
+| tittle | String | Titulo del mensaje |
+| category | Category | Categoría del mensaje que se mostrará |
+| favorite | Boolean | Mensaje marcado como favorito |  
+
+**RedeemableReward**  
+Descripción: Tabla que representa cuadros que el usuario puede canjear para sumar puntos  
+
+|**Campo**|**Tipo de dato**|**Descripción**|
+|---------|----------------|---------------|
+| id | UUID | identificador único del cuadro |
+| description | String | Mensaje que muestra el cuadro |
+| valuePoint | Int | Cantidad de puntos que el usuario canjea puede canjear |
+| status | String | Estado del Cuadro Canjeable |
+| expirationDate | Date | fecha de expiración del cuadro |
+| claimDate | Date | fecha en la que se canjea el cuadro
+
 
 ## 4.8. Database Design.
 ## 4.8.1. Database Diagram.
