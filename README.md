@@ -1028,4 +1028,5 @@ Descripción: Tabla que representa cuadros que el usuario puede canjear para sum
 
 ## 4.8. Database Design.
 ## 4.8.1. Database Diagram.
-  
+
+![CleanView-DataBaseDiagram](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/feature/chapter-4/img/CleanView-DataBaseDiagram.png)
