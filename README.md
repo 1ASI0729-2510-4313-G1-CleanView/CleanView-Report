@@ -1,4 +1,4 @@
-# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+![image](https://github.com/user-attachments/assets/d977d784-d988-42e4-8be1-0537de37d252)# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 ![UPC Logo](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
@@ -882,7 +882,11 @@ Para Empresas
 
 ## 4.7. Software Object-Oriented Design.
 ## 4.7.1. Class Diagrams.
+
+![Class-Diagram](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/feature/chapter-4/img/OPS-ClassDiagram3.png)
+
 ## 4.7.2. Class Dictionary.
+
 ## 4.8. Database Design.
 ## 4.8.1. Database Diagram.
   
