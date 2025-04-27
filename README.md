@@ -480,74 +480,50 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 
 Video de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EYdkH2BP16hCmVbjeXNVnmcBRZggWBN1BD-u5_knJIiqnQ?e=hTQWMM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-## Entrevistas de personas Naturales
+**Segmento 1:** Entrevistas de personas Naturales
 
-### Entrevistado: Guillermo Tantalean
+| **Nombre entrevistado** | **Guillermo Tantalean** |
+| :--- | :--- |
+| Edad | 19 años |
+| Profesión | Reservado |
+| Departamento | Lima, Perú |
+| Inicio del video | 00:05 |
+| Fin del video | 06:16 |
+| Link del video | URL:[VIDEO](https://upcedupe-my.sharepoint.com/personal/u202312013_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202312013%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202501%2D1ASI0729%2D2510%2D4313%2DCleanView%2DEntrevistas%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4d7e8b79%2D043f%2D44e4%2D8ee6%2Db342b1494c9a) |
+| <img src="img/image.png" /> | **RESUMEN DE TU ENTREVISTA** |
 
--**Edad:** 19
+---
 
--**Distrito:** Lima
+| **Nombre entrevistado** | **(Guisseppe Gotuzzo)** |
+| :--- | :--- |
+| Edad | 19 |
+| Departamento | ICA |
+| Inicio del video | 6:24 |
+| Fin del video | 10:05 |
+| Link del video | URL:[VIDEO](https://upcedupe-my.sharepoint.com/personal/u202312013_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202312013%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202501%2D1ASI0729%2D2510%2D4313%2DCleanView%2DEntrevistas%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4d7e8b79%2D043f%2D44e4%2D8ee6%2Db342b1494c9a) |
+| <img src="https://github.com/user-attachments/assets/f0bcfe7d-9a78-4933-aa2f-549d2572ef35" /> | **RESUMEN DE TU ENTREVISTA** |
 
-![image](https://github.com/user-attachments/assets/14804871-681b-4ccf-9dc1-485ada90e003)
-
-![image](https://github.com/user-attachments/assets/b3c1ede4-300d-4327-bcdb-280639e6485e)
-
-URL: https://upcedupe-my.sharepoint.com/personal/u202312013_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202312013%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202501%2D1ASI0729%2D2510%2D4313%2DCleanView%2DEntrevistas%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4d7e8b79%2D043f%2D44e4%2D8ee6%2Db342b1494c9a
-
-Inicio: 0:05
-
-Fin: 6:16
-
-
-### Entrevistado: Guisseppe Gotuzzo
-
-Inicio: 6:24
-
-Fin: 10:05
-
-
--**Edad:** 19
-
--**Distrito:** Ica
-
-![image](https://github.com/user-attachments/assets/f0bcfe7d-9a78-4933-aa2f-549d2572ef35)
-
-URL: https://upcedupe-my.sharepoint.com/personal/u202312013_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202312013%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202501%2D1ASI0729%2D2510%2D4313%2DCleanView%2DEntrevistas%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4d7e8b79%2D043f%2D44e4%2D8ee6%2Db342b1494c9a
+| **Nombre entrevistado** | **(Alvaro Gomez)** |
+| :--- | :--- |
+| Edad | 19 |
+| Departamento | ICA |
+| Inicio del video | 10:12 |
+| Fin del video | 15:22 |
+| Link del video | URL:[VIDEO](https://upcedupe-my.sharepoint.com/personal/u202312013_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202312013%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202501%2D1ASI0729%2D2510%2D4313%2DCleanView%2DEntrevistas%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4d7e8b79%2D043f%2D44e4%2D8ee6%2Db342b1494c9a) |
+| <img src="https://github.com/user-attachments/assets/f88dba93-15f3-4d1f-88be-e5f71a269529" /> | **RESUMEN DE TU ENTREVISTA** |
 
 
-### Entrevistado: Alvaro Gomez
 
-Inicio: 10:12
+**Segmento 2:** Entrevistas de Empresarios 
 
-Fin: 15:22
-
-
--**Edad:** 19
-
--**Distrito:** Ica
-
-![image](https://github.com/user-attachments/assets/f88dba93-15f3-4d1f-88be-e5f71a269529)
-
-URL: https://upcedupe-my.sharepoint.com/personal/u202312013_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202312013%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202501%2D1ASI0729%2D2510%2D4313%2DCleanView%2DEntrevistas%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4d7e8b79%2D043f%2D44e4%2D8ee6%2Db342b1494c9a
-
-## Entrevistas de Empresarios 
-
-### Entrevistado: Alejandro Oroncoy
-
--**Edad:** 20
-
--**Distrito:** Lima
-
--**Resumen:** Alejandro forma parte de una pequeña empresa que opera en una oficina de dimensiones reducidas. Aunque el espacio de trabajo es acogedor y funcional, a menudo enfrentan dificultades relacionadas con la gestión de residuos. Esto se debe principalmente a que, al ser una empresa de tamaño limitado, cuentan únicamente con una persona encargada de supervisar y manejar todos los residuos generados. Esta situación provoca que, en ocasiones, se acumulen desechos o no se sigan correctamente los protocolos de reciclaje y disposición adecuada. Además, la falta de infraestructura específica y de un sistema organizado de recolección selectiva complica aún más el manejo eficiente de los residuos, afectando tanto la limpieza del lugar como el compromiso de la empresa con la sostenibilidad ambiental.
-
-![image](https://github.com/user-attachments/assets/d7a3ed15-c520-443d-ae9c-a5c77b656d6d)
-
-URL: 
-
-Inicio: 15:30
-
-Fin: 21:20
-
+| **Nombre entrevistado** | **Alejandro Oroncoy** |
+| :--- | :--- |
+| Edad | 20 años |
+| Departamento | Lima, Perú |
+| Inicio del video | 15:30 |
+| Fin del video | 21:20 |
+| Link del video | URL:[VIDEO](https://upcedupe-my.sharepoint.com/personal/u202312013_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202312013%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202501%2D1ASI0729%2D2510%2D4313%2DCleanView%2DEntrevistas%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4d7e8b79%2D043f%2D44e4%2D8ee6%2Db342b1494c9a) |
+| <img src="https://github.com/user-attachments/assets/d7a3ed15-c520-443d-ae9c-a5c77b656d6d" /> | -Resumen: Alejandro forma parte de una pequeña empresa que opera en una oficina de dimensiones reducidas. Aunque el espacio de trabajo es acogedor y funcional, a menudo enfrentan dificultades relacionadas con la gestión de residuos. Esto se debe principalmente a que, al ser una empresa de tamaño limitado, cuentan únicamente con una persona encargada de supervisar y manejar todos los residuos generados. Esta situación provoca que, en ocasiones, se acumulen desechos o no se sigan correctamente los protocolos de reciclaje y disposición adecuada. Además, la falta de infraestructura específica y de un sistema organizado de recolección selectiva complica aún más el manejo eficiente de los residuos, afectando tanto la limpieza del lugar como el compromiso de la empresa con la sostenibilidad ambiental. |
 
 
 ### 2.2.3. Análisis de entrevistas.
@@ -1828,10 +1804,10 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 |          |                          | **TA025** | Asegurar que el formulario sea intuitivo y fácil de usar. | 1 hora | Fabian Alejandro Oliva Lopez | Done |
 
 
-![alt text](assets/TB1-image/Trelloo1.png)
+![alt text](img\Trelloo1.png)
 
 
-Link Trello: 
+Link Trello: https://trello.com/invite/b/680dde48ab2f463df11be663/ATTI7a200e9d4c0f38bf57a8cb42522cee3f9DA14652/1asi0729-2510-4313-g1-cleanview
 
 #### 5.2.1.3 Development Evidence for Sprint Review
 
