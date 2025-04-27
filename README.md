@@ -10,7 +10,7 @@
 
 **Profesor:** Alberto Wilmer Sánchez Seña  
 **Sección:** 4313  
-**Startup:** BetterLife  
+**Startup:** Stratryx Tech  
 **Producto:** CleanView  
 
 ---
@@ -1990,3 +1990,5 @@ Repositorios	Enlace al Respositorio:
 Project Report	https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report
 
 Landing Page	https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page
+
+Video TB1: https://youtu.be/SJZp4bUA7uU 
