@@ -908,7 +908,7 @@ Título 0 / 20px / Medium
 **Branding e Icono:**
 El logo de CleanWind representa su compromiso con el medio ambiente mediante un diseño simple y simbólico. En el centro, se muestra un tacho de basura verde con un símbolo de reciclaje blanco, reflejando la gestión responsable de residuos. A los costados, hojas verdes refuerzan la conexión ecológica. Todo está enmarcado por círculos verdes, y sobre ellos se encuentra el nombre CleanWind en color verde. Este diseño transmite sostenibilidad, orden y conciencia ambiental de forma clara y visualmente amigable.
 
-![image](https://github.com/user-attachments/assets/612b96ac-0ef3-4768-84c1-b8dcb33ee716)
+![image](./img/FinalLogoCV.png)
 
 ## 4.1.2. Web Style Guidelines
 La versión web de CleanWind está pensada para usuarios empresariales, con diseño responsivo, paneles modulares y visualizaciones claras de datos.
