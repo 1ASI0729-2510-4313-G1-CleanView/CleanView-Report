@@ -447,11 +447,11 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 ### 2.3.1. User Personas
 >  Segmento 1 : Empresas
 
-![user persona 1 - segmento 1](https://github.com/JKOlimpo/CleanView/blob/main/img/User%20Persona-%20Segmento%202.png)
+![user persona 1 - segmento 1](./img/User%20Persona-%20Segmento%202.png)
 
 >  Segmento 2 : Personas Naturales
 
-![user persona 1 - segmento 2](https://github.com/JKOlimpo/CleanView/blob/main/img/User%20Persona%202%20-%20Segmento%202.png)
+![user persona 1 - segmento 2](./img/User%20Persona%202%20-%20Segmento%202%20(1).png)
 
 ### 2.3.2. User Task Matrix
 
@@ -476,23 +476,33 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
  
 ### 2.3.3. User Journey Mapping
 
-![user persona 1 - segmento 1 - JMP 1](https://github.com/JKOlimpo/CleanView/blob/main/img/Journey%20map%201.png)
+>  Journey map - segmento 1 : Empresas
 
-![user persona 1 - segmento 2 - JMP 2](https://github.com/JKOlimpo/CleanView/blob/main/img/Journey%20map%202.png)
+![user persona 1 - segmento 1 - JMP 1](./img/Journey%20map%201%20(1).png)
+
+>  Journey map - segmento 2 : Personas Naturales
+
+![user persona 1 - segmento 2 - JMP 2](./img/Journey%20map%202%20(1).png)
 
 ### 2.3.4. Empathy Mapping
-![Empathy Mapping 1](https://github.com/JKOlimpo/CleanView/blob/833ad151a9b478ff48b214a388a50ddf0020ed85/img/Empathy%20Mapping%201.png)
-![Empathy Mapping -2](https://github.com/JKOlimpo/CleanView/blob/e5df12ba57658d28de4ca1aea7b273765c464a73/img/Empathy%20Mapping-2.png)
+
+>  Empathy Mapping - segmento 1 : Empresas
+
+![Empathy Mapping 1](./img/Empathy%20Mapping%201.png)
+
+>  Empathy Mapping - segmento 2 : Personas Naturales
+
+![Empathy Mapping -2](./img/Empathy%20Mapping-2.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
->  Segmento 1 : Empresas
+> As-is Segmento 1 : Empresas
 
-![AS-IS Segmento 1](https://github.com/JKOlimpo/CleanView/blob/c4fe59115133d1f64908ec68993bf86c4bf7d23d/img/AS-IS%20-%20Segmento%201.jpg)
+![AS-IS Segmento 1](./img/AS-IS%20-%20Segmento%201.jpg)
 
->Segmento 2 : Personas Naturales
+> As-is Segmento 2 : Personas Naturales
 
-![AS-IS Segmento 2](https://github.com/JKOlimpo/CleanView/blob/c4fe59115133d1f64908ec68993bf86c4bf7d23d/img/AS-IS%20-%20Segmento%202.jpg)
+![AS-IS Segmento 2](./img/AS-IS%20-%20Segmento%202.jpg)
 
 ## 2.4. Ubiquitous Language 
 
@@ -502,11 +512,11 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 ## 3.1. To-Be Scenario Mapping
 >  Segmento 1 : Empresas
 
-![TO-BE Segmento 1](https://github.com/JKOlimpo/CleanView/blob/b47c727e6fd4a4d59d1dd675a468e9aeba787303/img/TO-BE%20-%20Segmento%201.jpg)
+![TO-BE Segmento 1](./img/TO-BE%20-%20Segmento%201.jpg)
 
->Segmento 2 : Personas Naturales
+> Segmento 2 : Personas Naturales
 
-![TO-BE Segmento 2](https://github.com/JKOlimpo/CleanView/blob/5614947fd18c4e4b2412340d6bdd21dedbe92ebf/img/TO-BE%20-%20Segmento%202.jpg)
+![TO-BE Segmento 2](./img/TO-BE%20-%20Segmento%202.jpg)
 
 ## 3.2. User Stories  
 
@@ -695,7 +705,7 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 
 ## 3.3. Impact Mapping
 
-![Impact Mapping](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/Impact%20Mapping.jpg)
+![Impact Mapping](./img/Impact%20Mapping.jpg)
 > https://miro.com/welcomeonboard/NFZvdkRBQXJwLzdFTTM4OXNGSkQxOFpsSTFtQmE2bFVxYTJhMEw4YzhseXgxTFpVbDFLQnpydlUrdVNuM1ZCalF6U3Bha2g3dUhqeUsrbWtERUxFeVpjeFp5Z0xpTFR0Y0hzdFl2SkxITzBwQUo0T090VnNkaTJsUHdZODNlYUtyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=65294902373 
 
 ## 3.4. Product Backlog
@@ -756,7 +766,7 @@ Empleado en cajas de datos, estadísticas y elementos visuales destacados. Atrae
 - Verde menta brillante – #89E0B0 (Botones de interacción y alertas)
 Usado en botones y elementos interactivos. Agrega dinamismo visual y guía la acción del usuario de manera intuitiva.
 
-**Paleta de colores para CleanWind**
+**Paleta de colores para CleanWind**  
 ![image](https://github.com/user-attachments/assets/5e1d61e5-d554-4bd6-8ccd-79a5c5ca4f9b)
 
 **Tipografía**
@@ -783,7 +793,7 @@ Interlineado: 1.1
 Nombre / Tamaño / Peso
 Título 0 / 20px / Medium
 
-**Ejemplo:**
+**Ejemplo:**  
 ![image](https://github.com/user-attachments/assets/566b559c-bde0-4ca9-b61a-f69eb6b931de)
 
 **Branding e Icono:**
@@ -1005,17 +1015,17 @@ Se presentan las siguientes secciónes:
 + Footer: Información legal, enlaces rápidos y redes sociales.
 + ChatBot: Ícono flotante de acceso rápido ubicado en la esquina inferior derecha. Al hacer clic, se despliega una ventana de chat con preguntas automatizadas.
 
-![Desktop-Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/43b2ba8fe9df0424a75920d188c6342886690d7c/img/Desktop%20-%20Wireframe.png)
+![Desktop-Wireframe](./img/Desktop%20-%20Wireframe.png)
 
 **Mobile Web Browser**    
 
 En esta versión, se incorpora un menú tipo hamburguesa para optimizar el espacio en pantalla y asegurar una navegación clara y ordenada. Al desplegarse, este menú permite acceder a todas las secciones: Home, Solutions, How it Works, About Us, Contact y FAQs, junto con los botones.  
 
-![Mobile Web Browser-Menu-Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/2f3e7c492a716e6000042ff707dc7223401f169b/img/Mobile%20Web%20Browser-%20Menu-%20Wireframe.png)
+![Mobile Web Browser-Menu-Wireframe](./img/Mobile%20Web%20Browser-%20Menu-%20Wireframe.png)
 
 El mock-up para la versión móvil de CleanWide mantiene la misma estructura y contenido que su contraparte de escritorio, pero adaptado a un diseño responsive, ajustándose automáticamente al tamaño y resolución de dispositivos móviles.    
 
-![Mobile Web Browser-Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/2ba2946eaa61070586e6ede9f024bb62abc4fadb/img/Mobile%20Web%20Browser-%20Wireframes.png)
+![Mobile Web Browser-Wireframe](./img/Mobile%20Web%20Browser-%20Wireframes.png)
   
 ## 4.3.2. Landing Page Mock-up.   
 
@@ -1023,7 +1033,7 @@ El mock-up presenta una interfaz limpia, moderna y funcional, organizada en una 
 
 **Desktop Web Browser**  
 
-![Desktop-Mock-ups](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/239fa612ec07abfd42e888ed8485b71e2905100e/img/LandingPage-Mockup.png)
+![Desktop-Mock-ups](./img/LandingPage-Mockup.png)
 
 
 ## 4.4. Web Applications UX/UI Design.
@@ -1037,81 +1047,81 @@ Esta sección ofrece un resumen general personalizado. Se prioriza la visibilida
 
 Para personas naturales, muestra puntos cercanos a su hogar, un resumen de su progreso y algunas recompensas que puede obtener.
 
-![Inicio-PersonasNaturales-Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/b8ffcab709dc073c38c27f3978e1bccdc1a2f486/img/Inicio-PersonasNaturales-Wireframe.png)  
+![Inicio-PersonasNaturales-Wireframe](./img/Inicio-PersonasNaturales-Wireframe.png)  
 
 Para empresas, se presentan indicadores clave sobre generación y manejo de residuos, como últimas alertas y resumen de residuos.   
 
-![Inicio-PersonasNaturales-Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/b8ffcab709dc073c38c27f3978e1bccdc1a2f486/img/Inicio-Empresas-Wireframe.png)  
+![Inicio-PersonasNaturales-Wireframe](./img/Inicio-Empresas-Wireframe.png)  
 
 **Panel de Control (Empresas)**  
 El panel de control está orientado a facilitar la gestión de residuos empresariales, mostrando métricas, alertas sobre umbrales críticos y zonas. El diseño permite a los usuarios empresariales identificar oportunidades de mejora e impacto.
 
-![Panel de Control- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/cdb29cb3bcbacbda32576cc9fab3a9e1b32aa390/img/Panel%20de%20Control-%20Wireframe.png)  
+![Panel de Control- Wireframe](./img/Panel%20de%20Control-%20Wireframe.png)  
 
 **Recompensas (Personas Naturales)**  
 Para usuarios individuales, esta sección promueve la gamificación ecológica, mostrando insignias obtenidas, puntos acumulados y recompensas disponibles. Se aplicaron elementos visuales atractivos e interactivos para reforzar la motivación del usuario.
 
-![Recompensas- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/505c24ea00f877114cdc925c334c60aa87512b12/img/Recompensas-%20Wireframe.png)  
+![Recompensas- Wireframe](./img/Recompensas-%20Wireframe.png)  
 
 **Acciones Sostenibles**  
 Esta sección proporciona tips y recomendaciones con prácticas sostenibles. Aunque está disponible para ambos perfiles, el contenido se adapta: empresas reciben estrategias organizacionales, mientras que personas reciben consejos cotidianos y acciones personales. Todo orientado al correcto manejo de residuos.  
 
-![Acciones Sostenibles- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/c6cde8753fd4fd08920416b9e945dee71c01dc5f/img/Acciones%20Sostenibles-%20Wireframe.png)  
+![Acciones Sostenibles- Wireframe](./img/Acciones%20Sostenibles-%20Wireframe.png)  
 
 **Puntos de Acopio**  
 Esta vista muestra un mapa interactivo y un listado de puntos cercanos para reciclaje y disposición de residuos. Incluye filtros por tipo de residuo y lugar. Se garantiza contraste adecuado, iconografía clara y compatibilidad con lectores de pantalla.
 
 Para personas naturales  
 
-![Puntos de Acopio- Persona- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/35e4eb66dfed96cb27448ab593951919dec099ff/img/Puntos%20de%20Acopio-%20Persona-%20Wireframe.png)  
+![Puntos de Acopio- Persona- Wireframe](./img/Puntos%20de%20Acopio-%20Persona-%20Wireframe.png)  
 
 Para empresas, este añade la seccion de servicios contratados.  
 
-![Puntos de Acopio- Empresa- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/35e4eb66dfed96cb27448ab593951919dec099ff/img/Puntos%20de%20Acopio-%20Empresa-%20Wireframe.png)  
+![Puntos de Acopio- Empresa- Wireframe](./img/Puntos%20de%20Acopio-%20Empresa-%20Wireframe.png)  
 
 **Reportes**  
 Ambos tipos de usuario acceden a reportes, pero con distinta profundidad y opciones. 
 
 Para personas naturales  
 
-![Reportes- Persona- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/8f40b1f68ab8ce2140f0dc542938444b377a7822/img/Reportes-%20Persona-%20Wireframe.png)  
+![Reportes- Persona- Wireframe](./img/Reportes-%20Persona-%20Wireframe.png)  
 
 Para empresas
 
-![Reportes- Empresa- Wireframe](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/8f40b1f68ab8ce2140f0dc542938444b377a7822/img/Reportes-%20Empresa-%20Wireframe.png)  
+![Reportes- Empresa- Wireframe](./img/Reportes-%20Empresa-%20Wireframe.png)  
 
 **Perfil de Usuario**  
 Ambos Usuarios acceden a un perfil, pero se les muestra una información distinta de acuerdo a la cuenta que escogieron crear.
 
 Para Personas Naturales
 
-![Natural User Profile](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/NaturalUserProfile.png)
+![Natural User Profile](./img/NaturalUserProfile.png)
 
 Para Empresas
 
-![Bussines User Profile](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/BussinesUserProfile.png)
+![Bussines User Profile](./img/BussinesUserProfile.png)
 
 **LogIn de Usuario**  
 La vista de ambos usuarios es practicemente igual dentro del LogIn, lo que ayuda a diferenciar a ambos es el icono el cuál indeca si es o no una persona natural o empresa.
 
 Para Personas Naturales
 
-![Natural User LogIn](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/SignUpNU.png)
+![Natural User LogIn](./img/SignUpNU.png)
 
 Para Empresas
 
-![Bussines User LogIn](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/SigUpBU.png)
+![Bussines User LogIn](./img/SigUpBU.png)
 
 **Registro de Usuario**  
 El usuario posee el mismo diseño en ambas ventanas de registo, pero se diferencian en la información que recibe de cada uno-
 
 Para Personas Naturales
 
-![Natural User Registered](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/SignInNU.png)
+![Natural User Registered](./img/SignInNU.png)
 
 Para Empresas
 
-![Bussines User Registered](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/develop/img/SignInBU.png)
+![Bussines User Registered](./img/SignInBU.png)
 
 
 ## 4.4.2. Web Applications Wireflow Diagrams.
@@ -1134,7 +1144,7 @@ Para Empresas
 ## 4.7. Software Object-Oriented Design.
 ## 4.7.1. Class Diagrams.
 
-![Class-Diagram](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/feature/chapter-4/img/OPS-ClassDiagram3.1.png)
+![Class-Diagram](./img/OPS-ClassDiagram3.1.png)
 
 ## 4.7.2. Class Dictionary.
 
@@ -1280,7 +1290,7 @@ Descripción: Tabla que representa cuadros que el usuario puede canjear para sum
 ## 4.8. Database Design.
 ## 4.8.1. Database Diagram.
 
-![CleanView-DataBaseDiagram](https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report/blob/feature/chapter-4/img/CleanView-DataBaseDiagram.png)
+![CleanView-DataBaseDiagram](./img/CleanView-DataBaseDiagram.png)
 
 
 
