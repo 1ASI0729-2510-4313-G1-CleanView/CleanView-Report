@@ -350,6 +350,54 @@ Video de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202
 
 ## Entrevistas de personas Naturales
 
+### Entrevistado: Guillermo Tantalean
+
+-**Edad:** 19
+
+-**Distrito:** Lima
+
+![image](https://github.com/user-attachments/assets/14804871-681b-4ccf-9dc1-485ada90e003)
+
+![image](https://github.com/user-attachments/assets/b3c1ede4-300d-4327-bcdb-280639e6485e)
+
+URL: https://upcedupe-my.sharepoint.com/personal/u202312013_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202312013%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202501%2D1ASI0729%2D2510%2D4313%2DCleanView%2DEntrevistas%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4d7e8b79%2D043f%2D44e4%2D8ee6%2Db342b1494c9a
+
+Inicio: 0:05
+
+Fin: 6:16
+
+
+### Entrevistado: Guisseppe Gotuzzo
+
+Inicio: 6:24
+
+Fin: 10:05
+
+
+-**Edad:** 19
+
+-**Distrito:** Ica
+
+![image](https://github.com/user-attachments/assets/f0bcfe7d-9a78-4933-aa2f-549d2572ef35)
+
+URL: https://upcedupe-my.sharepoint.com/personal/u202312013_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202312013%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202501%2D1ASI0729%2D2510%2D4313%2DCleanView%2DEntrevistas%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4d7e8b79%2D043f%2D44e4%2D8ee6%2Db342b1494c9a
+
+
+### Entrevistado: Alvaro Gomez
+
+Inicio: 10:12
+
+Fin: 15:22
+
+
+-**Edad:** 19
+
+-**Distrito:** Ica
+
+![image](https://github.com/user-attachments/assets/f88dba93-15f3-4d1f-88be-e5f71a269529)
+
+URL: https://upcedupe-my.sharepoint.com/personal/u202312013_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202312013%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202501%2D1ASI0729%2D2510%2D4313%2DCleanView%2DEntrevistas%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4d7e8b79%2D043f%2D44e4%2D8ee6%2Db342b1494c9a
+
 ## Entrevistas de Empresarios 
 
 ### Entrevistado: Alejandro Oroncoy
