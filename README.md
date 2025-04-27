@@ -1102,7 +1102,60 @@ Para Empresas
 
 
 ## 4.4.2. Web Applications Wireflow Diagrams.
-## 4.4.2. Web Applications Mock-ups.
+## 4.4.2. Web Applications Mock-ups.  
+
+
+
+La propuesta de Mock-ups para CleanWide fue diseñada basándose en principios de usabilidad, accesibilidad, diseño inclusivo y una arquitectura de información clara, respetando el Design System establecido para garantizar consistencia y coherencia visual en todas las interfaces.
+
+Cada Mock-up representa las principales vistas de la aplicación, adaptadas a los diferentes perfiles de usuario: personas naturales y empresas. Se priorizó una navegación intuitiva, el contraste adecuado, el uso de iconografía comprensible, y una jerarquía visual que facilite la comprensión inmediata del contenido.
+
+A continuación, se presentan los Mock-ups desarrollados para las secciones principales de CleanWide: Inicio, Panel de Control, Recompensas, Acciones Sostenibles, Puntos de Acopio y Reportes.
+
+**Inicio**  
+
+Para personas naturales.
+
+![Mockup-home-natural person](./img/Mockup-home-natural%20person-1.png)
+
+Para empresas.   
+
+![Mockup-inicio-company](./img/Mockup-inicio-company.png)
+
+**Panel de Control (Empresas)**  
+
+![Mockup-Panel de Control](./img/Mockup-panel%20control-company.png)  
+
+**Recompensas (Personas Naturales)**  
+
+![Recompensas- MockUp](./img/Mockup-home-natural%20person.png)  
+
+**Acciones Sostenibles**  
+
+![Acciones Sostenibles-Mockup](./img/Mockup-acciones%20sostenibles-company.png)  
+
+**Puntos de Acopio**  
+
+Para personas naturales  
+
+![Puntos de Acopio- Persona-Mockup](./img/Mockup-puntos-natural%20person.png)  
+
+Para empresas, este añade la seccion de servicios contratados.  
+
+![Puntos de Acopio- Empresa-Mockup](./img/Mockup-puntos%20de%20acopio-company.png)  
+
+**Reportes**  
+Ambos tipos de usuario acceden a reportes, pero con distinta profundidad y opciones. 
+
+Para personas naturales  
+
+![Reportes- Persona-Mockup](./img/Mockup-reportes-natural%20person.png)  
+
+Para empresas
+
+![Reportes- Empresa-Mockup](./img/Mockup-reportes-company.png)  
+
+
 ## 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
