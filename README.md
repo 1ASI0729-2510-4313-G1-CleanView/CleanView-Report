@@ -45,7 +45,7 @@
 
 | URL del repositorio de la landing page |
 :-----------------------------------------------:|
-|  https://github.com/Horizon-ManageWise/LandingPage |
+|  https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page |
 
 **URL LANDING PAGE DESPLEGADO**: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
 
