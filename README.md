@@ -1125,9 +1125,49 @@ Para Empresas
 
 
 ## 4.4.2. Web Applications Wireflow Diagrams.
+
+Los Wireflows presentados muestran el recorrido principal que sigue el usuario en cada funcionalidad, desde la pantalla inicial hasta completar la acción deseada. Cada diagrama refleja la secuencia de pantallas y los cambios de estado de manera clara y ordenada, siguiendo una única ruta de interacción. Se ha priorizado la simplicidad, la coherencia visual y la facilidad de navegación para garantizar una experiencia intuitiva.
+
+
+
+Iniciar sesion 
+
+![Wireflow-AñadirZona](./img/Wireflow-IniciarSesion.png)
+
+Cerrar Sesión
+
+![Wireflow-AñadirZona](./img/Wireflow-CerrarSesion.png)
+
+Cambiar foto de perfil
+
+![Wireflow-AñadirZona](./img/Wireflow-CambiarFotoPerfil.png)
+
+Ver datos de un sensor en tiempo real
+
+![Wireflow-AñadirZona](./img/Wireflow-DatosSensor.png)
+
+Añadir un nuevo sensor
+
+![Wireflow-AñadirSensor](./img/Wireflow-AñadirSensor.png)
+
+Eliminar sensor registrado
+
+![Wireflow-AñadirZona](./img/Wireflow-EliminarSensor.png)
+
+Añadir nueva zona de monitoreo
+
+![Wireflow-AñadirZona](./img/Wireflow-AñadirZona.png)
+
+Contratar servicio de punto de acopio
+
+![Wireflow-AñadirZona](./img/Wireflow-ContratarServicio.png)
+
+Canjear recompensas
+
+![Wireflow-AñadirZona](./img/Wireflow-CanjearRecompensas.png)
+
+
 ## 4.4.2. Web Applications Mock-ups.  
-
-
 
 La propuesta de Mock-ups para CleanWide fue diseñada basándose en principios de usabilidad, accesibilidad, diseño inclusivo y una arquitectura de información clara, respetando el Design System establecido para garantizar consistencia y coherencia visual en todas las interfaces.
 
@@ -1179,8 +1219,46 @@ Para empresas
 ![Reportes- Empresa-Mockup](./img/Mockup-reportes-company.png)  
 
 
-## 4.4.3. Web Applications User Flow Diagrams.
+## 4.4.3. Web Applications User Flow Diagrams.  
+
+
+Como empresa, quiero añadir nueva zona de monitoreo.
+
+![User Flow Diagrams](./img/UserFlow-AñadirZona.png)
+
+Como empresa, quiero añadir un nuevo sensor.
+
+![User Flow Diagrams](./img/UserFlow-AñadirNuevo.png)
+
+Como empresa, quiero contratar servicio de punto de acopio.
+
+![User Flow Diagrams](./img/UserFlow-ContratarServicio.png)
+
+Como empresa, quiero eliminar sensor registrado.
+
+![User Flow Diagrams](./img/UserFlow-EliminarSensor.png)
+
+Como empresa, quiero eliminar Servicio Contratado.
+
+![User Flow Diagrams](./img/UserFlow-EliminarServicio.png)
+
+Como persona natural, quiero añadir canjear puntos.
+
+![User Flow Diagrams](./img/UserFlow-CanjearPuntos.png)
+
+
 ## 4.5. Web Applications Prototyping.
+
+Los prototipos de CleanWide para Web Browser fueron desarrollados basándose en los User Flows definidos, buscando ofrecer una experiencia de navegación fluida, accesible y coherente para los diferentes tipos de usuarios.
+
+Las decisiones de interacción se tomaron considerando principios de simplicidad, consistencia y retroalimentación inmediata. Se priorizó un sistema de navegación claro y estructurado mediante una barra lateral, que permite acceder fácilmente a las secciones principales: Inicio, Panel de Control, Recompensas, Acciones Sostenibles, Puntos de Acopio, Reportes y Perfil de Usuario.
+
+Estas decisiones se alinean con la arquitectura de información establecida, asegurando jerarquía visual, rutas de acceso eficientes y una navegación intuitiva. Además, se incorporaron interacciones claras y microinteracciones que refuerzan la comprensión de las acciones realizadas, especialmente en operaciones sensibles como registrar, modificar o eliminar información.
+
+![Prototype-photo](./img/Prototype-photo.png)  
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c505_upc_edu_pe/EeakHPoK6ixNqmgEnqQvXvQBDvHm8BsPMVhyP5QE-zsyDw?e=766iu5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ## 4.6. Domain-Driven Software Architecture.
 ## 4.6.1. Software Architecture Context Diagram.
 
