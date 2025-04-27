@@ -1804,7 +1804,7 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 |          |                          | **TA025** | Asegurar que el formulario sea intuitivo y fácil de usar. | 1 hora | Fabian Alejandro Oliva Lopez | Done |
 
 
-![alt text](img\Trelloo1.png)
+![alt text](img/Trelloo1.png)
 
 
 Link Trello: https://trello.com/invite/b/680dde48ab2f463df11be663/ATTI7a200e9d4c0f38bf57a8cb42522cee3f9DA14652/1asi0729-2510-4313-g1-cleanview
