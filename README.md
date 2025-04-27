@@ -60,7 +60,7 @@
 **URL LANDING PAGE DESPLEGADO**: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
 
 
-TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/Horizon-ManageWise. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/Horizon-ManageWise/Horizon.git, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/Horizon-ManageWise/LandingPage.git . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes. En este Trabajo final nos encargamos de conectar los bounded context y conectar cada uno con su frontend.
+TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/1ASI0729-2510-4313-G1-CleanView. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio:  https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page .
 
 <br>**Vista de commits: Landing page:**  
 ![alt text](assets/TB1-new/landingc1.jpeg)
@@ -1806,11 +1806,42 @@ El sprint planning es una reunion antes de cada sprint en la metodologia Scrum d
 | **Sprint Goal & User Stories**||
 | **Sprint 1 Goal**| Nuestro enfoque está en finalizar el informe y desplegar nuestra Landing Page desde el repositorio de GitHub. Creemos que esto entrega una experiencia de usuario optimizada a nuestros clientes. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
 | **Sprint 1 Velocity**| ------ |
-| **Sum of Story Points**| 19 |
+| **Sum of Story Points**| 8 |
 
 #### 5.2.1.2 Sprint Backlog 1.
 
 Para el primer sprint backlog, recopilamos historias de usuario relacionadas con la página de inicio (landing page) . Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint, con el objetivo principal de crear una landing page completa con un diseño atractivo y fácil de usar. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver
+
+### **Sprint Backlog: Landing Page de CleanView**
+
+| **ID**   | **Historia de Usuario**  | **Tarea ID** | **Descripción de la Tarea** | **Duración Estimada** | **Responsable** | **Estado** |
+|----------|--------------------------|--------------|----------------------------|-----------------------|-----------------|------------|
+| **US-001** | **Navegación Clara y Eficiente** | **TA001** | Crear el menú de navegación en la parte superior de la página. | 2 horas | Renzo Sebastian Uribe Livia | Done |
+|          |                          | **TA002** | Implementar enlaces que redirijan correctamente a las secciones correspondientes. | 2 horas | Gabriel Fernando Gordon Salas | Done |
+|          |                          | **TA003** | Probar la funcionalidad de navegación en diferentes dispositivos y navegadores. | 1 hora | Fabian Alejandro Oliva Lopez | Done |
+| **US-002** | **Accesos Visibles para Login/Registro** | **TA004** | Diseñar botones de "Iniciar sesión" y "Registrarse" en el header. | 1 hora | Marcia Victoria Melgarejo Gomez | Done |
+|          |                          | **TA005** | Implementar funcionalidad de los botones para redirigir a las páginas de login y registro. | 1.5 horas | Renzo Sebastian Uribe Livia | Done |
+|          |                          | **TA006** | Verificar accesibilidad de los botones en dispositivos móviles. | 1 hora | Valentino Sandoval Paiva | Done |
+| **US-003** | **Comprensión del Valor de la Plataforma** | **TA007** | Redactar los beneficios clave de la plataforma. | 1 hora | Marcia Victoria Melgarejo Gomez | Done |
+|          |                          | **TA008** | Diseñar y crear una sección de beneficios destacando los puntos clave. | 2 horas | Gabriel Fernando Gordon Salas | Done |
+|          |                          | **TA009** | Añadir íconos gráficos que refuercen visualmente los beneficios. | 1.5 horas | Fabian Alejandro Oliva Lopez | Done |
+| **US-004** | **Información de Recompensas y Reciclaje** | **TA010** | Crear una sección que explique el sistema de recompensas y reciclaje. | 2 horas | Valentino Sandoval Paiva | Done |
+|          |                          | **TA011** | Implementar gráficos visuales que representen las recompensas obtenidas. | 1.5 horas | Renzo Sebastian Uribe Livia | Done |
+| **US-005** | **Diseño Responsivo en Móviles** | **TA012** | Revisar el diseño general para asegurar que se adapte correctamente a diferentes dispositivos. | 2 horas | Marcia Victoria Melgarejo Gomez | Done |
+|          |                          | **TA013** | Realizar pruebas de visualización en smartphones y tablets. | 1 hora | Gabriel Fernando Gordon Salas | Done |
+| **US-006** | **Botones Accesibles en Dispositivos Táctiles** | **TA014** | Ajustar el tamaño de los botones para que sean fácilmente seleccionables en dispositivos táctiles. | 1.5 horas | Valentino Sandoval Paiva | Done |
+|          |                          | **TA015** | Realizar pruebas de interacción táctil para verificar la accesibilidad. | 1 hora | Renzo Sebastian Uribe Livia | Done |
+| **US-007** | **Uso de Imágenes y Gráficos Ilustrativos** | **TA016** | Seleccionar imágenes y gráficos ilustrativos de la plataforma. | 2 horas | Fabian Alejandro Oliva Lopez | Done |
+|          |                          | **TA017** | Integrar las imágenes dentro de las secciones explicativas de la landing page. | 1.5 horas | Gabriel Fernando Gordon Salas | Done |
+| **US-008** | **Visualización de Recompensas Atractiva** | **TA018** | Crear íconos visuales para representar las recompensas obtenidas. | 1.5 horas | Marcia Victoria Melgarejo Gomez | Done |
+|          |                          | **TA019** | Añadir los íconos en la sección de recompensas y asegurarse de que sean atractivos. | 1.5 horas | Valentino Sandoval Paiva | Done |
+| **US-009** | **Transparencia de la Empresa** | **TA020** | Redactar y añadir la sección "Sobre Nosotros" que describa la misión, visión y valores de CleanView. | 2 horas | Renzo Sebastian Uribe Livia | Done |
+| **US-010** | **Credibilidad de la Plataforma** | **TA021** | Incluir información sobre la experiencia y alianzas estratégicas de CleanView. | 2 horas | Gabriel Fernando Gordon Salas | Done |
+| **US-011** | **Contacto Directo vía Formulario** | **TA022** | Crear un formulario de contacto funcional y sencillo. | 1.5 horas | Marcia Victoria Melgarejo Gomez | Done |
+|          |                          | **TA023** | Implementar la funcionalidad de envío de mensajes. | 1 hora | Valentino Sandoval Paiva | Done |
+| **US-012** | **Formulario de Contacto Sencillo** | **TA024** | Simplificar el diseño del formulario para que sea rápido de completar. | 1 hora | Renzo Sebastian Uribe Livia | Done |
+|          |                          | **TA025** | Asegurar que el formulario sea intuitivo y fácil de usar. | 1 hora | Fabian Alejandro Oliva Lopez | Done |
+
 
 ![alt text](assets/TB1-image/Trelloo1.png)
 
@@ -1819,11 +1850,23 @@ Link Trello:
 
 #### 5.2.1.3 Development Evidence for Sprint Review
 
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services. La sección inicia con una introducción que resume los principales avances en la implementación. A continuación se presenta la tabla que incluye, para cada repositorio, los commits relacionados con la implementación.
+
+| **Repository**     | **Branch**                                | **Commit Id** | **Commit Message**                              | **Commit Message Body**                           | **Committed on (Date)** |
+|----------------|-------------------------------------------|---------------|-------------------------------------------------|---------------------------------------------------|-------------------------|
+| LandingPage       | main                               | 93d0247035c1bdbae3eaa20a3e121da162267e4f        | first commit                                    | Estructura inicial del proyecto: archivos .html, .css e imágenes. | 26/04/2025              |
+| Report       | feature/Sprint2-sprintBacklog-services_Documentation_Evidence | 75c0c75        | Se realizo la agregacion de los videos y paginas | Created the README file.                          | 25/09/2024              |
+| Report       | development                               | 6548432        | feat:Testing Suite Evidence for Sprint Review   | feat:Testing Suite Evidence for Sprint Review     | 25/09/2024              |
+| Report       | development                               | a19b6ac        | feature:Sprint Backlog  update                 | Se realizo una actualizacion del product backlog | 25/09/2024              |
+| Report       | development                               | 29ca9f3        | feature/execution-evidence-from-sprint-review   | feature/execution-evidence-from-sprint-review     | 24/09/2024              |
+| Report       | docs/landingpage-deployment-evidence      | 7fe8f1f        | feature: added landing page deployment evidence | feature: added landing page deployment evidence   | 24/09/2024              |
+| Report       | fix/diagrama-clases                       | 6e41532        | feature: Add bounded context Reports images and Information | feature: Add bounded context Reports images and Information | 24/09/2024              |
 
 
 
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review.
 
+Durante este sprint 1 el equipo se enfocó en el desarrollo de la lading page por lo cual no se requirio pruebas de testing.
 
 #### 5.2.1.5 Execution Evidence for Sprint Review.
 
