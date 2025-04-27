@@ -1199,6 +1199,31 @@ Para empresas
 ## 4.4.3. Web Applications User Flow Diagrams.  
 
 
+Como empresa, quiero añadir nueva zona de monitoreo.
+
+![User Flow Diagrams](./img/UserFlow-AñadirZona.png)
+
+Como empresa, quiero añadir un nuevo sensor.
+
+![User Flow Diagrams](./img/UserFlow-AñadirNuevo.png)
+
+Como empresa, quiero contratar servicio de punto de acopio.
+
+![User Flow Diagrams](./img/UserFlow-ContratarServicio.png)
+
+Como empresa, quiero eliminar sensor registrado.
+
+![User Flow Diagrams](./img/UserFlow-EliminarSensor.png)
+
+Como empresa, quiero eliminar Servicio Contratado.
+
+![User Flow Diagrams](./img/UserFlow-EliminarServicio.png)
+
+Como persona natural, quiero añadir canjear puntos.
+
+![User Flow Diagrams](./img/UserFlow-CanjearPuntos.png)
+
+
 ## 4.5. Web Applications Prototyping.
 
 Los prototipos de CleanWide para Web Browser fueron desarrollados basándose en los User Flows definidos, buscando ofrecer una experiencia de navegación fluida, accesible y coherente para los diferentes tipos de usuarios.
