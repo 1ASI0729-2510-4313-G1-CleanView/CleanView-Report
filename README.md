@@ -58,8 +58,8 @@
 
 | Criterio Específico                                                                 | Acciones realizadas | Conclusiones |
 |-------------------------------------------------------------------------------------|---------------------|--------------|
-| 3.c1 Comunica de manera oral con efectividad a diferentes rangos de audiencia       |                     |              |
-| 3.c2 Comunica por escrito con efectividad rangos de audiencia                       |                     |              |
+| 3.c1 Comunica de manera oral con efectividad a diferentes rangos de audiencia       | **Gabriel Gordon TB1:** Realicé una parte del diseño de la landing page, los user person, el journey map, impacting map, user stories, product backlog, diseño del figma tanto wireframes y mock-ups de la landing page y la app, también implementé el diagrama de clases, su descripción y el diagrama de base de daños.   <br>                |  TB1: Cómo conclusión para esta presentación, cada integrante cumplió con sus actividades y se mantuvo una comunicación correcta sobre el proyecto, dando como resultado en este avance una base sólida para seguir con el proyecto            |
+| 3.c2 Comunica por escrito con efectividad rangos de audiencia                       |   **Gabriel Gordon TB1:** Realicé una parte del diseño de la landing page, los user person, el journey map, impacting map, user stories, product backlog, diseño del figma tanto wireframes y mock-ups de la landing page y la app, también implementé el diagrama de clases, su descripción y el diagrama de base de daños. <br>    |     TB1: El equipo demostró una buena capacidad de comunicación escrita de forma clara y efectiva. De manera que, todos podamos mejorar nuestro desempeño en grupo al hacer las actividades        |
 
 ## Repertorio
 
