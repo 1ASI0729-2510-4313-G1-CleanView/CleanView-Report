@@ -29,22 +29,27 @@
 
 ## Registro de Versiones del Informe
 
-
 | Version | Fecha      | Autor                    | Descripcion                                                                                                                                                                                                                                                                                 |
 | ------- | ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TB1     | 26/08/2025 | Renzo Sebastian Uribe Livia           | Desarrollé el Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,Coompetidores y Estrategias y tácticas frente a competidores                                                                                                                                             |
-| TB1     | 05/09/2025 | Renzo Sebastian Uribe Livia           | Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1                                                                                                                                                        |
-| TB1     | 29/08/2025 | Valentino Sandoval Paiva | Desarrollé la Descripción de la Startup, Solution Profile, el regitro de una entrevista a un usuario del segmento 1 y 2, y realicé una entrevista.                                                                                                                                          |
-| TB1     | 05/09/2025 | Valentino Sandoval Paiva | Desarrollé el Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management                                                                                                                                                                                       |
-| TB1     | 25/09/2025 | Fabian Alejandro Oliva Lopez  | Realice el Startup Profile. Completando los antecedentes y problematica                                                                                                                                                                                                                     |
-| TB1     | 27/09/2025 | Fabian Alejandro Oliva Lopez  | Realice las entrevistas. Grabando y resumiendo para el Registro de entrevistas.                                                                                                                                                                                                             |
-| TB1     | 1/09/2025  | Marcia Victoria Melgarejo Gomez  | Complete el Ubiquitous Language. Realice el Domain-Driven Software Architecture al finalizar el Software Architecture Context Diagram, Software Architecture Container Diagrams y Software Architecture Components Diagrams.                                                                |
-| TB1     | 6/09/2025  | Marcia Victoria Melgarejo Gomez  | Desarrolle el Sprint 1, al desarrollar el Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint. |
-| TB1     | 8/09/2025  | Gabriel Fernando Gordon Salas  | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |
-| TB1     | 29/08/2025 | Gabriel Fernando Gordon Salas             | Desarrolle los as-is y to-be scenarios, además del registro de 1 entrevista por segmento objetivo.                                                                                                                                                                                          |
-| TB1     | 6/09/2025  | Valentino Sandoval Paiva             | Desarrolle los wireframes y mockups de la landing page, además de los wireframes, mockups, wireflows y user flows diagrams para la aplicación web.                                                                                                                                          |
-| TB1     | 11/10/2025 | Marcia Victoria Melgarejo Gomez             | Desarrolle los mockups de la landing pagE, Landing Page Wireframe, conclusiones , Student Ourtcome.                                                                                                                                                                                         |
-| TB1     | 8/09/2025  | Renzo Sebastian Uribe Livia            | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |                             
+| TB1     | 10/04/2025 | Renzo Sebastian Uribe Livia       | Initial commit and product backlog |
+| TB1     | 10/04/2025 | Fabian Oliva  | add features in chapther 2 and 4     |
+| TB1     | 12/04/2025 | Fabian Oliva | feat: 4.1.1 |
+| TB1     | 12/04/2025 | Gabriel Gordon  | add User Persona, User Task Matrix and User Journey mapping |
+| TB1     | 13/04/2025 | Fabian Alejandro Oliva Lopez  | arreglos en el punto 2.1.1 de analisis competitivo |
+| TB1     | 13/04/2025  | Marcia Victoria Melgarejo Gomez  | Desarrolló de Lean UX canvas, User Persona, Empathy mapping, As-Is Scenario Mapping, To-be Scenario, Information Architecture, Labeling Systems |
+| TB1     | 14/04/2025  | Valentino Sandoval Paiva   | Cambios al reporte y añadición del capitulo 5 |
+| TB1     | 16/04/2025  | Gabriel Fernando Gordon Salas  | Actualización de las User Stories del 1 al 5 mejorando el detalle de cada una |
+| TB1     | 17/04/2025 | Marcia Victoria Melgarejo Gomez             | Desarrollo de más puntos del capitulo 4 |
+| TB1     | 17/04/2025  | Gabriel Fernando Gordon Salas  | Actualización de más user Stories |
+| TB1     | 18/04/2025  | Marcia Victoria Melgarejo Gomez  | Incremento de user stories y epicas |
+| TB1     | 18/04/2025  | Gabriel Fernando Gordon Salas   | Añadición del impac mapping y actualización de más user stories | 
+| TB1     | 18/04/2025  | Valentino Sandoval Paiva   | Añadición user stories de la landing page |      
+| TB1     | 22/04/2025  | Renzo Sebastian Uribe Livia     | Añadición de entrevistas |      
+| TB1     | 24/04/2025  | Gabriel Fernando Gordon Salas | Desarrolló de los diagramas de clases y base de datos |     
+| TB1     | 26/04/2025  | Marcia Victoria Melgarejo Gomez | Culminación del capitulo 4 |     
+| TB1     | 26/04/2025  | Fabian Alejandro Oliva Lopez   | Desarrollo del punto 2.2.2 |
+| TB1     | 27/04/2025  | Renzo Sebastian Uribe Livia | Posicionamiento del analisis de las entrevistas realizadas |     
+| TB1     | 27/04/2025  | Valentino Sandoval Paiva  | Actualización del capitulo 5, los insights del repo y el añadimiento del sprint backlog |                        
 
 ## Project Report Collaboration Insights
 
