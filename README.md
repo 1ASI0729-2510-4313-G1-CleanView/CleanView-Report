@@ -1969,25 +1969,26 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 
 
 ## Bibliografía
+
 Jansen, S. M. (2019). Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, NoSQL Databases, and Microservices. Apress. Retrieved from https://bit.ly/4flQyB7
 
 Labedian, I. (2024, May 14). How to deploy a .NET app on Railway using Docker. I. Labedian. Retrieved from https://iliabedian.com/blog/deploy-dotnet-app-on-railway-with-docker
 
-Microsoft. (n.d.). What is ASP.NET Core?. Microsoft. Retrieved from https://dotnet.microsoft.com/es-es/learn/aspnet/what-is-aspnet-core
+Microsoft. (n.d.). What is ASP.NET Core? Microsoft. Retrieved from https://dotnet.microsoft.com/es-es/learn/aspnet/what-is-aspnet-core
 
 Miles, R., & Hamilton, K. (2006). Learning UML 2.0. O'Reilly Media. Retrieved from https://bit.ly/4fmPE7k
 
-Netlify. (n.d.). Deploying Vite on Netlify. Netlify Docs. Retrieved from https://docs.netlify.com/frameworks/vite/
-
-PrimeVue. (n.d.). Setting up PrimeVue. PrimeVue. Retrieved from https://primevue.org/setup/
-
 SAP. (n.d.). CRM: Customer relationship management solutions. SAP. Retrieved from https://www.sap.com/latinamerica/products/crm.html
-
-Shavin, M. (2020). Learning Vue: A hands-on guide to building modern web applications with Vue.js. Packt Publishing.
 
 Structurizr. (n.d.). Structurizr: Software architecture diagram design. Structurizr. Retrieved from https://structurizr.com/
 
 Vernon, V. (2013). Implementing domain-driven design. Addison-Wesley.
+
+Angular. (n.d.). Introduction to Angular. Angular Official Documentation. Retrieved from https://angular.io/guide/what-is-angular
+
+Angular Material. (n.d.). Getting started with Angular Material. Angular Material Docs. Retrieved from https://material.angular.io/guide/getting-started
+
+Angular. (n.d.). Angular Forms Guide. Angular Official Documentation. Retrieved from https://angular.io/guide/forms-overview
 
 ## Anexos
 
