@@ -32,9 +32,19 @@
 
 | Version | Fecha      | Autor                    | Descripcion                                                                                                                                                                                                                                                                                 |
 | ------- | ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TB1     |  |            |                                                                                                                                              |
-| TB1     |  |            |                                                                                                                                                         |
-| TB1     |  |  |                                                                        
+| TB1     | 26/08/2025 | Renzo Sebastian Uribe Livia           | Desarrollé el Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,Coompetidores y Estrategias y tácticas frente a competidores                                                                                                                                             |
+| TB1     | 05/09/2025 | Renzo Sebastian Uribe Livia           | Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1                                                                                                                                                        |
+| TB1     | 29/08/2025 | Valentino Sandoval Paiva | Desarrollé la Descripción de la Startup, Solution Profile, el regitro de una entrevista a un usuario del segmento 1 y 2, y realicé una entrevista.                                                                                                                                          |
+| TB1     | 05/09/2025 | Valentino Sandoval Paiva | Desarrollé el Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management                                                                                                                                                                                       |
+| TB1     | 25/09/2025 | Fabian Alejandro Oliva Lopez  | Realice el Startup Profile. Completando los antecedentes y problematica                                                                                                                                                                                                                     |
+| TB1     | 27/09/2025 | Fabian Alejandro Oliva Lopez  | Realice las entrevistas. Grabando y resumiendo para el Registro de entrevistas.                                                                                                                                                                                                             |
+| TB1     | 1/09/2025  | Marcia Victoria Melgarejo Gomez  | Complete el Ubiquitous Language. Realice el Domain-Driven Software Architecture al finalizar el Software Architecture Context Diagram, Software Architecture Container Diagrams y Software Architecture Components Diagrams.                                                                |
+| TB1     | 6/09/2025  | Marcia Victoria Melgarejo Gomez  | Desarrolle el Sprint 1, al desarrollar el Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint. |
+| TB1     | 8/09/2025  | Gabriel Fernando Gordon Salas  | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |
+| TB1     | 29/08/2025 | Gabriel Fernando Gordon Salas             | Desarrolle los as-is y to-be scenarios, además del registro de 1 entrevista por segmento objetivo.                                                                                                                                                                                          |
+| TB1     | 6/09/2025  | Valentino Sandoval Paiva             | Desarrolle los wireframes y mockups de la landing page, además de los wireframes, mockups, wireflows y user flows diagrams para la aplicación web.                                                                                                                                          |
+| TB1     | 11/10/2025 | Marcia Victoria Melgarejo Gomez             | Desarrolle los mockups de la landing pagE, Landing Page Wireframe, conclusiones , Student Ourtcome.                                                                                                                                                                                         |
+| TB1     | 8/09/2025  | Renzo Sebastian Uribe Livia            | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |                             
 
 ## Project Report Collaboration Insights
 
@@ -50,9 +60,48 @@
 **URL LANDING PAGE DESPLEGADO**: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
 
 
+TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/Horizon-ManageWise. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/Horizon-ManageWise/Horizon.git, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/Horizon-ManageWise/LandingPage.git . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes. En este Trabajo final nos encargamos de conectar los bounded context y conectar cada uno con su frontend.
+
+<br>**Vista de commits: Landing page:**  
+![alt text](assets/TB1-new/landingc1.jpeg)
+
+![alt text](assets/TB1-new/landingc2.jpeg)
+
+![alt text](assets/TB1-image/commitslandingnet.jpeg)
+
+- Renzo Sebastian Uribe Livia: 1
+- Fabian Alejandro Oliva Lopez: 10
+- Valentino Sandoval Paiva: 1
+- Marcia Victoria Melgarejo Gomez: 8
+- Gabriel Fernando Gordon Salas
+
+<br>**Issues**
+
+![alt text](assets/TB1-image/issue.png)
+
+<br>**Report:**
+
+![alt text](assets/TB1-new/commitsall2.jpeg)
+
+![alt text](assets/TB1-new/commitall1.jpeg)
+
+![alt text](assets/TB1-image/commitsreport3.jpeg)
+
+- Renzo Sebastian Uribe Livia: 1
+- Fabian Alejandro Oliva Lopez: 10
+- Valentino Sandoval Paiva: 1
+- Marcia Victoria Melgarejo Gomez: 8
+- Gabriel Fernando Gordon Salas: 
 
 
----
+TB1:<br>
+|Integrante|Tarea Asignada|
+|-|-|
+|Renzo Sebastian Uribe Livia|Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,Coompetidores,Estrategias y tácticas frente a competidores,User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
+|Sandoval Paiva Valentino|Descripción de la Startup, 5w y 2h, Solution Profile, Antecedentes y problemática, el regitro de una entrevista , Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management.|
+| Fabian Alejandro Oliva Lopez | Startup Profile, Descripción de la Startup, Antecedentes y problemática, Entrevistas, Registro de entrevistas, User Personas, Ubiquitous Language, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Sprint 1, Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
+| Marcia Victoria Melgarejo Gomez | Segmentos objetivos, registro de entrevistas, as-is scenario mapping, to-be scenario mapping, landing page wireframes, landing page mockups, web application wireframes, web application mockups, web applications wireflow diagrams, web applications user flow diagrams, desarrollo de la landing page. |
+| Gabriel Fernando Gordon Salas | Student outcome , conclusiones, Landing Page Wireframe, Landing Page Mock-up, Testing Suite Evidence for Sprint Review, landing page mockups, web application wireframes, web application mockups, wSoftware Deployment Evidence for Sprint Review |
 
 ## Student Outcome
 
@@ -211,7 +260,7 @@ Ser la herramienta líder en la gestión de residuos para empresas a nivel globa
 | Fabian Alejandro Oliva Lopez  | Ingeniero de sofware    | fabianalejandro1001@gmail.com              | Desarrollo en Visual Studio          |                                                                             
 | Marcia Victoria Melgarejo Gomez|Ingeniera de Software   |melgarejogomezmarcia@gmail.com              | Desarrollo en C++, HTML, CSS, JS     |
 | Gabriel Fernando Gordon Salas | Ingeniero de Software   | gabrielfgs2004@gmail.com                   | Desarrollo en C++, HTML, CSS, JS, SQL, Python|
-|                               |                         |                                            |                                      |
+| Valentino Sandoval Paiva |  Ingeniero de software                       |      valentinosandoval2805@gmail.com                                      | Desarrollo en C++, HTML, CSS, JS, SQL, Python, Java                                     |
 
 ## 1.2. Solution Profile
 
