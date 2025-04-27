@@ -348,6 +348,28 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 
 Video de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EYdkH2BP16hCmVbjeXNVnmcBRZggWBN1BD-u5_knJIiqnQ?e=hTQWMM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+## Entrevistas de personas Naturales
+
+## Entrevistas de Empresarios 
+
+### Entrevistado: Alejandro Oroncoy
+
+-**Edad:** 20
+
+-**Distrito:** Lima
+
+-**Resumen:** Alejandro forma parte de una pequeña empresa que opera en una oficina de dimensiones reducidas. Aunque el espacio de trabajo es acogedor y funcional, a menudo enfrentan dificultades relacionadas con la gestión de residuos. Esto se debe principalmente a que, al ser una empresa de tamaño limitado, cuentan únicamente con una persona encargada de supervisar y manejar todos los residuos generados. Esta situación provoca que, en ocasiones, se acumulen desechos o no se sigan correctamente los protocolos de reciclaje y disposición adecuada. Además, la falta de infraestructura específica y de un sistema organizado de recolección selectiva complica aún más el manejo eficiente de los residuos, afectando tanto la limpieza del lugar como el compromiso de la empresa con la sostenibilidad ambiental.
+
+![image](https://github.com/user-attachments/assets/d7a3ed15-c520-443d-ae9c-a5c77b656d6d)
+
+URL: 
+
+Inicio: 15:30
+
+Fin: 21:20
+
+
+
 ### 2.2.3. Análisis de entrevistas.
 
 ## Analisis del segmento de Personas naturales
