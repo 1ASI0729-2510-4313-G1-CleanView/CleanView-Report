@@ -63,35 +63,30 @@
 TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/1ASI0729-2510-4313-G1-CleanView. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio:  https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page .
 
 <br>**Vista de commits: Landing page:**  
-![alt text](assets/TB1-new/landingc1.jpeg)
 
-![alt text](assets/TB1-new/landingc2.jpeg)
+![alt text](img/comm.png)
 
-![alt text](assets/TB1-image/commitslandingnet.jpeg)
+![alt text](img/comm1.jpg)
 
-- Renzo Sebastian Uribe Livia: 1
-- Fabian Alejandro Oliva Lopez: 10
-- Valentino Sandoval Paiva: 1
-- Marcia Victoria Melgarejo Gomez: 8
-- Gabriel Fernando Gordon Salas
-
-<br>**Issues**
-
-![alt text](assets/TB1-image/issue.png)
+- Renzo Sebastian Uribe Livia: 4
+- Fabian Alejandro Oliva Lopez: 4
+- Valentino Sandoval Paiva: 2
+- Marcia Victoria Melgarejo Gomez: 5
+- Gabriel Fernando Gordon Salas: 12
 
 <br>**Report:**
 
-![alt text](assets/TB1-new/commitsall2.jpeg)
+![alt text](img/comm2.png)
 
-![alt text](assets/TB1-new/commitall1.jpeg)
+![alt text](img/comm3.png)
 
-![alt text](assets/TB1-image/commitsreport3.jpeg)
+![alt text](img/comm4.png)
 
-- Renzo Sebastian Uribe Livia: 1
-- Fabian Alejandro Oliva Lopez: 10
-- Valentino Sandoval Paiva: 1
-- Marcia Victoria Melgarejo Gomez: 8
-- Gabriel Fernando Gordon Salas: 
+- Renzo Sebastian Uribe Livia: 13
+- Fabian Alejandro Oliva Lopez: 17
+- Valentino Sandoval Paiva: 7
+- Marcia Victoria Melgarejo Gomez: 42
+- Gabriel Fernando Gordon Salas: 28
 
 
 TB1:<br>
@@ -1945,35 +1940,68 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
   Documentación: Creación de documentación relevante para la landing page, incluyendo capturas de pantalla y descripciones.
   Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
 
-**Landing Page**
+<br>**Vista de commits: Landing page:**  
 
-![Commits](assets/TB1-new/landingc1.jpeg)
-![Commits](assets/TB1-new/landingc2.jpeg)
+![alt text](img/comm.png)
 
+![alt text](img/comm1.jpg)
 
-- Valentino Sandoval Paiva: 
-- Renzo Sebastian Uribe Livia	
-- Fabian Alejandro Oliva Lopez	
-- Marcia Victoria Melgarejo Gomez	
-- Gabriel Fernando Gordon Salas	
+- Renzo Sebastian Uribe Livia: 4
+- Fabian Alejandro Oliva Lopez: 4
+- Valentino Sandoval Paiva: 2
+- Marcia Victoria Melgarejo Gomez: 5
+- Gabriel Fernando Gordon Salas: 12
 
+<br>**Report:**
 
-**Report:**
+![alt text](img/comm2.png)
 
-![alt text](assets/TB1-new/commitsall2.jpeg)
+![alt text](img/comm3.png)
 
-![alt text](assets/TB1-new/commitall1.jpeg)
+![alt text](img/comm4.png)
 
-![alt text](assets/TB1-image/commitsreport3.jpeg)
-
-![Commits](assets/TB1-image/commitsreport3.jpeg)
-
-
-- Renzo Sebastian Uribe Livia	
-- Fabian Alejandro Oliva Lopez	
-- Marcia Victoria Melgarejo Gomez	
-- Gabriel Fernando Gordon Salas	
-- Valentino Sandoval Paiva: 
+- Renzo Sebastian Uribe Livia: 13
+- Fabian Alejandro Oliva Lopez: 17
+- Valentino Sandoval Paiva: 7
+- Marcia Victoria Melgarejo Gomez: 42
+- Gabriel Fernando Gordon Salas: 28
 
 
 
+## Bibliografía
+Jansen, S. M. (2019). Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, NoSQL Databases, and Microservices. Apress. Retrieved from https://bit.ly/4flQyB7
+
+Labedian, I. (2024, May 14). How to deploy a .NET app on Railway using Docker. I. Labedian. Retrieved from https://iliabedian.com/blog/deploy-dotnet-app-on-railway-with-docker
+
+Microsoft. (n.d.). What is ASP.NET Core?. Microsoft. Retrieved from https://dotnet.microsoft.com/es-es/learn/aspnet/what-is-aspnet-core
+
+Miles, R., & Hamilton, K. (2006). Learning UML 2.0. O'Reilly Media. Retrieved from https://bit.ly/4fmPE7k
+
+Netlify. (n.d.). Deploying Vite on Netlify. Netlify Docs. Retrieved from https://docs.netlify.com/frameworks/vite/
+
+PrimeVue. (n.d.). Setting up PrimeVue. PrimeVue. Retrieved from https://primevue.org/setup/
+
+SAP. (n.d.). CRM: Customer relationship management solutions. SAP. Retrieved from https://www.sap.com/latinamerica/products/crm.html
+
+Shavin, M. (2020). Learning Vue: A hands-on guide to building modern web applications with Vue.js. Packt Publishing.
+
+Structurizr. (n.d.). Structurizr: Software architecture diagram design. Structurizr. Retrieved from https://structurizr.com/
+
+Vernon, V. (2013). Implementing domain-driven design. Addison-Wesley.
+
+## Anexos
+
+Anexo A. Products Deployed.
+Landing Page Desplegada: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
+
+Anexo B. Web tools
+Figma Landing Page: https://www.figma.com/design/bXnTP7xfO3bneisawRwlM5/Untitled?node-id=0-1&p=f&t=OTruJWbPB0L0sV6e-0
+
+Anexo C. Github Repositories
+Link de la Organización : https://github.com/1ASI0729-2510-4313-G1-CleanView
+
+Repositorios	Enlace al Respositorio:
+
+Project Report	https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report
+
+Landing Page	https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page
