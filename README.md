@@ -325,7 +325,9 @@ Muchos responsables de sostenibilidad o logística dentro de las empresas no tie
 
 ### 1.2.2.3 Lean UX Hypothesis Statements
 
-#### Hypothesis Statement 1
+---
+
+#### Hypothesis Statement 1  
 Creemos que lograremos una mejora en la eficiencia en la gestión de residuos y una reducción en los costos asociados a la mala gestión de desechos.
 
 Sabremos que si las empresas  
@@ -334,7 +336,7 @@ Cuando veamos con una solución digital que permita monitorear los residuos gene
 
 ---
 
-#### Hypothesis Statement 2
+#### Hypothesis Statement 2  
 Creemos que lograremos un aumento en la toma de decisiones informadas para la optimización de los procesos de reciclaje y reducción de desechos.
 
 Sabremos que si los responsables de sostenibilidad en las empresas  
@@ -343,12 +345,13 @@ Cuando veamos con una funcionalidad que ofrezca recomendaciones claras y datos v
 
 ---
 
-#### Hypothesis Statement 3
+#### Hypothesis Statement 3  
 Creemos que lograremos una mejora en el cumplimiento de normativas ambientales y un aumento en la eficiencia operativa de las empresas.
 
 Sabremos que si las empresas  
 Reciben alertas personalizadas y recomendaciones para mejorar sus prácticas de reciclaje y cumplir con las regulaciones ambientales,  
 Cuando veamos con un sistema que envíe notificaciones sobre fechas de recolección, objetivos de reducción de residuos y cumplimiento de normativas ambientales.
+
 
 #### 1.2.2.4. Lean UX Canvas
 
