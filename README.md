@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5f32c979-7e5f-4210-8a02-2834666a7906)# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 ![UPC Logo](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
@@ -444,7 +444,7 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 
 ### 2.2.2 Registro de entrevistas
 
-Video de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EYdkH2BP16hCmVbjeXNVnmcBRZggWBN1BD-u5_knJIiqnQ?e=hTQWMM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Video de las entrevistas: https://shorturl.at/hMYMi
 
 ## Entrevistas de personas Naturales
 
@@ -458,7 +458,7 @@ Video de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202
 
 ![image](https://github.com/user-attachments/assets/b3c1ede4-300d-4327-bcdb-280639e6485e)
 
-URL: https://upcedupe-my.sharepoint.com/personal/u202312013_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202312013%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202501%2D1ASI0729%2D2510%2D4313%2DCleanView%2DEntrevistas%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4d7e8b79%2D043f%2D44e4%2D8ee6%2Db342b1494c9a
+URL: https://shorturl.at/e37fd
 
 Inicio: 0:05
 
@@ -478,7 +478,7 @@ Fin: 10:05
 
 ![image](https://github.com/user-attachments/assets/f0bcfe7d-9a78-4933-aa2f-549d2572ef35)
 
-URL: https://upcedupe-my.sharepoint.com/personal/u202312013_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202312013%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202501%2D1ASI0729%2D2510%2D4313%2DCleanView%2DEntrevistas%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4d7e8b79%2D043f%2D44e4%2D8ee6%2Db342b1494c9a
+URL: https://shorturl.at/7Og1b 
 
 
 ### Entrevistado: Alvaro Gomez
