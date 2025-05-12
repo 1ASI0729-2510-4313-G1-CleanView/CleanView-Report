@@ -1,4 +1,4 @@
-# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+![image](https://github.com/user-attachments/assets/5f32c979-7e5f-4210-8a02-2834666a7906)# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 ![UPC Logo](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
@@ -494,7 +494,7 @@ Fin: 15:22
 
 ![image](https://github.com/user-attachments/assets/f88dba93-15f3-4d1f-88be-e5f71a269529)
 
-URL: https://upcedupe-my.sharepoint.com/personal/u202312013_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202312013%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202501%2D1ASI0729%2D2510%2D4313%2DCleanView%2DEntrevistas%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4d7e8b79%2D043f%2D44e4%2D8ee6%2Db342b1494c9a
+URL: https://shorturl.at/xdnE6
 
 ## Entrevistas de Empresarios 
 
