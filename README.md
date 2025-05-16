@@ -65,7 +65,7 @@
 
 **URL LANDING PAGE DESPLEGADO**: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
 
-**URL FRONTEND DESPLEGADO:**
+**URL FRONTEND DESPLEGADO:**: https://frontend-web-applications.vercel.app/
 
 
 TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/1ASI0729-2510-4313-G1-CleanView. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio:  https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page .
@@ -1997,11 +1997,11 @@ LINK DEL FRONTEND DESPLEGADO: https://frontend-web-applications.vercel.app/
 
 *Home page*
 
-![Commits](img\TP\fro4.png)
+![Commits](img/TP/fro4.png)
 
 *Panel de control*
 
-![Commits](img\TP\fro5.png)
+![Commits](img/TP/fro5.png)
 
 
 *Seccion de puntos de Acopio*
@@ -2079,7 +2079,7 @@ Botones al final del formulario:
 
 **Reports*
 
-![Commits](img/TP/fro6.jpg)
+![Commits](img/TP/fro6.png)
 
 
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review
