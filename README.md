@@ -44,11 +44,11 @@
 | TB1     | 06/09/2025 | Valentino Sandoval Paiva           | Desarrolle los wireframes y mockups de la landing page, además de los wireframes, mockups, wireflows y user flows diagrams para la aplicación web.                                                                                                                                          |
 | TB1     | 11/10/2025 | Marcia Victoria Melgarejo Gomez    | Desarrolle los mockups de la landing pagE, Landing Page Wireframe, conclusiones , Student Ourtcome.                                                                                                                                                                                         |
 | TB1     | 08/09/2025 | Renzo Sebastian Uribe Livia        | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |
-| TP     | 10/05/2025 | Renzo Sebastian Uribe Livia        |                                                                                                                                                                                                                                                                                             |
-| TP    | 10/05/2025 | Valentino Sandoval Paiva           |       Desarrollo del sprint 2 y Bounded Context de Collection                                                                                                                                                                                                                                                                                      |
-| TP    | 10/05/2025 | Fabian Alejandro Oliva Lopez       |                                                                                                                                                                                                                                                                                             |
-| TP     | 10/05/2025 | Marcia Victoria Melgarejo Gomez    |                                                                                                                                                                                                                                                                                             |
-| TP     | 10/05/2025 | Gabriel Fernando Gordon Salas      |                                                                                                                                                                                                                                                                                             |
+| TP | 10/05/2025 | Renzo Sebastian Uribe Livia     | Desarrollo del Bounded Context de **Home**                  |
+| TP | 10/05/2025 | Valentino Sandoval Paiva        | Desarrollo del Sprint 2 y Bounded Context de **Collection** |
+| TP | 10/05/2025 | Fabian Alejandro Oliva Lopez    | Desarrollo del Bounded Context de **Control Panel**         |
+| TP | 10/05/2025 | Marcia Victoria Melgarejo Gomez | Desarrollo del Bounded Context de **Sustainable Actions**   |
+| TP | 10/05/2025 | Gabriel Fernando Gordon Salas   | Desarrollo del Bounded Context de **Reports**               |
 
 ## Project Report Collaboration Insights
 
@@ -96,23 +96,22 @@ TB1:<br>
 | Marcia Victoria Melgarejo Gomez | Segmentos objetivos, registro de entrevistas, as-is scenario mapping, to-be scenario mapping, landing page wireframes, landing page mockups, web application wireframes, web application mockups, web applications wireflow diagrams, web applications user flow diagrams, desarrollo de la landing page. |
 | Gabriel Fernando Gordon Salas | Student outcome , conclusiones, Landing Page Wireframe, Landing Page Mock-up, Testing Suite Evidence for Sprint Review, landing page mockups, web application wireframes, web application mockups, wSoftware Deployment Evidence for Sprint Review |
 
-**TB2:**
+**TP:**
 
-| Integrante                         | Tarea Asignada |
-|------------------------------------|----------------|
-| Renzo Sebastian Uribe Livia        |                |
-| Sandoval Paiva Valentino           | Desarrolló el Sprint 2 completo, incluyendo la planificación, ejecución, documentación y revisión del sprint. Estuvo a cargo del desarrollo del bounded context de *Collection Points*, implementando las funcionalidades necesarias para la gestión de puntos de recolección, sus formularios de registro, visualización y validaciones. También colaboró activamente en las pruebas, la integración con otros módulos y el despliegue funcional del contexto asignado. |
-| Fabian Alejandro Oliva Lopez       |                |
-| Marcia Victoria Melgarejo Gomez    |                |
-| Gabriel Fernando Gordon Salas      |                |
+| Integrante                          | Tarea Asignada                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Renzo Sebastian Uribe Livia**     | Se encargó del desarrollo del bounded context de **Home**, creando la estructura base de la página principal de la plataforma. Implementó el diseño responsivo, los componentes de navegación y los elementos visuales clave para mejorar la experiencia del usuario. Además, trabajó en la integración de datos en tiempo real para mostrar información resumida del sistema en el dashboard inicial. Participó en la revisión del diseño de interfaz y en pruebas funcionales.                            |
+| **Sandoval Paiva Valentino**        | Desarrolló el Sprint 2 completo, incluyendo la planificación, ejecución, documentación y revisión del sprint. Estuvo a cargo del desarrollo del bounded context de *Collection Points*, implementando las funcionalidades necesarias para la gestión de puntos de recolección, sus formularios de registro, visualización y validaciones. También colaboró activamente en las pruebas, la integración con otros módulos y el despliegue funcional del contexto asignado.                                    |
+| **Fabian Alejandro Oliva Lopez**    | Desarrolló el bounded context de **Control Panel**, encargado de centralizar la configuración y gestión de parámetros del sistema. Implementó componentes de control para sensores, dispositivos y notificaciones. Además, desarrolló validaciones de entrada y manejo de errores para garantizar la integridad de los datos. Participó en la conexión con la base de datos local de pruebas y en la integración con otros contextos como Home y Reports.                                                   |
+| **Marcia Victoria Melgarejo Gomez** | Fue responsable del bounded context de **Sustainable Actions**, orientado al registro, seguimiento y visualización de acciones sostenibles realizadas por los usuarios. Desarrolló formularios dinámicos para ingresar acciones, filtros por tipo de acción y gráficos para medir el impacto ambiental. También trabajó en la conexión con el backend para almacenar registros y en la generación de reportes visuales. Participó en sesiones de revisión de código y pruebas funcionales.                  |
+| **Gabriel Fernando Gordon Salas**   | Desarrolló el bounded context de **Reports**, implementando módulos para la generación de reportes dinámicos y visualizaciones gráficas. Utilizó librerías de gráficos para representar estadísticas relacionadas con residuos recolectados, impacto ambiental y rendimiento de cada zona. Diseñó una interfaz clara para la selección de filtros de tiempo, tipo de dato y exportación de reportes. Además, colaboró en el testeo cruzado con los demás contextos para asegurar consistencia en los datos. |
 
 
 ## Student Outcome
-
-| Criterio Específico                                                                 | Acciones realizadas | Conclusiones |
-|-------------------------------------------------------------------------------------|---------------------|--------------|
-| 3.c1 Comunica de manera oral con efectividad a diferentes rangos de audiencia       | **Gabriel Gordon TB1:** Realicé una parte del diseño de la landing page, los user person, el journey map, impacting map, user stories, product backlog, diseño del figma tanto wireframes y mock-ups de la landing page y la app, también implementé el diagrama de clases, su descripción y el diagrama de base de daños.   <br>                |  TB1: Cómo conclusión para esta presentación, cada integrante cumplió con sus actividades y se mantuvo una comunicación correcta sobre el proyecto, dando como resultado en este avance una base sólida para seguir con el proyecto            |
-| 3.c2 Comunica por escrito con efectividad rangos de audiencia                       |   **Gabriel Gordon TB1:** Realicé una parte del diseño de la landing page, los user person, el journey map, impacting map, user stories, product backlog, diseño del figma tanto wireframes y mock-ups de la landing page y la app, también implementé el diagrama de clases, su descripción y el diagrama de base de daños. <br>    |     TB1: El equipo demostró una buena capacidad de comunicación escrita de forma clara y efectiva. De manera que, todos podamos mejorar nuestro desempeño en grupo al hacer las actividades        |
+| Resultado del curso                                                               | Evidencia individual                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Evidencia grupal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **3.c1 Comunica de manera oral con efectividad a diferentes rangos de audiencia** | **Gabriel Gordon**<br>**TB1:** Presenté el diseño de la landing page, los mock-ups y diagramas al equipo, explicando visualmente el flujo del usuario. También expliqué el diagrama de clases y el modelo de base de datos durante sesiones colaborativas.<br>**TP:** Expuse el módulo de *Reports*, explicando su lógica visual y técnica a todo el equipo, adaptando el lenguaje para programadores y diseñadores.<br><br> **Renzo Uribe**<br>**TB1:** Expuse ideas para la estructura del sistema en sesiones de ideación.<br>**TP:** Expliqué la arquitectura del módulo *Home*, su integración con otros módulos y resolví dudas técnicas en reuniones grupales.<br><br> **Valentino Sandoval**<br>**TB1:** Lideré sesiones para validar las historias de usuario y propuestas de arquitectura.<br>**TP:** Dirigí reuniones del Sprint 2, presenté avances del módulo *Collection Points* y expliqué su integración a los demás integrantes.<br><br> **Fabián Oliva**<br>**TB1:** Presenté propuestas sobre cómo organizar la interfaz de configuración.<br>**TP:** Expliqué el módulo *Control Panel* en sesiones grupales, detallando sus funcionalidades clave y aclarando dudas.<br><br> **Marcia Melgarejo**<br>**TB1:** Participé en presentaciones del journey map y del diseño de la app.<br>**TP:** Expuse el flujo funcional del módulo *Sustainable Actions* y cómo se alinea con los objetivos ecológicos del sistema. | **TB1:** El equipo realizó sesiones colaborativas para revisar y presentar diagramas, flujos y diseños. Se demostró una comunicación efectiva al explicar conceptos técnicos y de diseño, facilitando la toma de decisiones en etapas tempranas.<br><br>**TP:** En las reuniones grupales del Sprint 2, todos los integrantes presentaron sus avances, explicaron el funcionamiento de sus módulos y dieron retroalimentación constructiva. Se logró una comunicación oral fluida que permitió una integración exitosa del sistema. |
+| **3.c2 Comunica por escrito con efectividad a diferentes rangos de audiencia**    | **Gabriel Gordon**<br>**TB1:** Redacté documentación de los user persona, journey map, impact map, backlog, wireframes y mock-ups con lenguaje claro y técnico.<br>**TP:** Elaboré descripciones funcionales del módulo *Reports* y colaboré en la redacción técnica de los entregables finales.<br><br> **Renzo Uribe**<br>**TB1:** Escribí partes del documento de arquitectura del sistema.<br>**TP:** Documenté el diseño funcional del módulo *Home*, flujos de navegación y estructura de carpetas.<br><br> **Valentino Sandoval**<br>**TB1:** Redacté partes de las historias de usuario y backlog inicial.<br>**TP:** Escribí la documentación del módulo *Collection Points*, incluyendo formularios, validaciones y casos de uso.<br><br> **Fabián Oliva**<br>**TB1:** Redacté parte de la propuesta técnica del sistema.<br>**TP:** Documenté el módulo *Control Panel*, incluyendo endpoints, estructura técnica y comportamiento funcional.<br><br> **Marcia Melgarejo**<br>**TB1:** Elaboré documentación escrita del impacto ambiental del sistema y contribuciones al diseño UX.<br>**TP:** Documenté el módulo *Sustainable Actions*, su flujo funcional y su aporte a los objetivos del sistema.                                                                                                                                                                                                                      | **TB1:** El equipo elaboró entregables escritos organizados y detallados que comunicaban efectivamente tanto la visión del producto como la arquitectura propuesta. Esto permitió que todos tuvieran una comprensión común de la base del proyecto.<br><br>**TP:** La documentación del sistema fue desarrollada de manera colaborativa. Cada miembro redactó las especificaciones de su módulo con lenguaje técnico y accesible, permitiendo una integración clara y comprensible de todas las partes del sistema.                 |
 
 ## Repertorio
 
@@ -1932,9 +1931,23 @@ Link Trello: https://trello.com/b/GTdLG6Ox/1asi0729-2510-4313-g1-cleanview
 
 ### 5.2.2.4 Development Evidence for Sprint Review
 
-Durante el Sprint 2, se implementaron vistas clave como el dashboard de bienvenida, módulo de perfil editable y sección de preguntas frecuentes (FAQ).  
-Estas mejoras consolidan la arquitectura visual y funcional del sistema CleanView.  
-**imagen**
+| Repository                                                              | Branch         | CommitId                                 | Commit message                                | Commit message body                                          | Committed on |
+| ----------------------------------------------------------------------- | -------------- | ---------------------------------------- | --------------------------------------------- | ------------------------------------------------------------ | ------------ |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | master         | bc2332b3ca0793fc3411bcfb1963b1744eb617a1 | feat(home): update home UI                    | feat(home): updated layout and improved responsiveness       | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | master         | 6cb48ee6bbd3c09a6bc02fabc78342688eda3c56 | fix(control-panel): fix display issues        | fix(control-panel): resolved conditional rendering bugs      | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | master         | 75771150eeb039ee7f76dccb71dc487b6f096ad4 | fix(collection): cleanup unused services      | fix(collection): removed deprecated services/entities        | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | master         | c18f16a025faea9c596f0933257fe4d27cf5ff4c | fix(reports): fix data integration            | fix(reports): synced with updated mock db                    | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | 2fdf1099507d613bc9b976501ccdeb95ace6031d | feat(reports): improve chart rendering        | feat(reports): adjusted chart scales and styling             | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | 92179279efbf603a066004b84962be4df3b19ba7 | fix(control-panel): connection fix            | fix(control-panel): resolved API connection issues           | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | 599a45848edbfa7b085775d9025a253a4a6cfe84 | fix(home): fix routing issues                 | fix(home): corrected route configuration                     | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | 75771150eeb039ee7f76dccb71dc487b6f096ad4 | fix(collection): cleanup unused services      | fix(collection): removed deprecated services/entities        | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | feature/report | a63b1cc3916a2aae22dd58da5483745bee675b4b | feat(reports): fix graphics                   | feat(reports): fixed alignment and colors in graphs          | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | 6b1c1e8b59ee86d00012023aec46fdb7b6937840 | feat(collection): add mock data for dashboard | feat(collection): added db json for bins and pickups         | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | af22c287ef80ad83d9edc231598cb63c36de7b77 | feat(collection): new collection zones added  | feat(collection): integrated new zones into map view         | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | e323578c35e488aa061173f8e1435d07980be68c | feat(control-panel): add control settings     | feat(control-panel): added UI for configuring parameters     | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | e9484e915408a5e8f53fbe4949b2a16d1f10ebe9 | feat(sustainable-actions): new feature module | feat(sustainable-actions): created logic for action tracking | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | 456b31b3d7aba571d1985ec1abaf9f774d38aca9 | feat(reports): add report section             | feat(reports): new UI for waste and impact reports           | 12/05/2025   |
+
 
 ### 5.2.2.5 Execution Evidence for Sprint Review
 
@@ -1978,9 +1991,18 @@ Esta interfaz intuitiva permite ingresar datos básicos como nombre, teléfono, 
 
 # WEB APPLICATION:
 
-LINK DEL FRONTEND DESPLEGADO: 
+LINK DEL FRONTEND DESPLEGADO: https://frontend-web-applications.vercel.app/
 
 ## ***Collection Bounded-Context***
+
+*Home page*
+
+![Commits](img\TP\fro4.png)
+
+*Panel de control*
+
+![Commits](img\TP\fro5.png)
+
 
 *Seccion de puntos de Acopio*
 
@@ -2033,6 +2055,8 @@ Marcar como favorito
 
 Eliminar acción (si aplica)
 
+![Commits](img/TP/fro.jpg)
+
 Agregar una acción sostenible
 Al hacer clic en el botón “Agregar Acción Sostenible”, se abre un formulario modal con el título:
 📝 Nueva Acción Sostenible
@@ -2050,6 +2074,12 @@ Fecha (opcional): Cuándo se realizó la acción (puede usarse para registro o g
 Botones al final del formulario:
 
 “Guardar” → Registra la acción y la muestra en la lista principal.
+
+![Commits](img/TP/fro3.jpg)
+
+**Reports*
+
+![Commits](img/TP/fro6.jpg)
 
 
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review
@@ -2082,11 +2112,11 @@ Finalmente nos dará un link directo a la Landing page desplegada: https://1asi0
 
 **Frontend**
 
-![Ejemplo de Imagen](assets/tp/las4.png)
+![Ejemplo de Imagen](img/TP/front.png)
 
-![Ejemplo de Imagen](assets/tp/las5.png)
+![Ejemplo de Imagen](img/TP/front2.png)
 
-LINK FRONTEND DESPLEGADA: 
+LINK FRONTEND DESPLEGADA: https://frontend-web-applications.vercel.app/
 
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
@@ -2132,3 +2162,62 @@ En este sprint en la LandingPage no hubieron muchos cambios significativos, mas 
 - Marcia Victoria Melgarejo Gomez: 42
 - Gabriel Fernando Gordon Salas: 28
 - Valentino Sandoval Paiva: 8
+
+
+<div id='6.'><h2>Conclusiones</h2></div>
+
+El desarrollo de CleanView representó un desafío enriquecedor que permitió al equipo demostrar un alto grado de compromiso, organización y trabajo colaborativo. A través de la implementación de bounded contexts como Home, Control Panel, Sustainable Actions, Collection y Reports, se logró construir una solución enfocada en la gestión ambiental y el monitoreo de residuos. Durante el proceso, se aplicaron metodologías ágiles, diseño centrado en el usuario, integración continua en GitHub, y prácticas de Domain Driven Design, lo que facilitó una estructura de código escalable y alineada a los objetivos del sistema. La planificación y documentación también jugaron un rol crucial, permitiendo una ejecución clara y coordinada entre los miembros.
+
+Entre los beneficios obtenidos con la solución destacan la optimización de recursos mediante el control de residuos, la automatización de procesos en el panel de control, y la generación de reportes que facilitan una toma de decisiones informada. CleanView también promueve la sostenibilidad al reducir el impacto ambiental y fomenta la satisfacción del usuario final a través de una interfaz intuitiva y funcionalidades clave. Este proyecto no solo fortaleció las habilidades técnicas del equipo, sino que consolidó aprendizajes sobre comunicación efectiva, gestión de proyectos y colaboración interdisciplinaria.
+
+<div id='7.'><h2>Bibliografía</h2></div>
+
+Manual de conservación (2002). Manual de conservación preventiva de textiles. [https://www.cnct.cl/documentos/manualconservacion.pdf](https://www.cnct.cl/documentos/manualconservacion.pdf)
+
+Delta (2023). Problemas de calidad de los productos textiles: ¿cómo resolverlos?. [https://deltamaquinastexteis.com.br/es/problemas-de-calidad-de-los-productos-textiles-como-resolverlos/](https://deltamaquinastexteis.com.br/es/problemas-de-calidad-de-los-productos-textiles-como-resolverlos/)
+
+Sociedad Nacional de Industrias (2024). Resultados encuesta de opinión industrial (EOI). [https://sni.org.pe/wp-content/uploads/2024/07/Resultados_EOI-II-TRIM-2024-1.pdf](https://sni.org.pe/wp-content/uploads/2024/07/Resultados_EOI-II-TRIM-2024-1.pdf)
+
+Lean UX (2021). Lean UX, 3rd Edition. [https://learning.oreilly.com/library/view/lean-ux-3rd/9781098116293/](https://learning.oreilly.com/library/view/lean-ux-3rd/9781098116293/)
+
+Hospodor, C., & Porto, C. (2021). *Vue.js 3 By Example: Build eight real-world applications from the ground up using Vue 3, Vuex, and Vue Router*. https://www.packtpub.com/product/vuejs-3-by-example/9781838826345
+
+Bonnin, H. (2020). *Vue.js 3 Cookbook: Discover actionable solutions for building modern web apps with the latest Vue features and TypeScript*. https://www.packtpub.com/product/vuejs-3-cookbook/9781838826222
+
+Kotsifas, E. (2021). *Full-Stack Web Development with Vue.js and Node: Build scalable and powerful web apps with modern web stack: MongoDB, Vue, Node, and Express*. https://www.packtpub.com/product/full-stack-web-development-with-vuejs-and-node/9781788831147
+
+Roig, P. (2021). *Getting Started with Firebase for Web Developers: A Comprehensive Guide to Integrating Google Firebase with Your Web App*. https://www.amazon.com/dp/B08KHL2J5Y
+
+Brown, G., & Mullen, S. (2019). *Google Cloud Platform for Architects: Design and Manage Powerful Cloud Solutions*. https://www.packtpub.com/product/google-cloud-platform-for-architects/9781788833073
+
+Thomas, C. (2020). *Firebase Cookbook: Over 70 recipes for building high-quality web and mobile applications*. https://www.packtpub.com/product/firebase-cookbook/9781788292399
+
+Date, C. J. (2019). *Database Design and Relational Theory: Normal Forms and All That Jazz* (2nd ed.). https://link.springer.com/book/10.1007/978-1-4842-5540-7
+
+Fowler, M. (2016). *NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence*. https://www.pearson.com/en-us/subject-catalog/p/nosql-distilled-a-brief-guide-to-the-emerging-world-of-polyglot-persistence/P200000009587/9780133036121
+
+Kleppmann, M. (2017). *Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems*. https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
+
+1Chacon, S., & Straub, B. (2014). *Pro Git* (2nd ed.). Disponible también en línea de forma gratuita. https://git-scm.com/book/en/v2
+
+Bell, J. (2018). *GitLab Quick Start Guide: Build a DevOps culture and collaborate effectively with GitLab for CI/CD*. https://www.packtpub.com/product/gitlab-quick-start-guide/9781788837613
+
+Avelino, M. (2019). *GitHub Essentials: Become a Git and GitHub expert with this fast-paced guide*. https://www.packtpub.com/product/github-essentials/9781789538502
+
+Scott, D., & Farrelly, M. (2021). *UI is Communication: How to Design Intuitive, User Centered Interfaces by Focusing on Effective Communication*. https://www.elsevier.com/books/ui-is-communication/scott/978-0-12-396980-8
+
+Henke, R. (2020). *UX Design 2020: Complete Beginner's Guide to Become an Effective UX/UI Designer*. https://www.amazon.com/dp/B08KHL2J5Y
+
+Kang, M. (2018). *Figma for UX/UI Design: The Comprehensive Guide*. https://www.amazon.com/dp/B07KHL2J5Y
+
+Palepu, V. (2021). *Hands-On Test-Driven Development with JavaScript: A practical guide to TDD, automated testing, and continuous integration*. https://www.packtpub.com/product/hands-on-test-driven-development-with-javascript/9781838820213
+
+Hendrickson, E. (2017). *Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing*. https://pragprog.com/titles/ehxta/explore-it/
+
+Meszaros, G. (2007). *xUnit Test Patterns: Refactoring Test Code*. https://www.pearson.com/store/p/xunit-test-patterns/P100000009587
+
+
+
+<div id='8.'><h2>Anexos</h2></div>
+
+
