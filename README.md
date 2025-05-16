@@ -2003,5 +2003,39 @@ En el presente Sprint, se han identificado cinco aspectos clave para el desarrol
 | Gabriel Gordon      | JKOlimpo          | C              | C              | C                   | L                    | C                   |
 | Valentino Sandoval  | SoyValzzz         | C              | C              | C                   | C                    | L                   |
 
+### 5.2.2.3 Sprint Backlog 2
 
+| ID      | Título                                      | Descripción                                                                                         | Story Points |
+|---------|---------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------|
+| US-001  | Navegación Clara y Eficiente                | Como visitante interesado, quiero acceder fácilmente a las secciones clave de la página            | 3            |
+| US-002  | Accesos Visibles para Login/Registro        | Como usuario potencial, quiero ver claramente los botones de acceso                                | 3            |
+| US-003  | Comprensión del Valor de la Plataforma      | Como representante de una empresa, quiero entender cómo CleanView me ayuda                         | 2            |
+| US-004  | Información de Recompensas y Reciclaje      | Como ciudadano, quiero conocer cómo reciclar correctamente y obtener recompensas                   | 5            |
+| US-005  | Diseño Responsivo en Móviles                | Como usuario móvil, quiero que la página se adapte a mi pantalla                                   | 3            |
+| US-006  | Botones Accesibles en Dispositivos Táctiles | Como usuario móvil, quiero que los botones sean fácilmente seleccionables                          | 2            |
+| US-007  | Uso de Imágenes y Gráficos Ilustrativos     | Como usuario visual, quiero ver ilustraciones del funcionamiento de la app                         | 3            |
+| US-008  | Visualización de Recompensas Atractiva      | Como visitante, quiero ver recompensas visuales para motivarme a participar                        | 3            |
+| US-009  | Transparencia de la Empresa                 | Como usuario, quiero conocer misión y visión de CleanView                                          | 8            |
+| US-010  | Credibilidad de la Plataforma               | Como cliente empresarial, quiero saber la experiencia del sistema                                  | 3            |
+| US-011  | Contacto Directo vía Formulario             | Como usuario, quiero enviar mensaje por formulario                                                  | 3            |
+| US-012  | Formulario de Contacto Sencillo             | Como visitante, quiero un formulario de contacto simple                                             | 3            |
+| US-013  | Monitoreo de Residuos en Tiempo Real        | Como empresa, quiero ver cantidad y tipo de residuos en tiempo real                                | 5            |
+| US-014  | Reporte Detallado sobre Residuos            | Como empresa, quiero reportes detallados de producción y desperdicio                               | 3            |
+| US-015  | Puntos de Reciclaje Cercanos                | Como ciudadano, quiero ubicar puntos de reciclaje cercanos                                         | 5            |
+| US-016  | Consejos para Manejo de Residuos            | Como ciudadano, quiero recibir consejos para reducir residuos                                      | 3            |
+| US-017  | Gamificación Ecológica                      | Como ciudadano, quiero ganar puntos por buenas prácticas                                           | 3            |
+| US-018  | Alertas por Umbrales Críticos               | Como empresa, quiero recibir alertas cuando los residuos superen límites                           | 8            |
+| US-019  | Comparación entre Periodos                  | Como empresa, quiero comparar residuos entre periodos                                              | 5            |
+| US-020  | Ranking Interno de Sostenibilidad           | Como empresa, quiero ver qué áreas son más sostenibles                                             | 5            |
+| US-021  | Exportación de Reportes                     | Como empresa, quiero exportar reportes en PDF o Excel                                              | 3            |
+| US-022  | Integración con Sensores IoT                | Como empresa, quiero integrar sensores para monitoreo automático                                   | 2            |
+| US-023  | Notificación por Tipo de Residuo            | Como empresa, quiero ser notificado según el tipo de residuo generado                              | 3            |
+| US-024  | Servicio de Recojo Automático               | Como empresa, quiero que se genere un servicio de recojo al llenarse un sensor                     | 5            |
+| US-025  | Chat de Soporte Ambiental                   | Como usuario, quiero consultar dudas con un asistente virtual                                      | 3            |
+| US-026  | Verificación de Acciones Sostenibles        | Como empresa, quiero validar si las acciones implementadas reducen residuos                        | 3            |
+| US-027  | Integración con APIs Externas               | Como usuario, quiero conectar con sistemas externos para automatizar procesos                      | 5            |
+| US-028  | Recomendaciones Inteligentes                | Como usuario, quiero obtener recomendaciones basadas en mis hábitos                                | 3            |
+| US-029  | Sistema de Insignias por Logros             | Como usuario, quiero ganar insignias por acciones sostenibles                                      | 3            |
+| US-030  | Contratación de Servicios de Recolección    | Como usuario, quiero contratar servicios de recolección desde la plataforma                        | 5            |
+| US-031  | Añadir Nueva Zona de Monitoreo              | Como empresa, quiero añadir zonas nuevas para gestión de residuos                                  | 5            |
 
