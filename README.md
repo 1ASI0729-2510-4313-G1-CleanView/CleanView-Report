@@ -1988,7 +1988,9 @@ Durante el segundo sprint backlog, nos enfocamos en recolectar y trabajar en his
 
 El enfoque principal de este sprint fue avanzar en la consolidación de una aplicación web funcional, visualmente atractiva y con una experiencia de usuario intuitiva. Gracias a la organización efectiva y la colaboración continua, pudimos cumplir con varias de las historias de usuario planificadas, abordar los retos surgidos durante el proceso y mejorar progresivamente tanto el diseño como la estructura de la aplicación.
 
-Link Trello: 
+![Commits](img/TP/TRE.png)
+
+Link Trello: https://trello.com/b/GTdLG6Ox/1asi0729-2510-4313-g1-cleanview
 
 
 | **ID**     | **Historia de Usuario**                    | **Tarea ID** | **Descripción de la Tarea**                             | **Duración Estimada** | **Responsable**    | **Estado** |
