@@ -699,6 +699,7 @@ En esta sección se presenta un glosario de términos clave relacionados al domi
 | US-020           | Recomendaciones inteligentes | **Como** ciudadano <br/> **Quiero** recibir recomendaciones personalizadas según mis datos <br/> **Para** recibir información para reducir residuos | *Escenario 1:* <br/> **"  Actualización dinámica de sugerencias "** <br/> **Dado que** mis datos cambian con el tiempo. <br/> **Cuando**  se registre nueva información. <br/> **Entonces** el sistema debe actualizar las recomendaciones de manera automática o notificar al usuario.  <br/><br/> *Escenario 2:* <br/> **" Análisis de comportamiento previo "** <br/> **Dado que**  el sistema registra el historial de residuos del usuario. <br/> **Cuando** accedo al panel de recomendaciones. <br/> **Entonces** el sistema debe mostrar sugerencias basadas en sus patrones de generación de residuos. | EP-04 |
 | US-021           | Sistema de insignias por logros sostenibles | **Como** ciudadano <br/> **Quiero** recibir insignias por hitos alcanzados <br/> **Para** motivarme a seguir con mis logros | *Escenario 1:* <br/> **"Insignia por reducción de residuos"** <br/> **Dado que** el ciudadano logra reducir un cierto porcentaje de residuos en un período <br/> **Cuando** el ciudadano cumpla la meta de recolección dada <br/> **Entonces** el sistema le otorga automáticamente una insignia <br/><br/> *Escenario 2:* <br/> **" Visualización de insignias obtenidas"** <br/> **Dado que** he ganado varias insignias. <br/> **Cuando** accedo a mi perfil. <br/> **Entonces** debo poder ver una lista con las insignia que obtuve junto a sus detalles. <br/><br/> *Escenario 3:* <br/> **"  Comparte tus logros "** <br/> **Dado que** valoro el reconocimiento. <br/> **Cuando**  obtenga una nueva insignia. <br/> **Entonces** CleanWind debo poder compartirlo en redes sociales. | EP-04  |
 | US-022           | Gamificación ecológica | **Como** ciudadano <br/> **Quiero** recibir puntos por buenas prácticas de reciclaje <br/> **Para** motivarme a seguir usando la app  | *Escenario 1:* <br/> **"Acumulación automatica de puntos"** <br/> **Dado que**  el cuidadano esta registrado en la app <br/> **Cuando** el ciudadano realiza una acción ecológica <br/> **Entonces**  el sistema la valida <br> **Y** el sistema asigna puntos automáticamente <br/><br/> *Escenario 2:* <br/> **"Ver historial de puntos"** <br/> **Dado que** el cuidadano esta registrado en la app <br/> **Cuando** el ciudadano ingresa a la sección "Recompensas" <br/> **Entonces** el sistema muestro los puntos ganados y acumulados. <br/><br/> *Escenario 3:* <br/> **"Canjear puntos por beneficios”** <br/> **Dado que** el cuidadano esta registrado en la app <br/> **Cuando** el ciudadano ingrese a la sección "Recompensas" <br/> **Entonces** el sitema le permite canjear los puntos que he estado ganando con los puntos que ha acumulado. | EP-04 |
+| US-036           | Registro de acciones sostenibles | **Como** ciudadano <br/> **Quiero** registrar una acción sostenible  <br/> **Para** contribuir al cuidado ambiental  | *Escenario 1:* <br/> **"Acceder al formulario de registro"** <br/> **Dado que**  el cuidadano esta registrado en la app <br/> **Cuando** el ciudadano entra a la sección de “Acciones Sostenibles” y presiona el botón de agregar acción sostenible<br/> **Entonces**  el sistema muestra un formulario para ingresar título, descripción y tipo de acción sostenible <br/><br/> *Escenario 2:* <br/> **"Registrar la acción** <br/> **Dado que** que el ciudadano ha llenado correctamente el formulario <br/> **Cuando** presiona el botón “Guardar” <br/> **Entonces** el sistema registra la acción y la agrega a la lista de acciones sostenibles visibles| EP-04 |
 | EP-05           |   Gestión de Puntos de Acopio  | **Como** usuario, **Quiero** conocer, filtrar y ubicar puntos de acopio, así como gestionar los servicios asociados,  **Para** facilitar el reciclaje y entrega de residuos.  |*Escenario 1:* <br/> **"Visualización de puntos de acopio"** <br/> **Dado que** el usuario está registrado en CleanView <br/> **Cuando**   accede a la sección “Puntos de Acopio” <br/> **Entonces** el sistema muestra un mapa interactivo y una lista de puntos de acopio disponibles, con detalles como ubicación, tipo de residuos aceptados, horarios y contacto <br><br> *Escenario 2:* <br/> **"Filtrado de puntos de acopio"** <br/> **Dado que** el usuario desea buscar puntos específicos <br/> **Cuando**  aplica filtros por tipo de residuo o ubicación <br/> **Entonces** el sistema actualiza la lista y el mapa con los puntos que cumplen con los criterios seleccionados | - |
 | US-023           | Ofrecer un servicio de recolección | **Como** empresario <br/> **Quiero** ofrecer el servicio de recolección de mi empresa <br/> **Para** poder reclicar más residuos y generar ingresos | *Escenario 1:* <br/> **"Publicación de servicios de resiclaje"** <br/> **Dado que** el empresario usa la aplicación CleanView <br/> **Cuando** accede a la página de "Puntos de copio" <br/> **Entonces** el sistema permite ofrecer el servicio de la empresa a travéz de un registro <br><br> *Escenario 2:* <br/> **"Visibilidad del servicio publicado"** <br/> **Dado que** el empresario ha registrado exitosamente su servicio de recolección en la plataforma <br/> **Cuando** otros ciudadanos o empresas navegan por la sección de “Puntos de acopio” <br/> **Entonces** el sistema muestra la información del servicio ofrecido | EP-05 |
 | US-024           | Contratación de servicios de recolección | **Como** empresa <br/> **Quiero** contratar servicios de recolección de residuos <br/> **Para** asegurar el recojo eficiente | *Escenario 1:* <br/> **"Selección de proveedor de recolección "** <br/> **Dado que** el empresario se regitra en la app de CleanView <br/> **Cuando** el empresario ingresa a la sección de puntos de acopio <br/> **Entonces** el empresario busca la empresa que mejor se acomode a sus necesidades <br> **Y** el sistema permite contratar un servicio de una empresa de reciclaje <br/><br/> *Escenario 2:* <br/> **" Visualización del estado de contrato"** <br/> **Dado que** el empresario contrata un servicio de recolección <br> **Cuando** el empresario accede a “Mis servicios contratados” desde la página de puntos de acopio <br/> **Entonces** el sistema muestra la información de la empresa recolectora <br/><br/> *Escenario 3:* <br/> **"Cancelación de servicio de recolección"** <br/> **Dado que** el empresario esta en la página de puntos de acopio <br/> **Cuando** el empresario visualiza el apartado de “Mis servicios contratados” <br/> **Entonces** el sistema ofrece eliminar el contrato de un sevicio | EP-05 |
@@ -2012,7 +2013,43 @@ Al final del formulario hay botones de Cancelar y Guardar.
 
 ![Commits](img/TP/collec2.jpg)
 
+*Sección de Acciones Sostenibles*
+Interfaz principal
+La interfaz muestra consejos o tips sostenibles destacados en forma de tarjetas. En la parte superior se encuentra un botón “Agregar Acción Sostenible”, y más abajo:
 
+Un buscador para filtrar acciones sostenibles por texto.
+
+Filtros por categoría (ej. Almacenamiento, Mejora Operativa, Normativa).
+
+Lista de acciones sostenibles:
+
+Título de la acción (ej. Optimiza el uso del aire acondicionado)
+
+Descripción breve
+
+Íconos de acciones:
+
+Marcar como favorito
+
+Eliminar acción (si aplica)
+
+Agregar una acción sostenible
+Al hacer clic en el botón “Agregar Acción Sostenible”, se abre un formulario modal con el título:
+📝 Nueva Acción Sostenible
+
+Campos del formulario:
+
+Título: Nombre de la acción sostenible.
+
+Descripción: Explicación breve o consejo.
+
+Categoría: Selector (Almacenamiento, Mejora Operativa, Normativa, etc.)
+
+Fecha (opcional): Cuándo se realizó la acción (puede usarse para registro o gamificación futura).
+
+Botones al final del formulario:
+
+“Guardar” → Registra la acción y la muestra en la lista principal.
 
 
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review
