@@ -1975,5 +1975,33 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 - Gabriel Fernando Gordon Salas	
 - Valentino Sandoval Paiva: 
 
+## 5.2.2. Sprint 2
+
+### 5.2.2.1 Sprint Planning 2
+
+| Campo         | Información                                                                 |
+|---------------|------------------------------------------------------------------------------|
+| Sprint #      | Sprint 2                                                                     |
+| Date          | 2025-05-10                                                                    |
+| Time          | 09:00 PM                                                                      |
+| Location      | Virtual (Discord y Zoom)                                                     |
+| Prepared By   | Valentino Sandoval Paiva                                                     |
+| Attendees     | Renzo Uribe, Fabian Oliva, Valentino Sandoval, Marcia Melgarejo, Gabriel Gordon |
+
+### 5.2.2.2 Aspect Leaders and Collaborators
+
+**Introducción**  
+En el presente Sprint, se han identificado cinco aspectos clave para el desarrollo del proyecto: Frontend, Testing, UX/UI Design, Documentación y Coordinación General. Con el objetivo de asegurar una ejecución eficiente, el equipo ha asignado un líder por cada aspecto y colaboradores de apoyo. La distribución se ha realizado considerando fortalezas individuales y la participación activa de cada miembro en múltiples áreas.
+
+**Tabla de Aspect Leaders and Collaborators**
+
+| Team Member         | GitHub Username   | Frontend (L/C) | Testing (L/C) | UX/UI Design (L/C) | Documentación (L/C) | Coordinación (L/C) |
+|---------------------|-------------------|----------------|----------------|---------------------|----------------------|---------------------|
+| Kevin Meza          | Mevi1217          | C              | L              | C                   | C                    | C                   |
+| Luis Aguilar        | Silent343         | L              | C              | C                   | C                    | C                   |
+| Fabian Oliva        | FabulousFabStar   | C              | C              | L                   | C                    | C                   |
+| Gabriel Gordon      | JKOlimpo          | C              | C              | C                   | L                    | C                   |
+| Valentino Sandoval  | SoyValzzz         | C              | C              | C                   | C                    | L                   |
+
 
 
