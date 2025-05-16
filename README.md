@@ -29,69 +29,62 @@
 
 ## Registro de Versiones del Informe
 
-
-| Version | Fecha      | Autor                    | Descripcion                                                                                                                                                                                                                                                                                 |
-| ------- | ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TB1     | 26/08/2025 | Renzo Sebastian Uribe Livia           | Desarrollé el Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,Coompetidores y Estrategias y tácticas frente a competidores                                                                                                                                             |
-| TB1     | 05/09/2025 | Renzo Sebastian Uribe Livia           | Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1                                                                                                                                                        |
-| TB1     | 29/08/2025 | Valentino Sandoval Paiva | Desarrollé la Descripción de la Startup, Solution Profile, el regitro de una entrevista a un usuario del segmento 1 y 2, y realicé una entrevista.                                                                                                                                          |
-| TB1     | 05/09/2025 | Valentino Sandoval Paiva | Desarrollé el Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management                                                                                                                                                                                       |
-| TB1     | 25/09/2025 | Fabian Alejandro Oliva Lopez  | Realice el Startup Profile. Completando los antecedentes y problematica                                                                                                                                                                                                                     |
-| TB1     | 27/09/2025 | Fabian Alejandro Oliva Lopez  | Realice las entrevistas. Grabando y resumiendo para el Registro de entrevistas.                                                                                                                                                                                                             |
-| TB1     | 1/09/2025  | Marcia Victoria Melgarejo Gomez  | Complete el Ubiquitous Language. Realice el Domain-Driven Software Architecture al finalizar el Software Architecture Context Diagram, Software Architecture Container Diagrams y Software Architecture Components Diagrams.                                                                |
-| TB1     | 6/09/2025  | Marcia Victoria Melgarejo Gomez  | Desarrolle el Sprint 1, al desarrollar el Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint. |
-| TB1     | 8/09/2025  | Gabriel Fernando Gordon Salas  | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |
-| TB1     | 29/08/2025 | Gabriel Fernando Gordon Salas             | Desarrolle los as-is y to-be scenarios, además del registro de 1 entrevista por segmento objetivo.                                                                                                                                                                                          |
-| TB1     | 6/09/2025  | Valentino Sandoval Paiva             | Desarrolle los wireframes y mockups de la landing page, además de los wireframes, mockups, wireflows y user flows diagrams para la aplicación web.                                                                                                                                          |
-| TB1     | 11/10/2025 | Marcia Victoria Melgarejo Gomez             | Desarrolle los mockups de la landing pagE, Landing Page Wireframe, conclusiones , Student Ourtcome.                                                                                                                                                                                         |
-| TB1     | 8/09/2025  | Renzo Sebastian Uribe Livia            | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |                             
+| Version | Fecha      | Autor                             | Descripcion                                                                                                                                                                                                                                                                                 |
+| ------- | ---------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| TB1     | 26/08/2025 | Renzo Sebastian Uribe Livia        | Desarrollé el Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,Coompetidores y Estrategias y tácticas frente a competidores                                                                                                                                             |
+| TB1     | 05/09/2025 | Renzo Sebastian Uribe Livia        | Desarrollé las User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1                                                                                                                                                        |
+| TB1     | 29/08/2025 | Valentino Sandoval Paiva           | Desarrollé la Descripción de la Startup, Solution Profile, el regitro de una entrevista a un usuario del segmento 1 y 2, y realicé una entrevista.                                                                                                                                          |
+| TB1     | 05/09/2025 | Valentino Sandoval Paiva           | Desarrollé el Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management                                                                                                                                                                                       |
+| TB1     | 25/09/2025 | Fabian Alejandro Oliva Lopez       | Realice el Startup Profile. Completando los antecedentes y problematica                                                                                                                                                                                                                     |
+| TB1     | 27/09/2025 | Fabian Alejandro Oliva Lopez       | Realice las entrevistas. Grabando y resumiendo para el Registro de entrevistas.                                                                                                                                                                                                             |
+| TB1     | 01/09/2025 | Marcia Victoria Melgarejo Gomez    | Complete el Ubiquitous Language. Realice el Domain-Driven Software Architecture al finalizar el Software Architecture Context Diagram, Software Architecture Container Diagrams y Software Architecture Components Diagrams.                                                                |
+| TB1     | 06/09/2025 | Marcia Victoria Melgarejo Gomez    | Desarrolle el Sprint 1, al desarrollar el Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint. |
+| TB1     | 08/09/2025 | Gabriel Fernando Gordon Salas      | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |
+| TB1     | 29/08/2025 | Gabriel Fernando Gordon Salas      | Desarrolle los as-is y to-be scenarios, además del registro de 1 entrevista por segmento objetivo.                                                                                                                                                                                          |
+| TB1     | 06/09/2025 | Valentino Sandoval Paiva           | Desarrolle los wireframes y mockups de la landing page, además de los wireframes, mockups, wireflows y user flows diagrams para la aplicación web.                                                                                                                                          |
+| TB1     | 11/10/2025 | Marcia Victoria Melgarejo Gomez    | Desarrolle los mockups de la landing pagE, Landing Page Wireframe, conclusiones , Student Ourtcome.                                                                                                                                                                                         |
+| TB1     | 08/09/2025 | Renzo Sebastian Uribe Livia        | Desarrolle el Landing Page, cumpliendo los User Stories que me delegaron.                                                                                                                                                                                                                   |
+| TP     | 10/05/2025 | Renzo Sebastian Uribe Livia        |                                                                                                                                                                                                                                                                                             |
+| TP    | 10/05/2025 | Valentino Sandoval Paiva           |       Desarrollo del sprint 2 y Bounded Context de Collection                                                                                                                                                                                                                                                                                      |
+| TP    | 10/05/2025 | Fabian Alejandro Oliva Lopez       |                                                                                                                                                                                                                                                                                             |
+| TP     | 10/05/2025 | Marcia Victoria Melgarejo Gomez    |                                                                                                                                                                                                                                                                                             |
+| TP     | 10/05/2025 | Gabriel Fernando Gordon Salas      |                                                                                                                                                                                                                                                                                             |
 
 ## Project Report Collaboration Insights
 
 
-|  URL de la organización del proyecto  |          URL del repositorio del reporte          |
+| URL de la organización del proyecto  |          URL del repositorio del reporte          |
 | :-----------------------------------: | :-----------------------------------------------: | 
 | https://github.com/1ASI0729-2510-4313-G1-CleanView | https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report |
 
-| URL del repositorio de la landing page |
-:-----------------------------------------------:|
-|  https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page |
+| URL del repositorio de la landing page | URL del repositorio del frontend |
+| :-----------------------------------------------: | :------------------------------: |
+| https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page | https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend |
+
+
 
 **URL LANDING PAGE DESPLEGADO**: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
+
+**URL FRONTEND DESPLEGADO:**
 
 
 TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/1ASI0729-2510-4313-G1-CleanView. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio:  https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page .
 
-<br>**Vista de commits: Landing page:**  
-![alt text](assets/TB1-new/landingc1.jpeg)
+<br>**Vista de commits: **Report:****
 
-![alt text](assets/TB1-new/landingc2.jpeg)
+![alt text](img/TP/co1.png)
 
-![alt text](assets/TB1-image/commitslandingnet.jpeg)
+![alt text](img/TP/co2.png)
 
-- Renzo Sebastian Uribe Livia: 1
-- Fabian Alejandro Oliva Lopez: 10
-- Valentino Sandoval Paiva: 1
-- Marcia Victoria Melgarejo Gomez: 8
-- Gabriel Fernando Gordon Salas
+![alt text](img/TP/co3.png)
 
-<br>**Issues**
 
-![alt text](assets/TB1-image/issue.png)
+- Renzo Sebastian Uribe Livia: 13
+- Fabian Alejandro Oliva Lopez: 21
+- Marcia Victoria Melgarejo Gomez: 42
+- Gabriel Fernando Gordon Salas: 28
+- Valentino Sandoval Paiva: 8
 
-<br>**Report:**
-
-![alt text](assets/TB1-new/commitsall2.jpeg)
-
-![alt text](assets/TB1-new/commitall1.jpeg)
-
-![alt text](assets/TB1-image/commitsreport3.jpeg)
-
-- Renzo Sebastian Uribe Livia: 1
-- Fabian Alejandro Oliva Lopez: 10
-- Valentino Sandoval Paiva: 1
-- Marcia Victoria Melgarejo Gomez: 8
-- Gabriel Fernando Gordon Salas: 
 
 
 TB1:<br>
@@ -102,6 +95,17 @@ TB1:<br>
 | Fabian Alejandro Oliva Lopez | Startup Profile, Descripción de la Startup, Antecedentes y problemática, Entrevistas, Registro de entrevistas, User Personas, Ubiquitous Language, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Sprint 1, Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
 | Marcia Victoria Melgarejo Gomez | Segmentos objetivos, registro de entrevistas, as-is scenario mapping, to-be scenario mapping, landing page wireframes, landing page mockups, web application wireframes, web application mockups, web applications wireflow diagrams, web applications user flow diagrams, desarrollo de la landing page. |
 | Gabriel Fernando Gordon Salas | Student outcome , conclusiones, Landing Page Wireframe, Landing Page Mock-up, Testing Suite Evidence for Sprint Review, landing page mockups, web application wireframes, web application mockups, wSoftware Deployment Evidence for Sprint Review |
+
+**TB2:**
+
+| Integrante                         | Tarea Asignada |
+|------------------------------------|----------------|
+| Renzo Sebastian Uribe Livia        |                |
+| Sandoval Paiva Valentino           | Desarrolló el Sprint 2 completo, incluyendo la planificación, ejecución, documentación y revisión del sprint. Estuvo a cargo del desarrollo del bounded context de *Collection Points*, implementando las funcionalidades necesarias para la gestión de puntos de recolección, sus formularios de registro, visualización y validaciones. También colaboró activamente en las pruebas, la integración con otros módulos y el despliegue funcional del contexto asignado. |
+| Fabian Alejandro Oliva Lopez       |                |
+| Marcia Victoria Melgarejo Gomez    |                |
+| Gabriel Fernando Gordon Salas      |                |
+
 
 ## Student Outcome
 
@@ -2057,10 +2061,84 @@ Estas mejoras consolidan la arquitectura visual y funcional del sistema CleanVie
 **imagen**
 
 ### 5.2.2.5 Execution Evidence for Sprint Review
-Se completó la implementación funcional de los siguientes componentes:  
-- Página de bienvenida personalizada con mensaje dinámico  
-- Vista de servicios con diseño gráfico optimizado  
-**imagen**
+
+Durante este segundo sprint, el equipo trabajó en el desarrollo de los distintos bounded contexts del dominio de CleanView, utilizando el framework Vue.js para estructurar la aplicación. Con el apoyo de bibliotecas como Vuetify (u otra, si usaron una diferente), se implementaron funcionalidades clave que mejoraron la experiencia del usuario. Se priorizó la creación de componentes reutilizables y modulares, asegurando una interfaz moderna, dinámica y responsiva. Además, se cuidó la integración de cada módulo dentro de la arquitectura general del proyecto. Este sprint fue clave para establecer una base sólida y escalable para el desarrollo futuro de la plataforma.
+
+# LANDING PAGE
+
+LANDING PAGE: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
+
+
+<p align="center">
+  <img src="img/lp1.png">
+  <br>
+  Vista general de la Landing Page, destacando el diseño limpio y moderno que permite a los usuarios navegar fácilmente por la información.
+</p>
+
+<p align="center">
+  <img src="img/lp2.png">
+  <br>
+  Sección de soluciones clave del producto, mostrando cómo se presentan de manera atractiva y accesible para atraer a los usuarios.
+</p>
+
+<p align="center">
+  <img src="img/lp3.png">
+  <br>
+La sección “How Work” está diseñada para ofrecer una explicación visual y sencilla del funcionamiento de la plataforma CleanView, diferenciando la experiencia para empresas y usuarios individuales. A través de tarjetas ilustradas y pasos numerados, se guía a cada tipo de usuario en el proceso de uso de la plataforma, desde el registro hasta la interacción con funciones clave como la recolección de residuos, sugerencias personalizadas y generación de reportes.
+
+Esta sección tiene como objetivo proporcionar una comprensión rápida y accesible del valor y operatividad de CleanView, contribuyendo a una mejor experiencia de usuario desde el primer contacto con la plataforma.
+</p>
+
+<p align="center">
+  <img src="img/LP4.png">
+  <br>
+ La sección Contacto de CleanView está diseñada para facilitar una comunicación directa y efectiva entre los usuarios y el equipo de soporte. Está compuesta por dos áreas diferenciadas: un panel informativo con los canales de contacto oficiales (correo electrónico, teléfono fijo y número móvil) y un formulario interactivo donde los usuarios pueden enviar consultas, comentarios o solicitudes personalizadas.
+
+Esta interfaz intuitiva permite ingresar datos básicos como nombre, teléfono, correo electrónico y mensaje, simplificando el proceso de atención y garantizando una respuesta oportuna. De esta manera, CleanView refuerza su compromiso con la atención al cliente y el acompañamiento continuo en el uso de la plataforma.
+</p>
+
+
+</p>
+
+# WEB APPLICATION:
+
+LINK DEL FRONTEND DESPLEGADO: 
+
+## ***Collection Bounded-Context***
+
+*Seccion de puntos de Acopio*
+
+La interfaz muestra una lista de puntos de acopio para reciclaje en la parte izquierda, con información como:
+
+- Nombre del punto (ej. San Isidro Recicla)
+
+- Horario de atención
+
+- Tipos de materiales reciclables (Papel, Cartón, Plástico, etc.)
+
+- Teléfono de contacto
+
+Cada tarjeta tiene un botón "Ver más".
+A la derecha, se muestra un mapa interactivo (con Leaflet) que señala con pines la ubicación de estos puntos de acopio en la ciudad de Lima, Perú.
+
+![Commits](img/TP/collec.jpg)
+
+*Añadir un punto de acopio*
+
+Se abre un formulario modal titulado “Nuevo Punto de Acopio”.
+Este formulario permite ingresar los datos de un nuevo punto:
+- Nombre
+- Horario
+- Teléfono
+- Materiales (separados por coma)
+- Latitud y longitud
+
+Al final del formulario hay botones de Cancelar y Guardar.
+
+![Commits](img/TP/collec2.jpg)
+
+
+
 
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review
 
@@ -2113,33 +2191,33 @@ Avances:
 
 - Documentación y Despliegue: Se documentaron los avances y se configuró un entorno de prueba para desplegar la app.
 
-
 **Landing Page**
 
-![Commits](assets/TB1-new/landingc1.jpeg)
-![Commits](assets/TB1-new/landingc2.jpeg)
+En este sprint en la LandingPage no hubieron muchos cambios significativos, mas que nada solo el cambio de idioma.
+
+![Commits](img/TP/colan.png)
+
+![Commits](img/TP/colan2.png)
 
 
-- Valentino Sandoval Paiva: 
-- Renzo Sebastian Uribe Livia	
-- Fabian Alejandro Oliva Lopez	
-- Marcia Victoria Melgarejo Gomez	
-- Gabriel Fernando Gordon Salas	
+- Valentino Sandoval Paiva: 2
+- Renzo Sebastian Uribe Livia: 4
+- Fabian Alejandro Oliva Lopez: 4
+- Marcia Victoria Melgarejo Gomez: 5
+- Gabriel Fernando Gordon Salas. 16
 
 
 **Report:**
 
-![alt text](assets/TB1-new/commitsall2.jpeg)
+![alt text](img/TP/co1.png)
 
-![alt text](assets/TB1-new/commitall1.jpeg)
+![alt text](img/TP/co2.png)
 
-![alt text](assets/TB1-image/commitsreport3.jpeg)
-
-![Commits](assets/TB1-image/commitsreport3.jpeg)
+![alt text](img/TP/co3.png)
 
 
-- Renzo Sebastian Uribe Livia	
-- Fabian Alejandro Oliva Lopez	
-- Marcia Victoria Melgarejo Gomez	
-- Gabriel Fernando Gordon Salas	
-- Valentino Sandoval Paiva: 
+- Renzo Sebastian Uribe Livia: 13
+- Fabian Alejandro Oliva Lopez: 21
+- Marcia Victoria Melgarejo Gomez: 42
+- Gabriel Fernando Gordon Salas: 28
+- Valentino Sandoval Paiva: 8
