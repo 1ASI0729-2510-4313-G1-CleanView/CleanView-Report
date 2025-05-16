@@ -1979,31 +1979,42 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 
 ### 5.2.2.1 Sprint Planning 2
 
-| Campo         | Información                                                                 |
-|---------------|------------------------------------------------------------------------------|
-| Sprint #      | Sprint 2                                                                     |
-| Date          | 2025-05-10                                                                    |
-| Time          | 09:00 PM                                                                      |
-| Location      | Virtual (Discord y Zoom)                                                     |
-| Prepared By   | Valentino Sandoval Paiva                                                     |
-| Attendees     | Renzo Uribe, Fabian Oliva, Valentino Sandoval, Marcia Melgarejo, Gabriel Gordon |
+En este Sprint 2, durante la reunión de planificación, el equipo seleccionará las historias de usuario que se transformarán en resultados concretos. Se definirá la distribución de tareas y asignaremos responsabilidades a cada miembro. El objetivo será crear un plan realista que podamos completar dentro del tiempo establecido. Fomentaremos la colaboración y aseguraremos que todos comprendan los objetivos y prioridades del sprint.
+
+| Sprint #| Sprint 2|
+| -- | -- |
+| **Sprint Planning Background**||
+| **Date**| 10/05/2025|
+| **Time**| 18:00 PM|
+| **Location**| Discord (Reunión virtual)|
+| **Prepared By**|Valentino Sandoval Paiva|
+| **Attendees (to planning meeting)** | Valentino Sandoval Paiva, Renzo Uribe, Fabian Oliva, Valentino Sandoval, Marcia Melgarejo, Gabriel Gordon |
+| **Sprint Goal & User Stories**||
+| **Sprint 1 Goal**| El objetivo principal de este sprint es avanzar en la creación de la primera versión funcional de la aplicación web, estableciendo las bases de los distintos contextos de la aplicación. Esto incluirá la estructura básica de cada módulo o bounded context, la integración inicial de los componentes de la interfaz, y la mejora significativa de la landing page, garantizando una experiencia de usuario fluida y responsiva. También se implementará la funcionalidad de internacionalización (i18n) para permitir que la aplicación soporte múltiples idiomas. El sprint se considerará completado cuando todas las tareas relacionadas con estos avances estén marcadas como "Terminado". |
+| **Sprint 1 Velocity**| 19 |
+| **Sum of Story Points**| 63 |
+
+
 
 ### 5.2.2.2 Aspect Leaders and Collaborators
 
-**Introducción**  
-En el presente Sprint, se han identificado cinco aspectos clave para el desarrollo del proyecto: Frontend, Testing, UX/UI Design, Documentación y Coordinación General. Con el objetivo de asegurar una ejecución eficiente, el equipo ha asignado un líder por cada aspecto y colaboradores de apoyo. La distribución se ha realizado considerando fortalezas individuales y la participación activa de cada miembro en múltiples áreas.
-
-**Tabla de Aspect Leaders and Collaborators**
+En esta sección se presenta el Leadership-and-Collaboration Matrix (LACX), que define quién es el líder y quiénes son los colaboradores para cada aspecto del Sprint. Estos aspectos pueden incluir funcionalidades, bounded contexts, o cualquier otro elemento relevante del alcance del Sprint, con el fin de mejorar la claridad y comunicación dentro del equipo.
 
 | Team Member         | GitHub Username   | Frontend (L/C) | Testing (L/C) | UX/UI Design (L/C) | Documentación (L/C) | Coordinación (L/C) |
 |---------------------|-------------------|----------------|----------------|---------------------|----------------------|---------------------|
-| Kevin Meza          | Mevi1217          | C              | L              | C                   | C                    | C                   |
-| Luis Aguilar        | Silent343         | L              | C              | C                   | C                    | C                   |
+| Marcia  Melgarejo        | Mevi1217          | C              | L              | C                   | C                    | C                   |
+| Gabriel  Gordon      | Silent343         | L              | C              | C                   | C                    | C                   |
 | Fabian Oliva        | FabulousFabStar   | C              | C              | L                   | C                    | C                   |
-| Gabriel Gordon      | JKOlimpo          | C              | C              | C                   | L                    | C                   |
+| Renzo Uribe     | JKOlimpo          | C              | C              | C                   | L                    | C                   |
 | Valentino Sandoval  | SoyValzzz         | C              | C              | C                   | C                    | L                   |
 
 ### 5.2.2.3 Sprint Backlog 2
+
+Durante el segundo sprint backlog, nos enfocamos en recolectar y trabajar en historias de usuario centradas en el desarrollo de la aplicación web. Para gestionar estas historias de manera eficiente, las desglosamos en tareas pequeñas y manejables, lo que facilitó su asignación entre los distintos miembros del equipo. Utilizamos la herramienta Trello para organizar el flujo de trabajo, asignar responsabilidades y monitorear el avance de cada actividad. Esta plataforma nos permitió mantener una comunicación clara, detectar cuellos de botella a tiempo y asegurarnos de que todos estuviéramos alineados con los objetivos del sprint.
+
+El enfoque principal de este sprint fue avanzar en la consolidación de una aplicación web funcional, visualmente atractiva y con una experiencia de usuario intuitiva. Gracias a la organización efectiva y la colaboración continua, pudimos cumplir con varias de las historias de usuario planificadas, abordar los retos surgidos durante el proceso y mejorar progresivamente tanto el diseño como la estructura de la aplicación.
+
+Link Trello: 
 
 | ID      | Título                                      | Descripción                                                                                         | Story Points |
 |---------|---------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------|
@@ -2052,13 +2063,40 @@ Se completó la implementación funcional de los siguientes componentes:
 **imagen**
 
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review
-Se estructuró el diseño base para la futura integración de funcionalidades dinámicas que involucren lógica de backend y comunicación con servicios externos
-**imagen**
+
+No se emplearon servicios adicionales, ya que este primer sprint se centró exclusivamente en la implementación de la primera versión del web application.
 
 ### 5.2.2.7 Software Deployment Evidence for Sprint Review
-Se desplegó exitosamente la segunda versión de CleanView en GitHub Pages.  
-La verificación se realizó desde distintos dispositivos para garantizar carga correcta del contenido. 
-**imagen**
+
+En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso. 
+
+Las actividades de despliegue abarcan múltiples productos, incluyendo la Landing Page, aplicaciones web y servicios web. A continuación, se detallan los pasos realizados, junto con capturas de pantalla que ilustran el proceso y brindan una visión clara de cada etapa.
+
+**Landing Page**
+Para la Landing Page se ha implementado utilizando GitHub Pages, lo que facilita su acceso y gestión.
+
+
+![Commits](img/TP/LAN.png)
+
+En la seccion pages, dentro de la configuracion del repositorio, escoger la rama deseada y seleccionar save para hacer el deploy de esta.
+
+![Commits](img/TP/LAN2.png)
+
+Pasados unos minutos se generará el link para acceder a la landing page.
+
+![Commits](img/TP/LAN3.png)
+
+Adicionalmente Podemos seleccionar use your GitHub pages website en las opciones de about del repositorio, para poder acceder de una manera mas rapida al link.
+
+Finalmente nos dará un link directo a la Landing page desplegada: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
+
+**Frontend**
+
+![Ejemplo de Imagen](assets/tp/las4.png)
+
+![Ejemplo de Imagen](assets/tp/las5.png)
+
+LINK FRONTEND DESPLEGADA: 
 
 ### 5.2.2.8 Team Collaboration Insights during Sprint
 
@@ -2074,3 +2112,46 @@ La colaboración se registró mediante commits en GitHub. A continuación, se pr
 | CleanView   | feature/faq          | e5fb60d   | feat: FAQ page            | Desarrollo de la sección de preguntas frecuentes          | 12/05/2025  |
 | CleanView   | deploy/github-pages  | f9c2a1b   | chore: deploy to GitHub   | Despliegue del sistema en entorno productivo              | 13/05/2025  |
 
+### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Durante este sprint, el equipo trabajó en las mejoras de la landing page y en la primera versión funcional de la aplicación web. Las tareas se organizaron siguiendo metodologías ágiles, lo que permitió una colaboración fluida entre todos los miembros.
+
+Se utilizaron herramientas como Trello y GitHub para coordinar actividades y visualizar las contribuciones individuales, respaldadas por capturas de analíticos y commits.
+
+Avances:
+- Landing Page: Se mejoró el diseño, haciéndolo más interactivo y responsivo.
+
+- Aplicación Web: Se construyó una versión inicial con estructura base, rutas y lógica principal.
+
+- Documentación y Despliegue: Se documentaron los avances y se configuró un entorno de prueba para desplegar la app.
+
+
+**Landing Page**
+
+![Commits](assets/TB1-new/landingc1.jpeg)
+![Commits](assets/TB1-new/landingc2.jpeg)
+
+
+- Valentino Sandoval Paiva: 
+- Renzo Sebastian Uribe Livia	
+- Fabian Alejandro Oliva Lopez	
+- Marcia Victoria Melgarejo Gomez	
+- Gabriel Fernando Gordon Salas	
+
+
+**Report:**
+
+![alt text](assets/TB1-new/commitsall2.jpeg)
+
+![alt text](assets/TB1-new/commitall1.jpeg)
+
+![alt text](assets/TB1-image/commitsreport3.jpeg)
+
+![Commits](assets/TB1-image/commitsreport3.jpeg)
+
+
+- Renzo Sebastian Uribe Livia	
+- Fabian Alejandro Oliva Lopez	
+- Marcia Victoria Melgarejo Gomez	
+- Gabriel Fernando Gordon Salas	
+- Valentino Sandoval Paiva: 
