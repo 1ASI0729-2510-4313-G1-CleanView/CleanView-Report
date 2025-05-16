@@ -2060,5 +2060,17 @@ Se desplegó exitosamente la segunda versión de CleanView en GitHub Pages.
 La verificación se realizó desde distintos dispositivos para garantizar carga correcta del contenido. 
 **imagen**
 
+### 5.2.2.8 Team Collaboration Insights during Sprint
 
+Durante el presente Sprint, el equipo realizó tareas correspondientes al desarrollo, documentación y despliegue del sistema CleanView.  
+La colaboración se registró mediante commits en GitHub. A continuación, se presenta la tabla con el detalle de los aportes técnicos individuales:
+
+| Repositorio | Branch               | Commit ID | Commit Message           | Descripción                                              | Fecha       |
+|-------------|----------------------|-----------|---------------------------|-----------------------------------------------------------|-------------|
+| CleanView   | feature/ui-home      | a1c3f4e   | feat: add Home View       | Implementación de la vista de bienvenida personalizada    | 10/05/2025  |
+| CleanView   | feature/profile      | b7d8e2c   | feat: add Profile Page    | Creación del módulo de perfil con campos dinámicos        | 10/05/2025  |
+| CleanView   | feature/services     | c2e9a8d   | feat: services page       | Implementación de la sección de servicios                 | 11/05/2025  |
+| CleanView   | feature/plans        | d4b773a   | feat: plans section       | Diseño de los tres planes y botones 'Read More'           | 11/05/2025  |
+| CleanView   | feature/faq          | e5fb60d   | feat: FAQ page            | Desarrollo de la sección de preguntas frecuentes          | 12/05/2025  |
+| CleanView   | deploy/github-pages  | f9c2a1b   | chore: deploy to GitHub   | Despliegue del sistema en entorno productivo              | 13/05/2025  |
 
