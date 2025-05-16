@@ -2039,3 +2039,26 @@ En el presente Sprint, se han identificado cinco aspectos clave para el desarrol
 | US-030  | Contratación de Servicios de Recolección    | Como usuario, quiero contratar servicios de recolección desde la plataforma                        | 5            |
 | US-031  | Añadir Nueva Zona de Monitoreo              | Como empresa, quiero añadir zonas nuevas para gestión de residuos                                  | 5            |
 
+### 5.2.2.4 Development Evidence for Sprint Review
+
+Durante el Sprint 2, se implementaron vistas clave como el dashboard de bienvenida, módulo de perfil editable y sección de preguntas frecuentes (FAQ).  
+Estas mejoras consolidan la arquitectura visual y funcional del sistema CleanView.  
+**imagen**
+
+### 5.2.2.5 Execution Evidence for Sprint Review
+Se completó la implementación funcional de los siguientes componentes:  
+- Página de bienvenida personalizada con mensaje dinámico  
+- Vista de servicios con diseño gráfico optimizado  
+**imagen**
+
+### 5.2.2.6 Services Documentation Evidence for Sprint Review
+Se estructuró el diseño base para la futura integración de funcionalidades dinámicas que involucren lógica de backend y comunicación con servicios externos
+**imagen**
+
+### 5.2.2.7 Software Deployment Evidence for Sprint Review
+Se desplegó exitosamente la segunda versión de CleanView en GitHub Pages.  
+La verificación se realizó desde distintos dispositivos para garantizar carga correcta del contenido. 
+**imagen**
+
+
+
