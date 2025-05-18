@@ -1315,7 +1315,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c505_upc_edu_pe/Ee
 ## 4.7. Software Object-Oriented Design.
 ## 4.7.1. Class Diagrams.
 
-![Class-Diagram](./img/OPS-ClassDiagram3.1.png)
+![CleanView-Class-Diagram](./img/CleanView-ClassDiagramV4.png)
 
 ## 4.7.2. Class Dictionary.
 
@@ -1461,7 +1461,7 @@ Descripción: Tabla que representa cuadros que el usuario puede canjear para sum
 ## 4.8. Database Design.
 ## 4.8.1. Database Diagram.
 
-![CleanView-DataBaseDiagram](./img/CleanView-DataBaseDiagram.png)
+![CleanView-DataBaseDiagram](./img/CleanView_DB-2025-05-18_02-12.png)
 
 
 
