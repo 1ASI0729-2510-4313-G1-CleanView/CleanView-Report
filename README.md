@@ -2118,6 +2118,269 @@ En este sprint en la LandingPage no hubieron muchos cambios significativos, mas 
 - Valentino Sandoval Paiva: 8
 
 
+
+## 5.2.3. Sprint 3
+
+### 5.2.3.1 Sprint Planning 3
+
+Durante el Sprint 3, el equipo centró sus esfuerzos en el desarrollo del BackEnd de CleanView utilizando Java. Este sprint fue clave para implementar las primeras funcionalidades del servidor y establecer la estructura base del sistema. También se realizaron mejoras en el FrontEnd para integrarlo con el BackEnd, avanzando así hacia una versión más funcional del proyecto.
+
+| Sprint #| Sprint 3|
+| -- | -- |
+| **Sprint Planning Background**||
+| **Date**| 10/06/2025|
+| **Time**| 18:00 PM|
+| **Location**| Discord (Reunión virtual)|
+| **Prepared By**|Valentino Sandoval Paiva|
+| **Attendees (to planning meeting)** | Valentino Sandoval Paiva, Renzo Uribe, Fabian Oliva, Valentino Sandoval, Marcia Melgarejo, Gabriel Gordon |
+| **Sprint Goal & User Stories**||
+| **Sprint 1 Goal**| Nuestro enfoque está en finalizar el BackEnd individual, cada uno con su Bounded Context lanzarlo localmente. Creemos que esto, nos ayudara a mejorar y a entender el BackEnd. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
+| **Sprint 1 Velocity**|  |
+| **Sum of Story Points**|  |
+
+
+
+### 5.2.3.2 Aspect Leaders and Collaborators
+
+En esta sección se presenta el Leadership-and-Collaboration Matrix (LACX), que define quién es el líder y quiénes son los colaboradores para cada aspecto del Sprint. Estos aspectos pueden incluir funcionalidades, bounded contexts, o cualquier otro elemento relevante del alcance del Sprint, con el fin de mejorar la claridad y comunicación dentro del equipo.
+| Team Member          | GitHub Username   | Frontend (L/C) | Backend (L/C) | Testing (L/C) | UX/UI Design (L/C) | Documentación (L/C) | Coordinación (L/C) |
+| -------------------- | ----------------- | -------------- | ------------- | ------------- | ------------------ | ------------------- | ------------------ |
+| Marcia Melgarejo     | Mevi1217          | C              | C             | L             | C                  | C                   | C                  |
+| Gabriel Gordon       | Silent343         | C              | L             | C             | C                  | C                   | C                  |
+| Fabian Oliva         | FabulousFabStar   | L              | C             | C             | C                  | L                   | C                  |
+| Renzo Uribe          | JKOlimpo          | C              | C             | C             | L                  | C                   | L                  |
+| Valentino Sandoval   | SoyValzzz         | C              | C             | C             | C                  | C                   | C                  |
+
+
+
+### 5.2.3.3 Sprint Backlog 3
+
+Para el Sprint Backlog 3, recopilamos historias de usuario enfocadas principalmente en el desarrollo del BackEnd. Estas historias fueron desglosadas en tareas concretas y manejables, lo que facilitó su asignación entre los miembros del equipo. Utilizamos Trello como herramienta de gestión para organizar y dar seguimiento al progreso, lo que mejoró significativamente nuestra coordinación. Esta estructura nos permitió enfocarnos en completar las funcionalidades clave del BackEnd y resolver los desafíos técnicos de manera más ágil y colaborativa.
+
+
+### 5.2.2.4 Development Evidence for Sprint Review
+
+Para el BackEnd, generamos un archivo .jar del proyecto utilizando el comando mvn clean package. Este archivo fue subido a un repositorio en GitHub, y desde allí realizamos el despliegue del servicio utilizando Railway como plataforma. Esta integración nos permitió poner en marcha el servidor de manera rápida y eficiente, facilitando las pruebas y la conexión con el FrontEnd.
+
+### 5.2.3.5 Testing Suite Evidence for Sprint Review.
+
+### 5.2.3.6 Execution Evidence for Sprint Review
+
+Durante este segundo sprint, el equipo trabajó en el desarrollo de los distintos bounded contexts del dominio de CleanView, utilizando el framework Vue.js para estructurar la aplicación. Con el apoyo de bibliotecas como Vuetify (u otra, si usaron una diferente), se implementaron funcionalidades clave que mejoraron la experiencia del usuario. Se priorizó la creación de componentes reutilizables y modulares, asegurando una interfaz moderna, dinámica y responsiva. Además, se cuidó la integración de cada módulo dentro de la arquitectura general del proyecto. Este sprint fue clave para establecer una base sólida y escalable para el desarrollo futuro de la plataforma.
+
+# LANDING PAGE
+
+LANDING PAGE: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
+
+
+<p align="center">
+  <img src="img/lp1.png">
+  <br>
+  Vista general de la Landing Page, destacando el diseño limpio y moderno que permite a los usuarios navegar fácilmente por la información.
+</p>
+
+<p align="center">
+  <img src="img/lp2.png">
+  <br>
+  Sección de soluciones clave del producto, mostrando cómo se presentan de manera atractiva y accesible para atraer a los usuarios.
+</p>
+
+<p align="center">
+  <img src="img/lp3.png">
+  <br>
+La sección “How Work” está diseñada para ofrecer una explicación visual y sencilla del funcionamiento de la plataforma CleanView, diferenciando la experiencia para empresas y usuarios individuales. A través de tarjetas ilustradas y pasos numerados, se guía a cada tipo de usuario en el proceso de uso de la plataforma, desde el registro hasta la interacción con funciones clave como la recolección de residuos, sugerencias personalizadas y generación de reportes.
+
+Esta sección tiene como objetivo proporcionar una comprensión rápida y accesible del valor y operatividad de CleanView, contribuyendo a una mejor experiencia de usuario desde el primer contacto con la plataforma.
+</p>
+
+<p align="center">
+  <img src="img/LP4.png">
+  <br>
+ La sección Contacto de CleanView está diseñada para facilitar una comunicación directa y efectiva entre los usuarios y el equipo de soporte. Está compuesta por dos áreas diferenciadas: un panel informativo con los canales de contacto oficiales (correo electrónico, teléfono fijo y número móvil) y un formulario interactivo donde los usuarios pueden enviar consultas, comentarios o solicitudes personalizadas.
+
+Esta interfaz intuitiva permite ingresar datos básicos como nombre, teléfono, correo electrónico y mensaje, simplificando el proceso de atención y garantizando una respuesta oportuna. De esta manera, CleanView refuerza su compromiso con la atención al cliente y el acompañamiento continuo en el uso de la plataforma.
+</p>
+
+
+</p>
+
+# WEB APPLICATION:
+
+LINK DEL FRONTEND DESPLEGADO: https://frontend-web-applications.vercel.app/
+
+## ***Collection Bounded-Context***
+
+*Home page*
+
+![Commits](img/TP/fro4.png)
+
+*Panel de control*
+
+![Commits](img/TP/fro5.png)
+
+
+*Seccion de puntos de Acopio*
+
+La interfaz muestra una lista de puntos de acopio para reciclaje en la parte izquierda, con información como:
+
+- Nombre del punto (ej. San Isidro Recicla)
+
+- Horario de atención
+
+- Tipos de materiales reciclables (Papel, Cartón, Plástico, etc.)
+
+- Teléfono de contacto
+
+Cada tarjeta tiene un botón "Ver más".
+A la derecha, se muestra un mapa interactivo (con Leaflet) que señala con pines la ubicación de estos puntos de acopio en la ciudad de Lima, Perú.
+
+![Commits](img/TP/collec.jpg)
+
+*Añadir un punto de acopio*
+
+Se abre un formulario modal titulado “Nuevo Punto de Acopio”.
+Este formulario permite ingresar los datos de un nuevo punto:
+- Nombre
+- Horario
+- Teléfono
+- Materiales (separados por coma)
+- Latitud y longitud
+
+Al final del formulario hay botones de Cancelar y Guardar.
+
+![Commits](img/TP/collec2.jpg)
+
+*Sección de Acciones Sostenibles*
+Interfaz principal
+La interfaz muestra consejos o tips sostenibles destacados en forma de tarjetas. En la parte superior se encuentra un botón “Agregar Acción Sostenible”, y más abajo:
+
+Un buscador para filtrar acciones sostenibles por texto.
+
+Filtros por categoría (ej. Almacenamiento, Mejora Operativa, Normativa).
+
+Lista de acciones sostenibles:
+
+Título de la acción (ej. Optimiza el uso del aire acondicionado)
+
+Descripción breve
+
+Íconos de acciones:
+
+Marcar como favorito
+
+Eliminar acción (si aplica)
+
+![Commits](img/TP/fro.jpg)
+
+Agregar una acción sostenible
+Al hacer clic en el botón “Agregar Acción Sostenible”, se abre un formulario modal con el título:
+📝 Nueva Acción Sostenible
+
+Campos del formulario:
+
+Título: Nombre de la acción sostenible.
+
+Descripción: Explicación breve o consejo.
+
+Categoría: Selector (Almacenamiento, Mejora Operativa, Normativa, etc.)
+
+Fecha (opcional): Cuándo se realizó la acción (puede usarse para registro o gamificación futura).
+
+Botones al final del formulario:
+
+“Guardar” → Registra la acción y la muestra en la lista principal.
+
+![Commits](img/TP/fro3.jpg)
+
+**Reports*
+
+![Commits](img/TP/fro6.png)
+
+
+### 5.2.3.7 Services Documentation Evidence for Sprint Review
+
+No se emplearon servicios adicionales, ya que este primer sprint se centró exclusivamente en la implementación de la primera versión del web application.
+
+### 5.2.3.8 Software Deployment Evidence for Sprint Review
+
+En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso. 
+
+Las actividades de despliegue abarcan múltiples productos, incluyendo la Landing Page, aplicaciones web y servicios web. A continuación, se detallan los pasos realizados, junto con capturas de pantalla que ilustran el proceso y brindan una visión clara de cada etapa.
+
+**Landing Page**
+Para la Landing Page se ha implementado utilizando GitHub Pages, lo que facilita su acceso y gestión.
+
+
+![Commits](img/TP/LAN.png)
+
+En la seccion pages, dentro de la configuracion del repositorio, escoger la rama deseada y seleccionar save para hacer el deploy de esta.
+
+![Commits](img/TP/LAN2.png)
+
+Pasados unos minutos se generará el link para acceder a la landing page.
+
+![Commits](img/TP/LAN3.png)
+
+Adicionalmente Podemos seleccionar use your GitHub pages website en las opciones de about del repositorio, para poder acceder de una manera mas rapida al link.
+
+Finalmente nos dará un link directo a la Landing page desplegada: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
+
+**Frontend**
+
+![Ejemplo de Imagen](img/TP/front.png)
+
+![Ejemplo de Imagen](img/TP/front2.png)
+
+LINK FRONTEND DESPLEGADA: https://frontend-web-applications.vercel.app/
+
+
+### 5.2.3.9. Team Collaboration Insights during Sprint.
+
+Durante este sprint, el equipo trabajó en las mejoras de la landing page y en la primera versión funcional de la aplicación web. Las tareas se organizaron siguiendo metodologías ágiles, lo que permitió una colaboración fluida entre todos los miembros.
+
+Se utilizaron herramientas como Trello y GitHub para coordinar actividades y visualizar las contribuciones individuales, respaldadas por capturas de analíticos y commits.
+
+Avances:
+- Landing Page: Se mejoró el diseño, haciéndolo más interactivo y responsivo.
+
+- Aplicación Web: Se construyó una versión inicial con estructura base, rutas y lógica principal.
+
+- Documentación y Despliegue: Se documentaron los avances y se configuró un entorno de prueba para desplegar la app.
+
+**Landing Page**
+
+En este sprint en la LandingPage no hubieron muchos cambios significativos, mas que nada solo el cambio de idioma.
+
+![Commits](img/TP/colan.png)
+
+![Commits](img/TP/colan2.png)
+
+
+- Valentino Sandoval Paiva: 2
+- Renzo Sebastian Uribe Livia: 4
+- Fabian Alejandro Oliva Lopez: 4
+- Marcia Victoria Melgarejo Gomez: 5
+- Gabriel Fernando Gordon Salas. 16
+
+
+**Report:**
+
+![alt text](img/TP/co1.png)
+
+![alt text](img/TP/co2.png)
+
+![alt text](img/TP/co3.png)
+
+
+- Renzo Sebastian Uribe Livia: 13
+- Fabian Alejandro Oliva Lopez: 21
+- Marcia Victoria Melgarejo Gomez: 42
+- Gabriel Fernando Gordon Salas: 28
+- Valentino Sandoval Paiva: 8
+
+
+
+
 <div id='6.'><h2>Conclusiones</h2></div>
 
 El desarrollo de CleanView representó un desafío enriquecedor que permitió al equipo demostrar un alto grado de compromiso, organización y trabajo colaborativo. A través de la implementación de bounded contexts como Home, Control Panel, Sustainable Actions, Collection y Reports, se logró construir una solución enfocada en la gestión ambiental y el monitoreo de residuos. Durante el proceso, se aplicaron metodologías ágiles, diseño centrado en el usuario, integración continua en GitHub, y prácticas de Domain Driven Design, lo que facilitó una estructura de código escalable y alineada a los objetivos del sistema. La planificación y documentación también jugaron un rol crucial, permitiendo una ejecución clara y coordinada entre los miembros.
