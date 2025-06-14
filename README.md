@@ -713,11 +713,6 @@ En esta sección se presenta un glosario de términos clave relacionados al domi
 
 
 
-
-
-
-
-
 | Epic | Stories |
 |------|---------|
 | 1    | US-001, US-002, US-003, US-004, US-005, US-006, US-007, US-008, US-009 |
@@ -725,6 +720,10 @@ En esta sección se presenta un glosario de términos clave relacionados al domi
 | 3    | US-018, US-019, 	US-020, US-021, US-021 |
 | 4    | US-023, US-024, US-025, US-026  |
 | 5    | US-027, US-028, US-029, US-030, US-031, US-032 |
+
+
+## Technical Stories  
+
 
 
 
@@ -739,37 +738,38 @@ En esta sección se presenta un glosario de términos clave relacionados al domi
 
 | # Orden | User Story Id | Título                                           | Descripción                                                                                      | Story Points (1/2/3/5/8) |
 |---------|---------------|--------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------|
-| 1       | US-001        |  Navegación Clara y Eficiente  | **Como** visitante interesado en la gestión de residuos <br/> **Quiero** acceder fácilmente a las secciones clave de la página <br/> **Para** comprender rápidamente los servicios que ofrece CleanView.   | 3  |
-| 2       | US-002        | Accesos Visibles para Login/Registro  | **Como** empresario <br/> **Quiero** ver reportes detallados de producción y desperdicio <br/>  **Para** tomar decisiones que reduzcan los desperdicios y mejoren la eficiencia.       | 3   |
-| 3       | US-003        | Comprensión del Valor de la Plataforma  | **Como** representante de una empresa <br/> **Quiero** entender cómo CleanView me ayuda con la gestión de residuos <br/> **Para** evaluar su implementación en mi organización. | 2 |
-| 4       | US-004        | Información de Recompensas y Reciclaje | **Como** ciudadano comprometido <br/> **Quiero** conocer cómo reciclar correctamente y obtener recompensas <br/> **Para** motivarme a usar la aplicación de forma constante. | 5 |
-| 5       | US-005        | Diseño Responsivo en Móviles | **Como** usuario móvil <br/> **Quiero** que la página se adapte correctamente a mi pantalla <br/> **Para** navegar sin dificultades desde cualquier dispositivo. | 3 |
-| 6       | US-006        | Botones Accesibles en Dispositivos Táctiles | **Como** usuario móvil <br/> **Quiero** que los botones sean fácilmente seleccionables <br/> **Para** interactuar sin errores desde mi dispositivo. | 2 |
-| 7      | US-007        | Uso de Imágenes y Gráficos Ilustrativos | **Como** usuario visual <br/> **Quiero** ver ilustraciones del funcionamiento de la app <br/> **Para** comprender mejor su uso y beneficios. | 3 |
-| 8      | US-008        | Visualización de Recompensas Atractiva | **Como** visitante interesado <br/> **Quiero** ver representaciones visuales de las recompensas <br/> **Para** motivarme a participar en el reciclaje con CleanView. | 3 |
-| 9      | US-009        | Transparencia de la Empresa | **Como** usuario que valora la transparencia <br/> **Quiero** conocer la misión y visión de CleanView <br/> **Para** confiar en sus objetivos y filosofía. | 8 |
-| 10     | US-010        |  Credibilidad de la Plataforma | **Como** potencial cliente empresarial <br/> **Quiero** entender la experiencia de CleanView en el sector <br/> **Para** confiar en su profesionalismo. | 3 |
-| 11      | US-011        | Contacto Directo vía Formulario | **Como** usuario que necesita más información <br/> **Quiero** enviar un mensaje mediante un formulario <br/> **Para** recibir una respuesta del equipo de CleanView. | 3 |
-| 12      | US-012        | Formulario de Contacto Sencillo | **Como** visitante con preguntas <br/> **Quiero** que el formulario de contacto sea simple <br/> **Para** comunicarme rápidamente sin complicaciones. | 3 |
-| 13      | US-013         | Monitoreo de residuos en tiempo real | **Como** empresario <br/> **Quiero** visualizar la cantidad y tipo de residuos generados en tiempo real <br/> **Para** tomar decisiones rápidas. | 5 | 
-| 14      | US-014           | Reporte detallado sobre residuos | **Como** empresario <br/> **Quiero** ver reportes detallados de producción y desperdicio <br/>  **Para** tomar decisiones que reduzcan los desperdicios y mejoren la eficiencia. | 3 |
-| 15      | US-015           | Puntos de reciclaje cercanos | **Como** Ciudadano <br/> **Quiero** ver puntos de reciclaje cerca de mi casa <br/> **Para** poder reciclar fácilmente y contribuir al cuidado del medio ambiente | 5 |
-| 16    | US-016           | Consejos para manejo de residuos | **Como** Ciudadano <br/> **Quiero** recibir consejos del cuidado ambiental y reciclaje <br/> **Para** reducir residuos en casa.  | 3 |
-| 17    | US-017           | Gamificación ecológica | **Como** Ciudadano <br/> **Quiero** recibir puntos por buenas prácticas <br/> **Para** motivarme más a reciclar  | 3 |
-| 18    | US-018           | Alertas por umbrales críticos | **Como** Empresario <br/> **Quiero** alertas cuando los residuos superen un umbral <br/> **Para** poder tomar decisiones rápidas que garanticen el cumplimento ambiental | 8 |
-| 19    | US-019           | Comparación entre periodos | **Como** Empresario <br/> **Quiero** comparar residuos entre meses <br/> **Para** identificar patrones de generación y evaluar la efectividad de estrategias de reducción | 5 |
-| 20    | US-020           | Ranking interno de sostenibilidad | **Como** Empresario <br/> **Quiero** ver áreas que generan menos recursos <br/> **Para** replicar estrategias eficientes en otras áreas | 5 |
-| 21    | US-021           | Exportación de reportes | **Como** Empresario <br/> **Quiero** exportar reportes en PDF o Excel <br/> **Para** analizarlos fuera del sistema y compartirlos con mi equipo | 3 |
-| 22      | US-022        | Integración con sensores IoT | **Como** Empresario <br/> **Quiero** usar sensores inteligentes <br/> **Para** monitoreo automático e residuos | 2 |
-| 23      | US-023        | Notificación por tipo de residuo   |  **Como** Empresario <br/> **Quiero** recibir alertas si un tipo específico de residuo aumenta <br/> **Para** poder tomar decisiones rápidas que mitiguen impactos negativos   | 3 |
-| 24      | US-024        | Servicio de recojo automático | **Como**empresario <br/> **Quiero** que se solicite un servicio de recojo automáticamente cuando los sensores detectan que el 80% está lleno <br/> **Para** evitar acumulaciones y mantener la limpieza.   | 5 |
-| 25      | US-025        | chat de soporte ambiental  | **Como** Usuario <br/> **Quiero** consultar dudas con un asistente virtual <br/> **Para** obtener respuestas rápidas y precisas sin depender del soporte humano | 8 |
-| 26      | US-026        | Verificación de acciones sostenibles  | **Como** Empresario<br/> **Quiero** validar si las acciones implementadas reducen residuos <br/> **Para** medir su efectividad y ajustar estrategias en función de resultados    | 5  |
-| 27      | US-027        |  Integración con APIs externas | **Como** Desarrollador<br/> **Quiero** conectar CleanWind a otras plataformas <br/> **Para** integrar datos y funcionalidades con sistemas externos         | 5 |
-| 28      | US-028        |   Recomendaciones inteligentes    | **Como** Usuario<br/> **Quiero** recibir recomendaciones personalizadas según mis datos <br/> **Para** tomar decisiones más informadas que me ayuden a reducir residuos   | 3 |
-| 29      | US-029        |  Sistema de insignias por logros sostenibles     |**Como** Usuario<br/> **Quiero**  recibir insignias por hitos alcanzados <br/> **Para** motivarme, reconocer mis logros y visualizar mi progreso   | 5  |
-| 30      | US-030        | Contratación de servicios de recolección         | **Como** empresa <br/> **Quiero** contratar servicios de recolección de residuos <br/> **Para** asegurar el recojo eficiente según mi necesidad.    | 8  |
-| 31      | US-031        | Añadir nueva zona de monitoreo | **Como** empresario <br/> **Quiero** añadir una nueva zona de monitoreo con sensores <br/> **Para** gestionar y supervisar mejor los residuos en distintas áreas.  | 5 |
+| 1     | US-001         | Navegación Clara                         | Como visitante interesado en la gestión de residuos<br/>Quiero acceder a las secciones clave de la página<br/>Para comprender los servicios que ofrece CleanView. | 3            |
+| 2     | US-003         | Comprensión del Valor de la Plataforma   | Como visitante<br/>Quiero entender cómo CleanView me ayuda con la gestión de residuos<br/>Para evaluar su implementación                             | 3            |
+| 3     | US-005         | Uso de Imágenes y Gráficos Ilustrativos  | Como visitante<br/>Quiero ver ilustraciones del funcionamiento de la app<br/>Para comprender su uso y beneficios                                    | 5            |
+| 4     | US-004         | Accesibilidad a distintos idiomas        | Como visitante<br/>Quiero visualizar la información con el idioma que mejor entienda<br/>Para comprender de forma clara los servicios de la empresa | 5            |
+| 5     | US-006         | Contacto Directo vía Formulario          | Como visitante<br/>Quiero enviar un mensaje mediante un formulario<br/>Para recibir una respuesta del equipo de CleanView                           | 5            |
+| 6     | US-007         | Visualización de Recompensas Atractiva   | Como visitante interesado<br/>Quiero ver representaciones visuales de las recompensas<br/>Para motivarme a participar en el reciclaje con CleanView | 2            |
+| 7     | US-008         | Información de Recompensas y Reciclaje   | Como ciudadano comprometido<br/>Quiero conocer cómo reciclar correctamente y obtener recompensas<br/>Para motivarme a usar la aplicación constantemente | 3         |
+| 8     | US-009         | Chat de soporte ambiental                | Como visitante<br/>Quiero consultar dudas con un asistente virtual<br/>Para obtener respuestas sin depender del soporte humano                      | 8            |
+| 9     | US-010         | Monitoreo de residuos en tiempo real          | Como empresario<br/>Quiero visualizar la cantidad y tipo de residuos generados en tiempo real<br/>Para tomar decisiones en base a los resultados.          | 8            |
+| 10    | US-011         | Alertas por umbrales críticos                 | Como empresario<br/>Quiero alertas cuando los residuos superen un umbral<br/>Para poder tomar decisiones que garanticen el cumplimiento ambiental          | 5            |
+| 11    | US-013         | Notificación por tipo de residuo              | Como empresario<br/>Quiero recibir alertas si un tipo específico de residuo aumenta<br/>Para mantenerme informado                                           | 3            |
+| 12    | US-012         | Integración con sensores IoT                  | Como empresario<br/>Quiero usar sensores inteligentes<br/>Para monitoreo automático de los residuos                                                        | 8            |
+| 13    | US-014         | Añadir nueva zona de monitoreo                | Como empresario<br/>Quiero añadir una nueva zona de monitoreo con sensores<br/>Para gestionar los residuos en distintas áreas                              | 5            |
+| 14    | US15           | Panel de Control y Análisis de Datos          | Como empresario, Quiero analizar datos de residuos, alertas y zonas, Para tomar decisiones y gestionar mis áreas de monitoreo                              | 8            |
+| 15    | US-016         | Comparación entre periodos                    | Como empresario<br/>Quiero comparar residuos entre meses<br/>Para identificar patrones de generación de residuos                                           | 5            |
+| 16    | US-017         | Visualizar gráfico comparativo                | Como usuario<br/>Quiero ver un gráfico de barras que compare datos entre meses y zonas<br/>Para analizar el comportamiento de residuos                     | 3            |
+| 17    | US-018         | Exportación de reportes                       | Como empresario<br/>Quiero exportar reportes en PDF o Excel<br/>Para analizarlos fuera del sistema y compartirlos con mi equipo                           | 5            |
+| 18    | US-019         | Exportar reportes para empresas               | Como empresario<br/>Quiero exportar reportes en PDF o Excel<br/>Para analizarlos fuera del sistema y compartirlos con mi equipo                           | 5            |
+| 19    | US-020         | Exportar reportes personales                  | Como ciudadano<br/>Quiero exportar mi historial de reciclaje<br/>Para hacer seguimiento de mi aporte ambiental                                             | 5            |
+| 20    | US-021         | Filtrar reportes por periodo                  | Como usuario<br/>Quiero seleccionar un mes y año para exportar los datos<br/>Para enfocarme en un periodo específico de recolección o reciclaje           | 3            |
+| 21    | US-022         | Visualizar reporte antes de exportar          | Como usuario<br/>Quiero ver una vista previa del reporte<br/>Para asegurarme de que la información es correcta antes de descargar                         | 3            |
+| 22    | US-023         | Consejos para manejo de residuos              | Como ciudadano<br/>Quiero recibir consejos del cuidado ambiental y reciclaje<br/>Para reducir residuos en casa                                             | 3            |
+| 23    | US-026         | Registro de acciones sostenibles              | Como ciudadano<br/>Quiero registrar una acción sostenible<br/>Para contribuir al cuidado ambiental                                                         | 3            |
+| 24    | US-025         | Gamificación ecológica                        | Como ciudadano<br/>Quiero recibir puntos por buenas prácticas de reciclaje<br/>Para motivarme a seguir usando la app                                       | 5            |
+| 25    | US-024         | Sistema de insignias por logros sostenibles  | Como ciudadano<br/>Quiero recibir insignias por hitos alcanzados<br/>Para motivarme a seguir con mis logros                                               | 5            |
+| 26    | US-027         | Ofrecer un servicio de recolección           | Como empresario<br/>Quiero ofrecer el servicio de recolección de mi empresa<br/>Para poder reciclar más residuos y generar ingresos                       | 8            |
+| 27    | US-028         | Contratación de servicios de recolección     | Como empresa<br/>Quiero contratar servicios de recolección de residuos<br/>Para asegurar el recojo eficiente                                               | 8            |
+| 28    | US-029         | Puntos de reciclaje cercanos                 | Como ciudadano<br/>Quiero ver puntos de reciclaje cerca de mi casa<br/>Para llevar residuos a reciclar                                                    | 5            |
+| 29    | US-030         | Filtrar puntos de acopio por tipo o distrito | Como usuario<br/>Quiero filtrar los puntos de acopio<br/>Para encontrar los que se ajustan a mis necesidades                                               | 3            |
+| 30    | US-031         | Ver mapa con ubicación de los puntos         | Como usuario<br/>Quiero ver los puntos de acopio en un mapa<br/>Para ubicar fácilmente el más cercano                                                     | 5            |
+| 31    | US-032         | Añadir nuevo punto de acopio                 | Como administrador<br/>Quiero registrar nuevos puntos de acopio<br/>Para ampliar la red disponible para los usuarios                                      | 5            |
+| 32    | US-002         | Accesos Visibles para Login/Registro        | Como visitante<br/>Quiero registrarme a la aplicación<br/>Para acceder a los servicios que ofrecen                                                        | 3            |
 
 # Capítulo IV
 ## 4.1 Style Guidelines
@@ -826,7 +826,7 @@ Título 0 / 20px / Medium
 **Branding e Icono:**
 El logo de CleanWind representa su compromiso con el medio ambiente mediante un diseño simple y simbólico. En el centro, se muestra un tacho de basura verde con un símbolo de reciclaje blanco, reflejando la gestión responsable de residuos. A los costados, hojas verdes refuerzan la conexión ecológica. Todo está enmarcado por círculos verdes, y sobre ellos se encuentra el nombre CleanWind en color verde. Este diseño transmite sostenibilidad, orden y conciencia ambiental de forma clara y visualmente amigable.
 
-![image](https://github.com/user-attachments/assets/612b96ac-0ef3-4768-84c1-b8dcb33ee716)
+![image](./img/logo-img.jpg)
 
 ## 4.1.2. Web Style Guidelines
 La versión web de CleanWind está pensada para usuarios empresariales, con diseño responsivo, paneles modulares y visualizaciones claras de datos.
@@ -1722,7 +1722,7 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 |          |                          | **TA025** | Asegurar que el formulario sea intuitivo y fácil de usar. | 1 hora | Fabian Alejandro Oliva Lopez | Done |
 
 
-![alt text](assets/TB1-image/Trelloo1.png)
+![alt text](img/TB1-image/Trelloo1.png)
 
 
 Link Trello: 
@@ -1826,8 +1826,8 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 
 **Landing Page**
 
-![Commits](assets/TB1-new/landingc1.jpeg)
-![Commits](assets/TB1-new/landingc2.jpeg)
+![Commits](img/TB1-new/landingc1.jpeg)
+![Commits](img/TB1-new/landingc2.jpeg)
 
 
 - Valentino Sandoval Paiva: 
@@ -1913,7 +1913,13 @@ Link Trello: https://trello.com/b/GTdLG6Ox/1asi0729-2510-4313-g1-cleanview
 |            |                              | **TA032-2**  | Implementar validaciones de campos del formulario.           | 4 horas               | Valentino Sandoval | Done      |
 |            |                              | **TA032-3**  | Programar lógica de guardado del punto de acopio en backend. | 4 horas               | Valentino Sandoval | Done      |
 |            |                              | **TA032-4**  | Integrar ubicación en el mapa al ingresar dirección válida.  | 4 horas               | Valentino Sandoval | Done      |
-
+| **US-023**  | Consejos para manejo de residuos                  | **TA023-1**  | Diseñar la sección “Acciones Sostenibles” con interfaz y diseño general | 2 horas               | Marcia Melgarejo    | Done  |
+|            |                                                   | **TA023-2**  | Programar lógica de filtrado para mostrar consejos actualizados según categoría.                        | 2 horas               | Marcia Melgarejo    | Done  |
+|            |                                                   | **TA023-3**  | Implementar busqueda de acción sostenible.                                         | 1 horas               | Marcia Melgarejo    | Done  |
+|            |                                                   | **TA023-4**  | Crear opción para marcar consejos como favoritos.                                           | 1 horas               | Marcia Melgarejo    | Done  |                                            
+| **US-026**  | Registro de acciones sostenibles                  | **TA026-1**  | Diseñar formulario con campos: título, descripción, tipo de acción.                         | 1 horas               | Marcia Melgarejo    | Done  |                                          
+|            |                                                 | **TA026-2**  | Implementar lógica para guardar la acción sostenible registrada.                            | 1 horas               | Marcia Melgarejo    | Done  |
+|            |                                                 | **TA026-3**  | Mostrar la acción recién registrada en la lista de acciones sostenibles.                    | 1 horas               | Marcia Melgarejo    | Done  |
 
 
 ### 5.2.2.4 Development Evidence for Sprint Review
