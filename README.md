@@ -49,6 +49,11 @@
 | TP | 10/05/2025 | Fabian Alejandro Oliva Lopez    | Desarrollo del Bounded Context de **Control Panel**         |
 | TP | 10/05/2025 | Marcia Victoria Melgarejo Gomez | Desarrollo del Bounded Context de **Sustainable Actions**   |
 | TP | 10/05/2025 | Gabriel Fernando Gordon Salas   | Desarrollo del Bounded Context de **Reports**               |
+| TB2 | 12/06/2025 | Renzo Sebastian Uribe Livia     |               |
+| TB2 | 12/06/2025 | Valentino Sandoval Paiva        | |
+| TB2 | 12/06/2025 | Fabian Alejandro Oliva Lopez    |        |
+| TB2 | 12/06/2025 | Marcia Victoria Melgarejo Gomez |    |
+| TB2 | 12/06/2025 | Gabriel Fernando Gordon Salas   |             |
 
 ## Project Report Collaboration Insights
 
@@ -57,18 +62,23 @@
 | :-----------------------------------: | :-----------------------------------------------: | 
 | https://github.com/1ASI0729-2510-4313-G1-CleanView | https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report |
 
-| URL del repositorio de la landing page | URL del repositorio del frontend |
-| :-----------------------------------------------: | :------------------------------: |
-| https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page | https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend |
-
+| URL del repositorio de la landing page | URL del repositorio del frontend | URL del repositorio del BackEnd |
+| :-----------------------------------------------: | :------------------------------: |:------------------------------: |
+| https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page | https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend |https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications |
 
 
 **URL LANDING PAGE DESPLEGADO**: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
 
 **URL FRONTEND DESPLEGADO:**: https://frontend-web-applications.vercel.app/
 
+**URL BACKEND DESPLEGADO:**: 
 
-TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/1ASI0729-2510-4313-G1-CleanView. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio:  https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page .
+
+TB1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/1ASI0729-2510-4313-G1-CleanView. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio:  https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page .
+
+TB2: Se han -----------------------------------
+
+TB1:
 
 <br>**Vista de commits: **Report:****
 
@@ -84,6 +94,25 @@ TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cu
 - Marcia Victoria Melgarejo Gomez: 42
 - Gabriel Fernando Gordon Salas: 28
 - Valentino Sandoval Paiva: 8
+
+TB2:
+
+
+<br>**Vista de commits: **Report:****
+
+![alt text](img/TP/co1.png)
+
+![alt text](img/TP/co2.png)
+
+![alt text](img/TP/co3.png)
+
+
+- Renzo Sebastian Uribe Livia: 13
+- Fabian Alejandro Oliva Lopez: 21
+- Marcia Victoria Melgarejo Gomez: 42
+- Gabriel Fernando Gordon Salas: 28
+- Valentino Sandoval Paiva: 8
+
 
 
 
@@ -106,6 +135,7 @@ TB1:<br>
 | **Marcia Victoria Melgarejo Gomez** | Fue responsable del bounded context de **Sustainable Actions**, orientado al registro, seguimiento y visualización de acciones sostenibles realizadas por los usuarios. Desarrolló formularios dinámicos para ingresar acciones, filtros por tipo de acción y gráficos para medir el impacto ambiental. También trabajó en la conexión con el backend para almacenar registros y en la generación de reportes visuales. Participó en sesiones de revisión de código y pruebas funcionales.                  |
 | **Gabriel Fernando Gordon Salas**   | Desarrolló el bounded context de **Reports**, implementando módulos para la generación de reportes dinámicos y visualizaciones gráficas. Utilizó librerías de gráficos para representar estadísticas relacionadas con residuos recolectados, impacto ambiental y rendimiento de cada zona. Diseñó una interfaz clara para la selección de filtros de tiempo, tipo de dato y exportación de reportes. Además, colaboró en el testeo cruzado con los demás contextos para asegurar consistencia en los datos. |
 
+**TB2:**
 
 ## Student Outcome
 | Resultado del curso                                                               | Evidencia individual                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Evidencia grupal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -2162,53 +2192,52 @@ Para el Sprint Backlog 3, recopilamos historias de usuario enfocadas principalme
 
 Para el BackEnd, generamos un archivo .jar del proyecto utilizando el comando mvn clean package. Este archivo fue subido a un repositorio en GitHub, y desde allí realizamos el despliegue del servicio utilizando Railway como plataforma. Esta integración nos permitió poner en marcha el servidor de manera rápida y eficiente, facilitando las pruebas y la conexión con el FrontEnd.
 
+Commits realizados en el repositorio de frontend durante el sprint 3:
+
+Commits realizados en el repositorio de la Landing Page durante el sprint 3:
+
+Commits realizados en el repositorio de Backend durante el sprint 3:
+
+
+
 ### 5.2.3.5 Testing Suite Evidence for Sprint Review.
 
 ### 5.2.3.6 Execution Evidence for Sprint Review
 
-Durante este segundo sprint, el equipo trabajó en el desarrollo de los distintos bounded contexts del dominio de CleanView, utilizando el framework Vue.js para estructurar la aplicación. Con el apoyo de bibliotecas como Vuetify (u otra, si usaron una diferente), se implementaron funcionalidades clave que mejoraron la experiencia del usuario. Se priorizó la creación de componentes reutilizables y modulares, asegurando una interfaz moderna, dinámica y responsiva. Además, se cuidó la integración de cada módulo dentro de la arquitectura general del proyecto. Este sprint fue clave para establecer una base sólida y escalable para el desarrollo futuro de la plataforma.
+# Landin Page
 
-# LANDING PAGE
 
+Acontinuación se entrega el enlace a la landing page desplegada, actualizada y la última version.
 LANDING PAGE: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
-
 
 <p align="center">
   <img src="img/lp1.png">
   <br>
-  Vista general de la Landing Page, destacando el diseño limpio y moderno que permite a los usuarios navegar fácilmente por la información.
+ 
 </p>
 
 <p align="center">
   <img src="img/lp2.png">
   <br>
-  Sección de soluciones clave del producto, mostrando cómo se presentan de manera atractiva y accesible para atraer a los usuarios.
+  
 </p>
 
 <p align="center">
   <img src="img/lp3.png">
   <br>
-La sección “How Work” está diseñada para ofrecer una explicación visual y sencilla del funcionamiento de la plataforma CleanView, diferenciando la experiencia para empresas y usuarios individuales. A través de tarjetas ilustradas y pasos numerados, se guía a cada tipo de usuario en el proceso de uso de la plataforma, desde el registro hasta la interacción con funciones clave como la recolección de residuos, sugerencias personalizadas y generación de reportes.
-
-Esta sección tiene como objetivo proporcionar una comprensión rápida y accesible del valor y operatividad de CleanView, contribuyendo a una mejor experiencia de usuario desde el primer contacto con la plataforma.
 </p>
 
 <p align="center">
   <img src="img/LP4.png">
   <br>
- La sección Contacto de CleanView está diseñada para facilitar una comunicación directa y efectiva entre los usuarios y el equipo de soporte. Está compuesta por dos áreas diferenciadas: un panel informativo con los canales de contacto oficiales (correo electrónico, teléfono fijo y número móvil) y un formulario interactivo donde los usuarios pueden enviar consultas, comentarios o solicitudes personalizadas.
-
-Esta interfaz intuitiva permite ingresar datos básicos como nombre, teléfono, correo electrónico y mensaje, simplificando el proceso de atención y garantizando una respuesta oportuna. De esta manera, CleanView refuerza su compromiso con la atención al cliente y el acompañamiento continuo en el uso de la plataforma.
+</p>
 </p>
 
-
-</p>
-
-# WEB APPLICATION:
+# FrontEnd:
 
 LINK DEL FRONTEND DESPLEGADO: https://frontend-web-applications.vercel.app/
 
-## ***Collection Bounded-Context***
+- **Bounded Context: Collection**
 
 *Home page*
 
@@ -2218,88 +2247,56 @@ LINK DEL FRONTEND DESPLEGADO: https://frontend-web-applications.vercel.app/
 
 ![Commits](img/TP/fro5.png)
 
-
 *Seccion de puntos de Acopio*
-
-La interfaz muestra una lista de puntos de acopio para reciclaje en la parte izquierda, con información como:
-
-- Nombre del punto (ej. San Isidro Recicla)
-
-- Horario de atención
-
-- Tipos de materiales reciclables (Papel, Cartón, Plástico, etc.)
-
-- Teléfono de contacto
-
-Cada tarjeta tiene un botón "Ver más".
-A la derecha, se muestra un mapa interactivo (con Leaflet) que señala con pines la ubicación de estos puntos de acopio en la ciudad de Lima, Perú.
 
 ![Commits](img/TP/collec.jpg)
 
 *Añadir un punto de acopio*
 
-Se abre un formulario modal titulado “Nuevo Punto de Acopio”.
-Este formulario permite ingresar los datos de un nuevo punto:
-- Nombre
-- Horario
-- Teléfono
-- Materiales (separados por coma)
-- Latitud y longitud
-
-Al final del formulario hay botones de Cancelar y Guardar.
-
 ![Commits](img/TP/collec2.jpg)
 
-*Sección de Acciones Sostenibles*
-Interfaz principal
-La interfaz muestra consejos o tips sostenibles destacados en forma de tarjetas. En la parte superior se encuentra un botón “Agregar Acción Sostenible”, y más abajo:
-
-Un buscador para filtrar acciones sostenibles por texto.
-
-Filtros por categoría (ej. Almacenamiento, Mejora Operativa, Normativa).
-
-Lista de acciones sostenibles:
-
-Título de la acción (ej. Optimiza el uso del aire acondicionado)
-
-Descripción breve
-
-Íconos de acciones:
-
-Marcar como favorito
-
-Eliminar acción (si aplica)
+- **Bounded Context: Sustainable Actions**
 
 ![Commits](img/TP/fro.jpg)
 
-Agregar una acción sostenible
-Al hacer clic en el botón “Agregar Acción Sostenible”, se abre un formulario modal con el título:
-📝 Nueva Acción Sostenible
-
-Campos del formulario:
-
-Título: Nombre de la acción sostenible.
-
-Descripción: Explicación breve o consejo.
-
-Categoría: Selector (Almacenamiento, Mejora Operativa, Normativa, etc.)
-
-Fecha (opcional): Cuándo se realizó la acción (puede usarse para registro o gamificación futura).
-
-Botones al final del formulario:
-
-“Guardar” → Registra la acción y la muestra en la lista principal.
-
 ![Commits](img/TP/fro3.jpg)
 
-**Reports*
+- **Bounded Context: Reports**
 
 ![Commits](img/TP/fro6.png)
 
 
+Video About-the-Product:
+
 ### 5.2.3.7 Services Documentation Evidence for Sprint Review
 
-No se emplearon servicios adicionales, ya que este primer sprint se centró exclusivamente en la implementación de la primera versión del web application.
+
+
+Para el sprint 3 se documentaron ** endpoints repartidos en * controladores (). 
+Además se empleó swagger para hacer las pruebas a los endpoints.
+Link al repositorio de backend: 
+
+<h3> Collection Bounded Context</h3>
+
+**CollectionPointsController**
+
+| **Tag**          | **HTTP Verbs** | **Endpoint**                     | **Summary**                  | **Description**                         | **OperationId**          |
+| ---------------- | -------------- | -------------------------------- | ---------------------------- | --------------------------------------- | ------------------------ |
+| CollectionPoints | POST           | /api/v1/collection-points        | Create Collection Point      | Create a new collection point           | CreateCollectionPoint    |
+| CollectionPoints | GET            | /api/v1/collection-points/{id}   | Get Collection Point by Id   | Get a collection point by its ID        | GetCollectionPointById   |
+| CollectionPoints | GET            | /api/v1/collection-points        | Get All Collection Points    | Retrieve all collection points          | GetAllCollectionPoints   |
+| CollectionPoints | GET            | /api/v1/collection-points/search | Get Collection Point by Name | Retrieve a collection point by its name | GetCollectionPointByName |
+| CollectionPoints | PUT            | /api/v1/collection-points/{id}   | Update Collection Point      | Update an existing collection point     | UpdateCollectionPoint    |
+| CollectionPoints | DELETE         | /api/v1/collection-points/{id}   | Delete Collection Point      | Delete a collection point by its ID     | DeleteCollectionPoint    |
+
+
+![Commits](img/TB2/CB1.png)
+
+![Commits](img/TB2/CB2.png)
+
+![Commits](img/TB2/CB3.png)
+
+![Commits](img/TB2/CB4.png)
 
 ### 5.2.3.8 Software Deployment Evidence for Sprint Review
 
@@ -2332,6 +2329,8 @@ Finalmente nos dará un link directo a la Landing page desplegada: https://1asi0
 ![Ejemplo de Imagen](img/TP/front2.png)
 
 LINK FRONTEND DESPLEGADA: https://frontend-web-applications.vercel.app/
+
+**BackEnd**
 
 
 ### 5.2.3.9. Team Collaboration Insights during Sprint.
