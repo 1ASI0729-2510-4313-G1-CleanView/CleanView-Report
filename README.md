@@ -49,6 +49,11 @@
 | TP | 10/05/2025 | Fabian Alejandro Oliva Lopez    | Desarrollo del Bounded Context de **Control Panel**         |
 | TP | 10/05/2025 | Marcia Victoria Melgarejo Gomez | Desarrollo del Bounded Context de **Sustainable Actions**   |
 | TP | 10/05/2025 | Gabriel Fernando Gordon Salas   | Desarrollo del Bounded Context de **Reports**               |
+| TB2 | 12/06/2025 | Renzo Sebastian Uribe Livia     |               |
+| TB2 | 12/06/2025 | Valentino Sandoval Paiva        | |
+| TB2 | 12/06/2025 | Fabian Alejandro Oliva Lopez    |        |
+| TB2 | 12/06/2025 | Marcia Victoria Melgarejo Gomez |    |
+| TB2 | 12/06/2025 | Gabriel Fernando Gordon Salas   |             |
 
 ## Project Report Collaboration Insights
 
@@ -57,18 +62,23 @@
 | :-----------------------------------: | :-----------------------------------------------: | 
 | https://github.com/1ASI0729-2510-4313-G1-CleanView | https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report |
 
-| URL del repositorio de la landing page | URL del repositorio del frontend |
-| :-----------------------------------------------: | :------------------------------: |
-| https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page | https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend |
-
+| URL del repositorio de la landing page | URL del repositorio del frontend | URL del repositorio del BackEnd |
+| :-----------------------------------------------: | :------------------------------: |:------------------------------: |
+| https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page | https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend |https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications |
 
 
 **URL LANDING PAGE DESPLEGADO**: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
 
 **URL FRONTEND DESPLEGADO:**: https://frontend-web-applications.vercel.app/
 
+**URL BACKEND DESPLEGADO:**: 
 
-TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/1ASI0729-2510-4313-G1-CleanView. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio:  https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page .
+
+TB1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/1ASI0729-2510-4313-G1-CleanView. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio:  https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page .
+
+TB2: Se han -----------------------------------
+
+TB1:
 
 <br>**Vista de commits: **Report:****
 
@@ -84,6 +94,25 @@ TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cu
 - Marcia Victoria Melgarejo Gomez: 42
 - Gabriel Fernando Gordon Salas: 28
 - Valentino Sandoval Paiva: 8
+
+TB2:
+
+
+<br>**Vista de commits: **Report:****
+
+![alt text](img/TP/co1.png)
+
+![alt text](img/TP/co2.png)
+
+![alt text](img/TP/co3.png)
+
+
+- Renzo Sebastian Uribe Livia: 13
+- Fabian Alejandro Oliva Lopez: 21
+- Marcia Victoria Melgarejo Gomez: 42
+- Gabriel Fernando Gordon Salas: 28
+- Valentino Sandoval Paiva: 8
+
 
 
 
@@ -106,6 +135,7 @@ TB1:<br>
 | **Marcia Victoria Melgarejo Gomez** | Fue responsable del bounded context de **Sustainable Actions**, orientado al registro, seguimiento y visualización de acciones sostenibles realizadas por los usuarios. Desarrolló formularios dinámicos para ingresar acciones, filtros por tipo de acción y gráficos para medir el impacto ambiental. También trabajó en la conexión con el backend para almacenar registros y en la generación de reportes visuales. Participó en sesiones de revisión de código y pruebas funcionales.                  |
 | **Gabriel Fernando Gordon Salas**   | Desarrolló el bounded context de **Reports**, implementando módulos para la generación de reportes dinámicos y visualizaciones gráficas. Utilizó librerías de gráficos para representar estadísticas relacionadas con residuos recolectados, impacto ambiental y rendimiento de cada zona. Diseñó una interfaz clara para la selección de filtros de tiempo, tipo de dato y exportación de reportes. Además, colaboró en el testeo cruzado con los demás contextos para asegurar consistencia en los datos. |
 
+**TB2:**
 
 ## Student Outcome
 | Resultado del curso                                                               | Evidencia individual                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Evidencia grupal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -2122,6 +2152,238 @@ En este sprint en la LandingPage no hubieron muchos cambios significativos, mas 
 - Marcia Victoria Melgarejo Gomez: 42
 - Gabriel Fernando Gordon Salas: 28
 - Valentino Sandoval Paiva: 8
+
+
+
+## 5.2.3. Sprint 3
+
+### 5.2.3.1 Sprint Planning 3
+
+Durante el Sprint 3, el equipo centró sus esfuerzos en el desarrollo del BackEnd de CleanView utilizando Java. Este sprint fue clave para implementar las primeras funcionalidades del servidor y establecer la estructura base del sistema. También se realizaron mejoras en el FrontEnd para integrarlo con el BackEnd, avanzando así hacia una versión más funcional del proyecto.
+
+| Sprint #| Sprint 3|
+| -- | -- |
+| **Sprint Planning Background**||
+| **Date**| 10/06/2025|
+| **Time**| 18:00 PM|
+| **Location**| Discord (Reunión virtual)|
+| **Prepared By**|Valentino Sandoval Paiva|
+| **Attendees (to planning meeting)** | Valentino Sandoval Paiva, Renzo Uribe, Fabian Oliva, Valentino Sandoval, Marcia Melgarejo, Gabriel Gordon |
+| **Sprint Goal & User Stories**||
+| **Sprint 1 Goal**| Nuestro enfoque está en finalizar el BackEnd individual, cada uno con su Bounded Context lanzarlo localmente. Creemos que esto, nos ayudara a mejorar y a entender el BackEnd. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
+| **Sprint 1 Velocity**|  |
+| **Sum of Story Points**|  |
+
+
+
+### 5.2.3.2 Aspect Leaders and Collaborators
+
+En esta sección se presenta el Leadership-and-Collaboration Matrix (LACX), que define quién es el líder y quiénes son los colaboradores para cada aspecto del Sprint. Estos aspectos pueden incluir funcionalidades, bounded contexts, o cualquier otro elemento relevante del alcance del Sprint, con el fin de mejorar la claridad y comunicación dentro del equipo.
+| Team Member          | GitHub Username   | Frontend (L/C) | Backend (L/C) | Testing (L/C) | UX/UI Design (L/C) | Documentación (L/C) | Coordinación (L/C) |
+| -------------------- | ----------------- | -------------- | ------------- | ------------- | ------------------ | ------------------- | ------------------ |
+| Marcia Melgarejo     | Mevi1217          | C              | C             | L             | C                  | C                   | C                  |
+| Gabriel Gordon       | Silent343         | C              | L             | C             | C                  | C                   | C                  |
+| Fabian Oliva         | FabulousFabStar   | L              | C             | C             | C                  | L                   | C                  |
+| Renzo Uribe          | JKOlimpo          | C              | C             | C             | L                  | C                   | L                  |
+| Valentino Sandoval   | SoyValzzz         | C              | C             | C             | C                  | C                   | C                  |
+
+
+
+### 5.2.3.3 Sprint Backlog 3
+
+Para el Sprint Backlog 3, recopilamos historias de usuario enfocadas principalmente en el desarrollo del BackEnd. Estas historias fueron desglosadas en tareas concretas y manejables, lo que facilitó su asignación entre los miembros del equipo. Utilizamos Trello como herramienta de gestión para organizar y dar seguimiento al progreso, lo que mejoró significativamente nuestra coordinación. Esta estructura nos permitió enfocarnos en completar las funcionalidades clave del BackEnd y resolver los desafíos técnicos de manera más ágil y colaborativa.
+
+
+### 5.2.2.4 Development Evidence for Sprint Review
+
+Para el BackEnd, generamos un archivo .jar del proyecto utilizando el comando mvn clean package. Este archivo fue subido a un repositorio en GitHub, y desde allí realizamos el despliegue del servicio utilizando Railway como plataforma. Esta integración nos permitió poner en marcha el servidor de manera rápida y eficiente, facilitando las pruebas y la conexión con el FrontEnd.
+
+Commits realizados en el repositorio de frontend durante el sprint 3:
+
+Commits realizados en el repositorio de la Landing Page durante el sprint 3:
+
+Commits realizados en el repositorio de Backend durante el sprint 3:
+
+
+
+### 5.2.3.5 Testing Suite Evidence for Sprint Review.
+
+### 5.2.3.6 Execution Evidence for Sprint Review
+
+# Landin Page
+
+
+Acontinuación se entrega el enlace a la landing page desplegada, actualizada y la última version.
+LANDING PAGE: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
+
+<p align="center">
+  <img src="img/lp1.png">
+  <br>
+ 
+</p>
+
+<p align="center">
+  <img src="img/lp2.png">
+  <br>
+  
+</p>
+
+<p align="center">
+  <img src="img/lp3.png">
+  <br>
+</p>
+
+<p align="center">
+  <img src="img/LP4.png">
+  <br>
+</p>
+</p>
+
+# FrontEnd:
+
+LINK DEL FRONTEND DESPLEGADO: https://frontend-web-applications.vercel.app/
+
+- **Bounded Context: Collection**
+
+*Home page*
+
+![Commits](img/TP/fro4.png)
+
+*Panel de control*
+
+![Commits](img/TP/fro5.png)
+
+*Seccion de puntos de Acopio*
+
+![Commits](img/TP/collec.jpg)
+
+*Añadir un punto de acopio*
+
+![Commits](img/TP/collec2.jpg)
+
+- **Bounded Context: Sustainable Actions**
+
+![Commits](img/TP/fro.jpg)
+
+![Commits](img/TP/fro3.jpg)
+
+- **Bounded Context: Reports**
+
+![Commits](img/TP/fro6.png)
+
+
+Video About-the-Product:
+
+### 5.2.3.7 Services Documentation Evidence for Sprint Review
+
+
+
+Para el sprint 3 se documentaron ** endpoints repartidos en * controladores (). 
+Además se empleó swagger para hacer las pruebas a los endpoints.
+Link al repositorio de backend: 
+
+<h3> Collection Bounded Context</h3>
+
+**CollectionPointsController**
+
+| **Tag**          | **HTTP Verbs** | **Endpoint**                     | **Summary**                  | **Description**                         | **OperationId**          |
+| ---------------- | -------------- | -------------------------------- | ---------------------------- | --------------------------------------- | ------------------------ |
+| CollectionPoints | POST           | /api/v1/collection-points        | Create Collection Point      | Create a new collection point           | CreateCollectionPoint    |
+| CollectionPoints | GET            | /api/v1/collection-points/{id}   | Get Collection Point by Id   | Get a collection point by its ID        | GetCollectionPointById   |
+| CollectionPoints | GET            | /api/v1/collection-points        | Get All Collection Points    | Retrieve all collection points          | GetAllCollectionPoints   |
+| CollectionPoints | GET            | /api/v1/collection-points/search | Get Collection Point by Name | Retrieve a collection point by its name | GetCollectionPointByName |
+| CollectionPoints | PUT            | /api/v1/collection-points/{id}   | Update Collection Point      | Update an existing collection point     | UpdateCollectionPoint    |
+| CollectionPoints | DELETE         | /api/v1/collection-points/{id}   | Delete Collection Point      | Delete a collection point by its ID     | DeleteCollectionPoint    |
+
+
+![Commits](img/TB2/CB1.png)
+
+![Commits](img/TB2/CB2.png)
+
+![Commits](img/TB2/CB3.png)
+
+![Commits](img/TB2/CB4.png)
+
+### 5.2.3.8 Software Deployment Evidence for Sprint Review
+
+En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso. 
+
+Las actividades de despliegue abarcan múltiples productos, incluyendo la Landing Page, aplicaciones web y servicios web. A continuación, se detallan los pasos realizados, junto con capturas de pantalla que ilustran el proceso y brindan una visión clara de cada etapa.
+
+**Landing Page**
+Para la Landing Page se ha implementado utilizando GitHub Pages, lo que facilita su acceso y gestión.
+
+
+![Commits](img/TP/LAN.png)
+
+En la seccion pages, dentro de la configuracion del repositorio, escoger la rama deseada y seleccionar save para hacer el deploy de esta.
+
+![Commits](img/TP/LAN2.png)
+
+Pasados unos minutos se generará el link para acceder a la landing page.
+
+![Commits](img/TP/LAN3.png)
+
+Adicionalmente Podemos seleccionar use your GitHub pages website en las opciones de about del repositorio, para poder acceder de una manera mas rapida al link.
+
+Finalmente nos dará un link directo a la Landing page desplegada: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
+
+**Frontend**
+
+![Ejemplo de Imagen](img/TP/front.png)
+
+![Ejemplo de Imagen](img/TP/front2.png)
+
+LINK FRONTEND DESPLEGADA: https://frontend-web-applications.vercel.app/
+
+**BackEnd**
+
+
+### 5.2.3.9. Team Collaboration Insights during Sprint.
+
+Durante este sprint, el equipo trabajó en las mejoras de la landing page y en la primera versión funcional de la aplicación web. Las tareas se organizaron siguiendo metodologías ágiles, lo que permitió una colaboración fluida entre todos los miembros.
+
+Se utilizaron herramientas como Trello y GitHub para coordinar actividades y visualizar las contribuciones individuales, respaldadas por capturas de analíticos y commits.
+
+Avances:
+- Landing Page: Se mejoró el diseño, haciéndolo más interactivo y responsivo.
+
+- Aplicación Web: Se construyó una versión inicial con estructura base, rutas y lógica principal.
+
+- Documentación y Despliegue: Se documentaron los avances y se configuró un entorno de prueba para desplegar la app.
+
+**Landing Page**
+
+En este sprint en la LandingPage no hubieron muchos cambios significativos, mas que nada solo el cambio de idioma.
+
+![Commits](img/TP/colan.png)
+
+![Commits](img/TP/colan2.png)
+
+
+- Valentino Sandoval Paiva: 2
+- Renzo Sebastian Uribe Livia: 4
+- Fabian Alejandro Oliva Lopez: 4
+- Marcia Victoria Melgarejo Gomez: 5
+- Gabriel Fernando Gordon Salas. 16
+
+
+**Report:**
+
+![alt text](img/TP/co1.png)
+
+![alt text](img/TP/co2.png)
+
+![alt text](img/TP/co3.png)
+
+
+- Renzo Sebastian Uribe Livia: 13
+- Fabian Alejandro Oliva Lopez: 21
+- Marcia Victoria Melgarejo Gomez: 42
+- Gabriel Fernando Gordon Salas: 28
+- Valentino Sandoval Paiva: 8
+
+
 
 
 <div id='6.'><h2>Conclusiones</h2></div>
