@@ -2276,8 +2276,6 @@ Video About-the-Product:
 
 ### 5.2.3.7 Services Documentation Evidence for Sprint Review
 
-
-
 Para el sprint 3 se documentaron ** endpoints repartidos en * controladores (). 
 Además se empleó swagger para hacer las pruebas a los endpoints.
 Link al repositorio de backend: 
@@ -2303,6 +2301,75 @@ Link al repositorio de backend:
 ![Commits](img/TB2/CB3.png)
 
 ![Commits](img/TB2/CB4.png)
+
+
+<h3> Control Panel Bounded Context</h3>
+
+**SensorsController**
+
+| **Tag** | **HTTP Verbs** | **Endpoint**         | **Summary**      | **Description**             | **OperationId** |
+| ------- | -------------- | -------------------- | ---------------- | --------------------------- | --------------- |
+| Sensors | POST           | /api/v1/sensors      | Create Sensor    | Create a new sensor         | CreateSensor    |
+| Sensors | GET            | /api/v1/sensors/{id} | Get Sensor by ID | Retrieve a sensor by its ID | GetSensorById   |
+| Sensors | GET            | /api/v1/sensors      | Get All Sensors  | Retrieve all sensors        | GetAllSensors   |
+| Sensors | PUT            | /api/v1/sensors/{id} | Update Sensor    | Update an existing sensor   | UpdateSensor    |
+| Sensors | DELETE         | /api/v1/sensors/{id} | Delete Sensor    | Delete a sensor by its ID   | DeleteSensor    |
+
+![Commits](img/TB2/CB5.png)
+
+![Commits](img/TB2/CB6.png)
+
+![Commits](img/TB2/CB7.png)
+
+![Commits](img/TB2/CB8.png)
+
+
+**StoresController**
+
+| **Tag** | **HTTP Verbs** | **Endpoint**          | **Summary**       | **Description**              | **OperationId** |
+| ------- | -------------- | --------------------- | ----------------- | ---------------------------- | --------------- |
+| Stores  | POST           | /api/v1/stores        | Create Store      | Create a new store           | CreateStore     |
+| Stores  | GET            | /api/v1/stores/{id}   | Get Store by ID   | Retrieve a store by its ID   | GetStoreById    |
+| Stores  | GET            | /api/v1/stores/{name} | Get Store by Name | Retrieve a store by its name | GetStoreByName  |
+| Stores  | GET            | /api/v1/stores        | Get All Stores    | Retrieve all stores          | GetAllStores    |
+| Stores  | PUT            | /api/v1/stores/{id}   | Update Store      | Update an existing store     | UpdateStore     |
+
+![Commits](img/TB2/CB9.png)
+
+![Commits](img/TB2/CB10.png)
+
+![Commits](img/TB2/CB11.png)
+
+**WastesController**
+
+| **Tag** | **HTTP Verbs** | **Endpoint**        | **Summary**     | **Description**                   | **OperationId** |
+| ------- | -------------- | ------------------- | --------------- | --------------------------------- | --------------- |
+| Wastes  | POST           | /api/v1/wastes      | Create Waste    | Create a new waste record         | CreateWaste     |
+| Wastes  | GET            | /api/v1/wastes/{id} | Get Waste by ID | Retrieve a waste record by its ID | GetWasteById    |
+
+![Commits](img/TB2/CB12.png)
+
+![Commits](img/TB2/CB13.png)
+
+![Commits](img/TB2/CB14.png)
+
+<h3> Tips Bounded Context</h3>
+
+**ActionController**
+
+| **Tag** | **HTTP Verbs** | **Endpoint**                | **Summary**         | **Description**                         | **OperationId**  |
+| ------- | -------------- | --------------------------- | ------------------- | --------------------------------------- | ---------------- |
+| Actions | POST           | /api/v1/actions             | Create Action       | Create a new environmental action       | CreateAction     |
+| Actions | GET            | /api/v1/actions             | Get All Actions     | Retrieve all available actions          | GetAllActions    |
+| Actions | GET            | /api/v1/actions/type/{type} | Get Actions by Type | Retrieve actions filtered by their type | GetActionsByType |
+| Actions | DELETE         | /api/v1/actions/{id}        | Delete Action       | Delete an action by its ID              | DeleteAction     |
+
+![Commits](img/TB2/CB15.png)
+
+![Commits](img/TB2/CB16.png)
+
+![Commits](img/TB2/CB17.png)
+
 
 ### 5.2.3.8 Software Deployment Evidence for Sprint Review
 
@@ -2383,6 +2450,148 @@ En este sprint en la LandingPage no hubieron muchos cambios significativos, mas 
 - Gabriel Fernando Gordon Salas: 28
 - Valentino Sandoval Paiva: 8
 
+
+### 5.3 Validation Interviews
+
+Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas.
+
+Preguntas principales: 
+- ¿Se te hace facil encontrar lo que buscas? 
+- ¿Siente que es facil de usar? 
+- ¿Qué te parece la aplicación web? 
+- ¿Siente que la aplicación web satisfacerá tus necesidades como futur@ usuario?
+
+### 5.3.1. Diseño de Entrevistas.
+
+Preguntas para ambos segmentos (Personas Naturales y Empresas)
+
+**Navegación y organización**
+
+- ¿Te resulta fácil identificar los puntos de acopio en la lista y ubicarlos en el mapa?
+
+- ¿Hay alguna parte de la interfaz que te parezca confusa o que te tome tiempo entender?
+
+- ¿Consideras que el sistema te da suficiente información sobre cada punto de acopio antes de decidir visitarlo?
+
+**Acciones sostenibles**
+
+- ¿El buscador y los filtros para encontrar acciones sostenibles te resultan intuitivos?
+
+- ¿Qué tan útil consideras la información que se muestra en las tarjetas de acciones sostenibles?
+
+- ¿Te pareció sencillo agregar una nueva acción sostenible desde el formulario?
+
+**Formularios**
+
+- ¿El formulario para registrar un nuevo punto de acopio te pareció claro? ¿Hubo algún campo que te generó duda?
+
+- ¿Qué mejorarías en los formularios para que sean más rápidos o más fáciles de completar?
+
+**Diseño y accesibilidad**
+
+- ¿Sientes que los colores, botones y textos son legibles y accesibles para ti?
+
+- ¿Crees que alguien sin conocimientos técnicos podría usar fácilmente esta plataforma?
+
+**Retroalimentación del sistema**
+
+- ¿El sistema te brinda suficiente confirmación visual o textual al realizar acciones como guardar o eliminar?
+
+- ¿Has notado algún momento en que no supiste si la acción que hiciste fue registrada?
+
+### Preguntas específicas para Personas Naturales
+
+**Usabilidad cotidiana**
+- ¿Sientes que esta aplicación te ayuda a encontrar fácilmente dónde reciclar cerca de ti?
+
+- ¿Te gustaría recibir recomendaciones de puntos de acopio o acciones sostenibles basadas en tu ubicación o historial?
+
+- ¿Qué tan motivado te sentirías para registrar tus propias acciones sostenibles si se mostraran como parte de una comunidad?
+
+### Preguntas específicas para Empresas (PyMEs, Grandes empresas, ONGs)
+**Uso profesional**
+
+- ¿El panel de control te brinda una visión clara del impacto ambiental o gestión de residuos de tu organización?
+
+- ¿Te parece útil poder filtrar acciones sostenibles por categoría para aplicarlas en diferentes áreas de tu empresa?
+
+- ¿Qué otras métricas o gráficos te gustaría ver en el dashboard para tomar decisiones sostenibles?
+
+**Integración con procesos internos**
+
+- ¿Ves potencial en integrar esta app con tus procesos de RSE o certificaciones ambientales?
+
+- ¿Qué funcionalidades adicionales facilitarían la gestión de sostenibilidad en tu organización?
+
+
+### 5.3.2. Registro de Entrevistas.
+
+**Segmento 1:** Personas Naturales
+
+  
+| | | 
+|---|---|
+| ENTREVISTA 1 |
+| **Nombre entrevistado** | **----------** |
+| Edad |-- |
+| Profesión |---  |
+| Departamento | --- |
+| Inicio del video | 00:00 |
+| Fin del video |----  |
+|Link del video: | URL: [------] |
+| ![Ejemplo de Imagen]( ) | ----------- |
+| ENTREVISTA 2 |
+| **Nombre entrevistado** | **---------** |
+| Edad | ------- |
+| Profesión | ------ |
+| Departamento | ------- |
+| Inicio del video | ---- |
+| Fin del video | ---- |
+|Link del video: | URL: [------] |
+| ![Ejemplo de Imagen](---- ) | ------- |
+| ENTREVISTA 3 |
+| **Nombre entrevistado** | **------** |
+| Edad | ---- |
+| Profesión | ----- |
+| Departamento | ---- |
+| Inicio del video | ---- |
+| Fin del video | ---- |
+|Link del video: | URL: [------] |
+|  | ------ |
+| Duración de todas las entrevistas: ---- | URL: [------] |
+
+**Segmento 2:** Empresas (PyMEs, Grandes empresas, ONGs)
+  
+  | | | 
+|---|---|
+| ENTREVISTA 1 |
+| **Nombre entrevistado** | **----------** |
+| Edad |-- |
+| Profesión |---  |
+| Departamento | --- |
+| Inicio del video | 00:00 |
+| Fin del video |----  |
+|Link del video: | URL: [------] |
+| ![Ejemplo de Imagen]( ) | ----------- |
+| ENTREVISTA 2 |
+| **Nombre entrevistado** | **---------** |
+| Edad | ------- |
+| Profesión | ------ |
+| Departamento | ------- |
+| Inicio del video | ---- |
+| Fin del video | ---- |
+|Link del video: | URL: [------] |
+| ![Ejemplo de Imagen](---- ) | ------- |
+| ENTREVISTA 3 |
+| **Nombre entrevistado** | **------** |
+| Edad | ---- |
+| Profesión | ----- |
+| Departamento | ---- |
+| Inicio del video | ---- |
+| Fin del video | ---- |
+|Link del video: | URL: [------] |
+|  | ------ |
+| Duración de todas las entrevistas: ---- | URL: [------] |
 
 
 
