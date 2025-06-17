@@ -2455,12 +2455,6 @@ En este sprint en la LandingPage no hubieron muchos cambios significativos, mas 
 
 Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas.
 
-Preguntas principales: 
-- ¿Se te hace facil encontrar lo que buscas? 
-- ¿Siente que es facil de usar? 
-- ¿Qué te parece la aplicación web? 
-- ¿Siente que la aplicación web satisfacerá tus necesidades como futur@ usuario?
-
 ### 5.3.1. Diseño de Entrevistas.
 
 Preguntas para ambos segmentos (Personas Naturales y Empresas)
