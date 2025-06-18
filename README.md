@@ -2602,7 +2602,7 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Duración de todas las entrevistas: ---- | URL: [------] |
 
 
-### 6.3.3. Evaluaciones según Heurísticas
+### 5.3.3. Evaluaciones según Heurísticas
 
 En esta sección se presentan las evaluaciones de usabilidad de la landing page y la aplicación web para conexión entre diseñadores independientes y clientes.  
 **UX Heuristics & Principles Evaluation**  
