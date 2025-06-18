@@ -2602,6 +2602,27 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Duración de todas las entrevistas: ---- | URL: [------] |
 
 
+### 5.3.3 Evaluaciones según Heurísticas de Usabilidad
+
+Para validar la experiencia de usuario de CleanView, se utilizó la metodología de evaluación heurística basada en las 10 heurísticas de usabilidad de Jakob Nielsen. A continuación, se detalla el análisis realizado sobre las funcionalidades clave de la aplicación web y la landing page:
+
+| **Heurística** | **Evaluación en CleanView** | **Observaciones / Mejora Propuesta** |
+|----------------|------------------------------|--------------------------------------|
+| **1. Visibilidad del estado del sistema** | El sistema informa de forma clara el estado de las acciones, como la creación de zonas o sensores. Al guardar una acción sostenible, aparece una notificación visual. | Se sugiere añadir un indicador de carga mientras se generan los reportes exportables. |
+| **2. Relación entre el sistema y el mundo real** | Se utilizan términos naturales como “residuos”, “zonas”, “recompensas”, y se muestran íconos representativos (tacho, reciclaje, insignias). | Reforzar el uso de íconos en botones de acción como “Guardar”, “Cancelar” o “Editar”, para usuarios no técnicos. |
+| **3. Control y libertad del usuario** | Los formularios permiten cancelar sin consecuencias y hay confirmaciones al eliminar. | Faltan botones de “volver” o navegación simplificada en algunas vistas móviles. Se recomienda incluir breadcrumbs o accesos rápidos. |
+| **4. Consistencia y estándares** | El diseño es coherente en color, tipografía y componentes. Se sigue una estructura repetitiva entre módulos. | En algunas secciones los títulos usan diferente tamaño o peso visual (ej. Acciones Sostenibles vs. Reportes). Se sugiere homogeneizar. |
+| **5. Prevención de errores** | Se validan los formularios con mensajes específicos (ej. datos faltantes o incorrectos). | Aún no se previene la duplicación de zonas o puntos idénticos fácilmente. Agregar validaciones automáticas más robustas. |
+| **6. Reconocimiento antes que recuerdo** | Los menús laterales y secciones están bien etiquetados. Las acciones frecuentes son accesibles (como ver recompensas o sensores). | Podría agregarse una guía interactiva en el primer uso o un "tour inicial" para nuevos usuarios. |
+| **7. Flexibilidad y eficiencia de uso** | Los usuarios frecuentes (como empresas) pueden registrar sensores o zonas rápidamente desde accesos directos. | Permitir atajos de teclado o acciones preconfiguradas (plantillas) mejoraría la eficiencia. |
+| **8. Diseño estético y minimalista** | La interfaz es limpia, con buena jerarquía visual y colores ecológicos coherentes. | Se recomienda revisar el uso de espacios en pantallas pequeñas donde hay acumulación de tarjetas. |
+| **9. Ayuda para reconocer, diagnosticar y recuperarse de errores** | Los errores en formularios son explicativos (por ejemplo, “este campo es obligatorio”). | Algunos errores técnicos como “no se encontró sensor” podrían explicar mejor el origen del problema (consejo o solución). |
+| **10. Ayuda y documentación** | Se cuenta con una sección de preguntas frecuentes en la landing page y el chatbot guía algunas acciones. | Sería útil incluir una sección fija de ayuda contextual dentro del panel principal para usuarios empresariales. |
+
+#### Evaluadores
+La evaluación fue realizada por los propios miembros del equipo, complementada con las entrevistas de validación a usuarios reales (personas naturales y empresas). Se observó que la aplicación cumple de forma aceptable con la mayoría de heurísticas, aunque aún puede beneficiarse de mejoras en accesibilidad, navegación avanzada y mensajes de error específicos.
+
+
 
 <div id='6.'><h2>Conclusiones</h2></div>
 
