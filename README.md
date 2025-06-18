@@ -2602,25 +2602,128 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Duración de todas las entrevistas: ---- | URL: [------] |
 
 
-### 5.3.3 Evaluaciones según Heurísticas de Usabilidad
+### 5.3.3. Evaluaciones según Heurísticas
 
-Para validar la experiencia de usuario de CleanView, se utilizó la metodología de evaluación heurística basada en las 10 heurísticas de usabilidad de Jakob Nielsen. A continuación, se detalla el análisis realizado sobre las funcionalidades clave de la aplicación web y la landing page:
+Esta sección contiene el proceso de evaluación de la experiencia de CleanView basado en heurísticas de usabilidad, arquitectura de información y diseño inclusivo.
 
-| **Heurística** | **Evaluación en CleanView** | **Observaciones / Mejora Propuesta** |
-|----------------|------------------------------|--------------------------------------|
-| **1. Visibilidad del estado del sistema** | El sistema informa de forma clara el estado de las acciones, como la creación de zonas o sensores. Al guardar una acción sostenible, aparece una notificación visual. | Se sugiere añadir un indicador de carga mientras se generan los reportes exportables. |
-| **2. Relación entre el sistema y el mundo real** | Se utilizan términos naturales como “residuos”, “zonas”, “recompensas”, y se muestran íconos representativos (tacho, reciclaje, insignias). | Reforzar el uso de íconos en botones de acción como “Guardar”, “Cancelar” o “Editar”, para usuarios no técnicos. |
-| **3. Control y libertad del usuario** | Los formularios permiten cancelar sin consecuencias y hay confirmaciones al eliminar. | Faltan botones de “volver” o navegación simplificada en algunas vistas móviles. Se recomienda incluir breadcrumbs o accesos rápidos. |
-| **4. Consistencia y estándares** | El diseño es coherente en color, tipografía y componentes. Se sigue una estructura repetitiva entre módulos. | En algunas secciones los títulos usan diferente tamaño o peso visual (ej. Acciones Sostenibles vs. Reportes). Se sugiere homogeneizar. |
-| **5. Prevención de errores** | Se validan los formularios con mensajes específicos (ej. datos faltantes o incorrectos). | Aún no se previene la duplicación de zonas o puntos idénticos fácilmente. Agregar validaciones automáticas más robustas. |
-| **6. Reconocimiento antes que recuerdo** | Los menús laterales y secciones están bien etiquetados. Las acciones frecuentes son accesibles (como ver recompensas o sensores). | Podría agregarse una guía interactiva en el primer uso o un "tour inicial" para nuevos usuarios. |
-| **7. Flexibilidad y eficiencia de uso** | Los usuarios frecuentes (como empresas) pueden registrar sensores o zonas rápidamente desde accesos directos. | Permitir atajos de teclado o acciones preconfiguradas (plantillas) mejoraría la eficiencia. |
-| **8. Diseño estético y minimalista** | La interfaz es limpia, con buena jerarquía visual y colores ecológicos coherentes. | Se recomienda revisar el uso de espacios en pantallas pequeñas donde hay acumulación de tarjetas. |
-| **9. Ayuda para reconocer, diagnosticar y recuperarse de errores** | Los errores en formularios son explicativos (por ejemplo, “este campo es obligatorio”). | Algunos errores técnicos como “no se encontró sensor” podrían explicar mejor el origen del problema (consejo o solución). |
-| **10. Ayuda y documentación** | Se cuenta con una sección de preguntas frecuentes en la landing page y el chatbot guía algunas acciones. | Sería útil incluir una sección fija de ayuda contextual dentro del panel principal para usuarios empresariales. |
+---
 
-#### Evaluadores
-La evaluación fue realizada por los propios miembros del equipo, complementada con las entrevistas de validación a usuarios reales (personas naturales y empresas). Se observó que la aplicación cumple de forma aceptable con la mayoría de heurísticas, aunque aún puede beneficiarse de mejoras en accesibilidad, navegación avanzada y mensajes de error específicos.
+## TABLA RESUMEN
+
+| #  | Problema                                                                                  | Escala de severidad | Heurística/Principio violado                                     |
+|----|-------------------------------------------------------------------------------------------|---------------------|------------------------------------------------------------------|
+| 1  | No hay onboarding o guía inicial para usuarios nuevos                                     | 2                   | Usabilidad: Ayuda y documentación                                |
+| 2  | Falta un indicador visual mientras se generan reportes                                    | 2                   | Usabilidad: Visibilidad del estado del sistema                   |
+| 3  | Algunos títulos de secciones varían en estilo visual                                      | 1                   | Usabilidad: Consistencia y estándares                            |
+| 4  | No hay confirmación clara al eliminar registros                                           | 3                   | Usabilidad: Prevención de errores / Feedback del sistema         |
+| 5  | No hay filtro por categoría o tipo de acciones sostenibles                               | 2                   | Arquitectura de Información: Is it findable?                     |
+| 6  | No se puede previsualizar documentos de forma inmediata                                  | 2                   | Usabilidad: Flexibilidad y eficiencia de uso                     |
+| 7  | En mobile, los botones se muestran pequeños y las tarjetas se ven comprimidas            | 3                   | Diseño Responsivo: Accesibilidad en múltiples dispositivos       |
+| 8  | No se explica el motivo exacto cuando falla una acción (ej. no se encuentra un sensor)   | 2                   | Usabilidad: Ayuda para reconocer y recuperarse de errores        |
+| 9  | Las funcionalidades clave no cuentan con accesos rápidos visibles                        | 1                   | Usabilidad: Flexibilidad y eficiencia de uso                     |
+| 10 | No hay diferenciación visual clara entre los diferentes tipos de usuarios                | 2                   | Usabilidad: Correspondencia con el mundo real                    |
+
+---
+
+## DESCRIPCIÓN DE PROBLEMAS
+
+### PROBLEMA #1: No hay onboarding o guía inicial para usuarios nuevos  
+**Severidad:** 2  
+**Heurística violada:** Usabilidad - Ayuda y documentación  
+**Problema:**  
+La plataforma no cuenta con una guía introductoria ni mensajes contextuales para orientar a nuevos usuarios. Esto dificulta la exploración fluida de funcionalidades para quienes ingresan por primera vez.  
+**Recomendación:**  
+Incorporar un tutorial interactivo o "tour" en el primer ingreso al sistema.
+
+---
+
+### PROBLEMA #2: Falta un indicador visual mientras se generan reportes  
+**Severidad:** 2  
+**Heurística violada:** Usabilidad - Visibilidad del estado del sistema  
+**Problema:**  
+Cuando el usuario genera un reporte, el sistema no muestra ningún indicador de proceso en curso. Esto puede generar confusión sobre si la acción fue exitosa o no.  
+**Recomendación:**  
+Agregar un loader animado o mensaje que indique "Generando reporte..." mientras el proceso está en ejecución.
+
+---
+
+### PROBLEMA #3: Algunos títulos de secciones varían en estilo visual  
+**Severidad:** 1  
+**Heurística violada:** Usabilidad - Consistencia y estándares  
+**Problema:**  
+El estilo visual de los títulos no es completamente uniforme entre módulos como “Reportes” y “Acciones Sostenibles”.  
+**Recomendación:**  
+Unificar jerarquías visuales para mantener coherencia en la experiencia.
+
+---
+
+### PROBLEMA #4: No hay confirmación clara al eliminar registros  
+**Severidad:** 3  
+**Heurística violada:** Usabilidad - Prevención de errores / Feedback del sistema  
+**Problema:**  
+Al eliminar zonas o sensores, el sistema no siempre solicita confirmación ni ofrece un mensaje claro de éxito o fallo.  
+**Recomendación:**  
+Incluir diálogos de confirmación y alertas post-acción.
+
+---
+
+### PROBLEMA #5: No hay filtro por categoría o tipo de acciones sostenibles  
+**Severidad:** 2  
+**Heurística violada:** Arquitectura de Información - Is it findable?  
+**Problema:**  
+El listado de acciones sostenibles no permite filtros por tipo o categoría, dificultando la navegación en grandes volúmenes de datos.  
+**Recomendación:**  
+Incorporar filtros por tipo de acción (reciclaje, voluntariado, transporte, etc.).
+
+---
+
+### PROBLEMA #6: No se puede previsualizar documentos de forma inmediata  
+**Severidad:** 2  
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso  
+**Problema:**  
+Los documentos deben descargarse para ser visualizados, lo que ralentiza tareas administrativas.  
+**Recomendación:**  
+Integrar visor de PDF o imágenes directamente en la plataforma.
+
+---
+
+### PROBLEMA #7: En mobile, los botones se muestran pequeños y las tarjetas se ven comprimidas  
+**Severidad:** 3  
+**Heurística violada:** Diseño Responsivo - Accesibilidad en múltiples dispositivos  
+**Problema:**  
+La experiencia en pantallas pequeñas presenta problemas de navegación y legibilidad.  
+**Recomendación:**  
+Revisar el diseño responsive para mejorar el espaciado y tamaño de elementos interactivos.
+
+---
+
+### PROBLEMA #8: No se explica el motivo exacto cuando falla una acción (ej. no se encuentra un sensor)  
+**Severidad:** 2  
+**Heurística violada:** Usabilidad - Ayuda para reconocer y recuperarse de errores  
+**Problema:**  
+Los mensajes de error son genéricos y no brindan pistas claras al usuario.  
+**Recomendación:**  
+Personalizar los mensajes de error con causas y posibles soluciones.
+
+---
+
+### PROBLEMA #9: Las funcionalidades clave no cuentan con accesos rápidos visibles  
+**Severidad:** 1  
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso  
+**Problema:**  
+Acciones como crear una zona o exportar un reporte requieren varios clics, lo cual reduce la eficiencia para usuarios frecuentes.  
+**Recomendación:**  
+Añadir botones de acción rápida o accesos desde el menú principal.
+
+---
+
+### PROBLEMA #10: No hay diferenciación visual clara entre los diferentes tipos de usuarios  
+**Severidad:** 2  
+**Heurística violada:** Usabilidad - Correspondencia con el mundo real  
+**Problema:**  
+No se presentan diferencias claras en la experiencia de usuario entre roles como empresa y ciudadano.  
+**Recomendación:**  
+Personalizar vistas y accesos según tipo de usuario para mejorar la experiencia contextual.
 
 
 
