@@ -2602,9 +2602,34 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Duración de todas las entrevistas: ---- | URL: [------] |
 
 
-### 5.3.3. Evaluaciones según Heurísticas
+### 6.3.3. Evaluaciones según Heurísticas
 
-Esta sección contiene el proceso de evaluación de la experiencia de CleanView basado en heurísticas de usabilidad, arquitectura de información y diseño inclusivo.
+En esta sección se presentan las evaluaciones de usabilidad de la landing page y la aplicación web para conexión entre diseñadores independientes y clientes.  
+**UX Heuristics & Principles Evaluation**  
+**Usability – Inclusive Design – Information Architecture**
+
+---
+
+#### Información del Proyecto
+
+- **Carrera:** Ingeniería de Software  
+- **Curso:** Desarrollo de Aplicaciones Open Source  
+- **Sección:** 4313  
+- **Profesores:** Todos  
+- **Auditor:** CleanView  
+- **Cliente(s):** CleanView  
+- **Sitio o App a Evaluar:** CleanView  
+
+---
+
+#### TAREAS A EVALUAR  
+Para el alcance de esta entrega, se realizó la revisión de las siguientes tareas:
+
+- Navegación general en la plataforma web  
+- Registro de zonas y sensores de residuos  
+- Consulta y exportación de reportes  
+- Registro de acciones sostenibles por parte de usuarios  
+- Visualización desde dispositivos móviles  
 
 ---
 
@@ -2724,6 +2749,7 @@ Añadir botones de acción rápida o accesos desde el menú principal.
 No se presentan diferencias claras en la experiencia de usuario entre roles como empresa y ciudadano.  
 **Recomendación:**  
 Personalizar vistas y accesos según tipo de usuario para mejorar la experiencia contextual.
+
 
 
 
