@@ -2633,6 +2633,19 @@ Para el alcance de esta entrega, se realizó la revisión de las siguientes tare
 
 ---
 
+## Escala de Severidad de Problemas
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir con más frecuencia o es más difícil de superar para el usuario. Debería tener una prioridad baja para resolverse en la próxima versión. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Debería tener alta prioridad para corregirse. |
+| 4     | Problema muy grave: error que impide al usuario continuar utilizando la herramienta. Debe corregirse antes del lanzamiento. |
+
+---
+
 ## TABLA RESUMEN
 
 | #  | Problema                                                                                  | Escala de severidad | Heurística/Principio violado                                     |
@@ -2743,12 +2756,7 @@ Añadir botones de acción rápida o accesos desde el menú principal.
 ---
 
 ### PROBLEMA #10: No hay diferenciación visual clara entre los diferentes tipos de usuarios  
-**Severidad:** 2  
-**Heurística violada:** Usabilidad - Correspondencia con el mundo real  
-**Problema:**  
-No se presentan diferencias claras en la experiencia de usuario entre roles como empresa y ciudadano.  
-**Recomendación:**  
-Personalizar vistas y accesos según tipo de usuario para mejorar la experiencia contextual.
+**Seve**
 
 
 
