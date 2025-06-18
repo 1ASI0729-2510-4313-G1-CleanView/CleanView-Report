@@ -2756,7 +2756,12 @@ Añadir botones de acción rápida o accesos desde el menú principal.
 ---
 
 ### PROBLEMA #10: No hay diferenciación visual clara entre los diferentes tipos de usuarios  
-**Seve**
+**Severidad:** 2  
+**Heurística violada:** Usabilidad - Correspondencia con el mundo real  
+**Problema:**  
+No se presentan diferencias claras en la experiencia de usuario entre roles como empresa y ciudadano.  
+**Recomendación:**  
+Personalizar vistas y accesos según tipo de usuario para mejorar la experiencia contextual.
 
 
 
