@@ -221,7 +221,7 @@ TB1:<br>
     - [5.2.1 . Sprint 1](#521--sprint-1)
       - [5.2.1.1 Sprint Planning 1.](#5211-sprint-planning-1)
       - [5.2.1.2 Sprint Backlog 1.](#5212-sprint-backlog-1)
-      - [5.2.1.3 Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+      - [5.2.1.3 ](#5213-development-evidence-for-sprint-review)
       - [5.2.1.4 Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
       - [5.2.1.5 Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
       - [5.2.1.6 Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
@@ -230,7 +230,7 @@ TB1:<br>
     - [5.2.2 . Sprint 2](#522--sprint-2)
       - [5.2.2.1 Sprint Planning 2.](#5221-sprint-planning-2)
       - [5.2.2.2 Sprint Backlog 2.](#5222-sprint-backlog-2)
-      - [5.2.2.3 Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.3 ](#5223-development-evidence-for-sprint-review)
       - [5.2.2.4 Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
       - [5.2.2.5 Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
       - [5.2.2.6 Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
@@ -239,7 +239,7 @@ TB1:<br>
     - [5.2.3 . Sprint 3](#523--sprint-3)
       - [5.2.3.1 Sprint Planning 3.](#5231-sprint-planning-3)
       - [5.2.3.2 Sprint Backlog 3.](#5232-sprint-backlog-3)
-      - [5.2.3.3 Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.3 ](#5233-development-evidence-for-sprint-review)
       - [5.2.3.4 Testing Suite Evidence for Sprint Review.](#5234-testing-suite-evidence-for-sprint-review)
       - [5.2.3.5 Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
       - [5.2.3.6 Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
@@ -248,7 +248,7 @@ TB1:<br>
     - [5.2.4 . Sprint 4](#524--sprint-4)
       - [5.2.4.1 Sprint Planning 4.](#5241-sprint-planning-4)
       - [5.2.4.2 Sprint Backlog 4.](#5242-sprint-backlog-4)
-      - [5.2.4.3 Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+      - [5.2.4.3 ](#5243-development-evidence-for-sprint-review)
       - [5.2.4.4 Testing Suite Evidence for Sprint Review.](#5244-testing-suite-evidence-for-sprint-review)
       - [5.2.4.5 Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
       - [5.2.4.6 Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
@@ -2214,7 +2214,34 @@ Para el BackEnd, generamos un archivo .jar del proyecto utilizando el comando mv
 
 Commits realizados en el repositorio de frontend durante el sprint 3:
 
+| Repository                                                              | Branch         | CommitId                                 | Commit message                                | Commit message body                                          | Committed on |
+| ----------------------------------------------------------------------- | -------------- | ---------------------------------------- | --------------------------------------------- | ------------------------------------------------------------ | ------------ |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | master         | bc2332b3ca0793fc3411bcfb1963b1744eb617a1 | feat(home): update home UI                    | feat(home): updated layout and improved responsiveness       | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | master         | 6cb48ee6bbd3c09a6bc02fabc78342688eda3c56 | fix(control-panel): fix display issues        | fix(control-panel): resolved conditional rendering bugs      | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | master         | 75771150eeb039ee7f76dccb71dc487b6f096ad4 | fix(collection): cleanup unused services      | fix(collection): removed deprecated services/entities        | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | master         | c18f16a025faea9c596f0933257fe4d27cf5ff4c | fix(reports): fix data integration            | fix(reports): synced with updated mock db                    | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | 2fdf1099507d613bc9b976501ccdeb95ace6031d | feat(reports): improve chart rendering        | feat(reports): adjusted chart scales and styling             | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | 92179279efbf603a066004b84962be4df3b19ba7 | fix(control-panel): connection fix            | fix(control-panel): resolved API connection issues           | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | 599a45848edbfa7b085775d9025a253a4a6cfe84 | fix(home): fix routing issues                 | fix(home): corrected route configuration                     | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | 75771150eeb039ee7f76dccb71dc487b6f096ad4 | fix(collection): cleanup unused services      | fix(collection): removed deprecated services/entities        | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | feature/report | a63b1cc3916a2aae22dd58da5483745bee675b4b | feat(reports): fix graphics                   | feat(reports): fixed alignment and colors in graphs          | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | 6b1c1e8b59ee86d00012023aec46fdb7b6937840 | feat(collection): add mock data for dashboard | feat(collection): added db json for bins and pickups         | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | af22c287ef80ad83d9edc231598cb63c36de7b77 | feat(collection): new collection zones added  | feat(collection): integrated new zones into map view         | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | e323578c35e488aa061173f8e1435d07980be68c | feat(control-panel): add control settings     | feat(control-panel): added UI for configuring parameters     | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | e9484e915408a5e8f53fbe4949b2a16d1f10ebe9 | feat(sustainable-actions): new feature module | feat(sustainable-actions): created logic for action tracking | 12/05/2025   |
+| [Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | develop        | 456b31b3d7aba571d1985ec1abaf9f774d38aca9 | feat(reports): add report section             | feat(reports): new UI for waste and impact reports           | 12/05/2025   |
+
 Commits realizados en el repositorio de la Landing Page durante el sprint 3:
+
+| **Repository**     | **Branch**                                | **Commit Id** | **Commit Message**                              | **Commit Message Body**                           | **Committed on (Date)** |
+|----------------|-------------------------------------------|---------------|-------------------------------------------------|---------------------------------------------------|-------------------------|
+| LandingPage       | main                               | 93d0247035c1bdbae3eaa20a3e121da162267e4f        | first commit                                    | Estructura inicial del proyecto: archivos .html, .css e imágenes. | 26/04/2025              |
+| Report       | feature/Sprint2-sprintBacklog-services_Documentation_Evidence | 75c0c75        | Se realizo la agregacion de los videos y paginas | Created the README file.                          | 25/09/2024              |
+| Report       | development                               | 6548432        | feat:Testing Suite Evidence for Sprint Review   | feat:Testing Suite Evidence for Sprint Review     | 25/09/2024              |
+| Report       | development                               | a19b6ac        | feature:Sprint Backlog  update                 | Se realizo una actualizacion del product backlog | 25/09/2024              |
+| Report       | development                               | 29ca9f3        | feature/execution-evidence-from-sprint-review   | feature/execution-evidence-from-sprint-review     | 24/09/2024              |
+| Report       | docs/landingpage-deployment-evidence      | 7fe8f1f        | feature: added landing page deployment evidence | feature: added landing page deployment evidence   | 24/09/2024              |
+| Report       | fix/diagrama-clases                       | 6e41532        | feature: Add bounded context Reports images and Information | feature: Add bounded context Reports images and Information | 24/09/2024              |
 
 Commits realizados en el repositorio de Backend durante el sprint 3:
 
