@@ -2573,62 +2573,62 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | | | 
 |---|---|
 | ENTREVISTA 1 |
-| **Nombre entrevistado** | **----------** |
-| Edad |-- |
-| Profesión |---  |
-| Departamento | --- |
-| Inicio del video | 00:00 |
-| Fin del video |----  |
+| **Nombre entrevistado** | **Stephano Landauri** |
+| Edad | 18 |
+| Profesión |Ingeniero de Software|
+| Departamento | Lima |
+| Inicio del video | 02:01 |
+| Fin del video | 06:27 |
 |Link del video: | URL: [------] |
 | ![Ejemplo de Imagen]( ) | ----------- |
 | ENTREVISTA 2 |
-| **Nombre entrevistado** | **---------** |
-| Edad | ------- |
-| Profesión | ------ |
-| Departamento | ------- |
-| Inicio del video | ---- |
-| Fin del video | ---- |
+| **Nombre entrevistado** | **Oscar Espinoza** |
+| Edad | 18 |
+| Profesión | Ingeniero de Software |
+| Departamento | Lima |
+| Inicio del video | 06:29 |
+| Fin del video | 14:28 |
 |Link del video: | URL: [------] |
 | ![Ejemplo de Imagen](---- ) | ------- |
 | ENTREVISTA 3 |
-| **Nombre entrevistado** | **------** |
-| Edad | ---- |
-| Profesión | ----- |
-| Departamento | ---- |
-| Inicio del video | ---- |
-| Fin del video | ---- |
+| **Nombre entrevistado** | **Miguel Angel Vidal** |
+| Edad | 18 |
+| Profesión | Ingeniero de Software |
+| Departamento | Lima |
+| Inicio del video | 14:30 |
+| Fin del video | 23:25 |
 |Link del video: | URL: [------] |
 |  | ------ |
-| Duración de todas las entrevistas: ---- | URL: [------] |
+| Duración de todas las entrevistas: 23:27 | URL: [------] |
 
 **Segmento 2:** Empresas (PyMEs, Grandes empresas, ONGs)
   
   | | | 
 |---|---|
 | ENTREVISTA 1 |
-| **Nombre entrevistado** | **----------** |
-| Edad |-- |
-| Profesión |---  |
-| Departamento | --- |
-| Inicio del video | 00:00 |
-| Fin del video |----  |
+| **Nombre entrevistado** | **Alejandro Oroncoy** |
+| Edad | 20 |
+| Profesión | Backen Developer |
+| Departamento | Lima |
+| Inicio del video | 23:27 |
+| Fin del video | 39:48 |
 |Link del video: | URL: [------] |
 | ![Ejemplo de Imagen]( ) | ----------- |
 | ENTREVISTA 2 |
-| **Nombre entrevistado** | **---------** |
-| Edad | ------- |
-| Profesión | ------ |
-| Departamento | ------- |
-| Inicio del video | ---- |
-| Fin del video | ---- |
+| **Nombre entrevistado** | **Guillermo Tantalean** |
+| Edad | 20 |
+| Profesión | Administracion de Empresas |
+| Departamento | Lima |
+| Inicio del video | 39:50 |
+| Fin del video | 54:07 |
 |Link del video: | URL: [------] |
 | ![Ejemplo de Imagen](---- ) | ------- |
 | ENTREVISTA 3 |
-| **Nombre entrevistado** | **------** |
-| Edad | ---- |
+| **Nombre entrevistado** | **Gael Rivera** |
+| Edad | 19 |
 | Profesión | ----- |
-| Departamento | ---- |
-| Inicio del video | ---- |
+| Departamento | Lima |
+| Inicio del video | 54:09 |
 | Fin del video | ---- |
 |Link del video: | URL: [------] |
 |  | ------ |
