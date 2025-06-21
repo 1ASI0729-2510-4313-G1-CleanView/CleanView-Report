@@ -2579,8 +2579,8 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Departamento | Lima |
 | Inicio del video | 02:01 |
 | Fin del video | 06:27 |
-|Link del video: | URL: [------] |
-| ![Ejemplo de Imagen]( ) | ----------- |
+|Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
+| ![Ejemplo de Imagen]( ) | |
 | ENTREVISTA 2 |
 | **Nombre entrevistado** | **Oscar Espinoza** |
 | Edad | 18 |
@@ -2588,7 +2588,7 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Departamento | Lima |
 | Inicio del video | 06:29 |
 | Fin del video | 14:28 |
-|Link del video: | URL: [------] |
+|Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
 | ![Ejemplo de Imagen](---- ) | ------- |
 | ENTREVISTA 3 |
 | **Nombre entrevistado** | **Miguel Angel Vidal** |
@@ -2597,9 +2597,9 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Departamento | Lima |
 | Inicio del video | 14:30 |
 | Fin del video | 23:25 |
-|Link del video: | URL: [------] |
-|  | ------ |
-| Duración de todas las entrevistas: 23:27 | URL: [------] |
+|Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
+| ![Ejemplo de Imagen]( ) | ------ |
+| Duración de todas las entrevistas: 0:00 - 23:27 | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
 
 **Segmento 2:** Empresas (PyMEs, Grandes empresas, ONGs)
   
@@ -2612,7 +2612,7 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Departamento | Lima |
 | Inicio del video | 23:27 |
 | Fin del video | 39:48 |
-|Link del video: | URL: [------] |
+|Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
 | ![Ejemplo de Imagen]( ) | ----------- |
 | ENTREVISTA 2 |
 | **Nombre entrevistado** | **Guillermo Tantalean** |
@@ -2621,18 +2621,18 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Departamento | Lima |
 | Inicio del video | 39:50 |
 | Fin del video | 54:07 |
-|Link del video: | URL: [------] |
+|Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
 | ![Ejemplo de Imagen](---- ) | ------- |
 | ENTREVISTA 3 |
 | **Nombre entrevistado** | **Gael Rivera** |
 | Edad | 19 |
-| Profesión | ----- |
+| Profesión | Administracion de Empresas |
 | Departamento | Lima |
 | Inicio del video | 54:09 |
-| Fin del video | ---- |
-|Link del video: | URL: [------] |
-|  | ------ |
-| Duración de todas las entrevistas: ---- | URL: [------] |
+| Fin del video | 1:05:20 |
+|Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
+| ![Ejemplo de Imagen](---- ) | ------ |
+| Duración de todas las entrevistas: 23:29 - 1:05:20 | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
 
 
 ### 5.3.3. Evaluaciones según Heurísticas
