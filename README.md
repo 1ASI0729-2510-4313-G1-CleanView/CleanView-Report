@@ -49,11 +49,11 @@
 | TP | 10/05/2025 | Fabian Alejandro Oliva Lopez    | Desarrollo del Bounded Context de **Control Panel**         |
 | TP | 10/05/2025 | Marcia Victoria Melgarejo Gomez | Desarrollo del Bounded Context de **Sustainable Actions**   |
 | TP | 10/05/2025 | Gabriel Fernando Gordon Salas   | Desarrollo del Bounded Context de **Reports**               |
-| TB2 | 12/06/2025 | Renzo Sebastian Uribe Livia     |               |
-| TB2 | 12/06/2025 | Valentino Sandoval Paiva        | |
-| TB2 | 12/06/2025 | Fabian Alejandro Oliva Lopez    |        |
+| TB2 | 12/06/2025 | Renzo Sebastian Uribe Livia     | Participación en revisión de tareas BackEnd y soporte general en integración              |
+| TB2 | 12/06/2025 | Valentino Sandoval Paiva        | Desarrollo del Bounded Context *Collection Points. Realizó el **despliegue del FrontEnd, BackEnd y la última versión actualizada del FrontEnd**.|
+| TB2 | 12/06/2025 | Fabian Alejandro Oliva Lopez    | Apoyo en pruebas y validación de integración FrontEnd–BackEnd        |
 | TB2 | 12/06/2025 | Marcia Victoria Melgarejo Gomez |  Desarrollo del Bounded Context de **Sustainable Actions** para el backend |
-| TB2 | 12/06/2025 | Gabriel Fernando Gordon Salas   |             |
+| TB2 | 12/06/2025 | Gabriel Fernando Gordon Salas   | Desarrollo del Bounded Context **Control Panel**, incluyendo endpoints de sensores, zonas y residuos            |
 
 ## Project Report Collaboration Insights
 
@@ -2701,7 +2701,7 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Inicio del video | 02:01 |
 | Fin del video | 06:27 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
-| <br>  ![image](https://github.com/user-attachments/assets/5fff0976-11cd-48a3-9d96-0dacffbac936)| |
+| <br>  ![image](https://github.com/user-attachments/assets/5fff0976-11cd-48a3-9d96-0dacffbac936)| Descripción: Stephano Landauri mencionó que la gestión de residuos es un tema poco visible entre jóvenes, pero necesario. Sugirió que CleanView debería integrar elementos educativos y recordatorios visuales para fomentar buenos hábitos ambientales desde edades tempranas. Considera útil el monitoreo en tiempo real para identificar patrones de consumo doméstico. |
 | ENTREVISTA 2 |
 | **Nombre entrevistado** | **Oscar Espinoza** |
 | Edad | 18 |
@@ -2710,7 +2710,7 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Inicio del video | 06:29 |
 | Fin del video | 14:28 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
-| <br> ![image](https://github.com/user-attachments/assets/af4b59a1-000f-4772-8646-cdf5930e0570)| ------- |
+| <br> ![image](https://github.com/user-attachments/assets/af4b59a1-000f-4772-8646-cdf5930e0570)| Descripción: Oscar Espinoza comentó que una app como CleanView puede cambiar la forma en que los ciudadanos se relacionan con sus residuos. Aunque no suele usar apps de este tipo, opinó que una interfaz amigable y notificaciones claras mejorarían la experiencia de usuario. Sugiere incluir un ranking o sistema de puntos para incentivar el reciclaje. |
 | ENTREVISTA 3 |
 | **Nombre entrevistado** | **Miguel Angel Vidal** |
 | Edad | 18 |
@@ -2719,7 +2719,7 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Inicio del video | 14:30 |
 | Fin del video | 23:25 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
-| <br> ![image](https://github.com/user-attachments/assets/a5b7f1fd-1abf-4f87-9180-22ccf9b11903)| ------ |
+| <br> ![image](https://github.com/user-attachments/assets/a5b7f1fd-1abf-4f87-9180-22ccf9b11903)| Descripción: Miguel Angel Vidal destacó que muchas veces se desconoce a dónde van los residuos una vez recolectados. Cree que la plataforma podría mostrar rutas de recolección o convenios con recicladoras. Además, recomendó incluir estadísticas personales que motiven al usuario con metas sostenibles. |
 | Duración de todas las entrevistas: 0:00 - 23:27 | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
 
 **Segmento 2:** Empresas (PyMEs, Grandes empresas, ONGs)
@@ -2734,7 +2734,7 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Inicio del video | 23:27 |
 | Fin del video | 39:48 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
-| <br> ![image](https://github.com/user-attachments/assets/7b465980-9c27-495e-a98b-7bfd0abc8950)| ----------- |
+| <br> ![image](https://github.com/user-attachments/assets/7b465980-9c27-495e-a98b-7bfd0abc8950)| Descripción: Alejandro Oroncoy, como Backend Developer, valoró el enfoque técnico del proyecto. Señaló que sería clave ofrecer API públicas para integrarse con sistemas de inventario o logística de las empresas. También destacó la importancia de alertas tempranas para la gestión predictiva de residuos. |
 | ENTREVISTA 2 |
 | **Nombre entrevistado** | **Guillermo Tantalean** |
 | Edad | 20 |
@@ -2743,7 +2743,7 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Inicio del video | 39:50 |
 | Fin del video | 54:07 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
-| <br> ![image](https://github.com/user-attachments/assets/b7c7c0e0-4f68-475c-b78e-38fbac5ea9f1)| ------- |
+| <br> ![image](https://github.com/user-attachments/assets/b7c7c0e0-4f68-475c-b78e-38fbac5ea9f1)| Descripción: Guillermo Tantaléan señaló que CleanView ayudaría a reducir gastos operativos derivados de la mala disposición de residuos. Comentó que, desde el área de administración, contar con reportes visuales y alertas automáticas facilitaría la toma de decisiones sostenibles dentro de una empresa. |
 | ENTREVISTA 3 |
 | **Nombre entrevistado** | **Gael Rivera** |
 | Edad | 19 |
@@ -2752,7 +2752,7 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Inicio del video | 54:09 |
 | Fin del video | 1:05:20 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
-| <br> ![image](https://github.com/user-attachments/assets/5dabf6b2-e402-4a7e-bcaa-1f4d2bc9c9f5)| ------ |
+| <br> ![image](https://github.com/user-attachments/assets/5dabf6b2-e402-4a7e-bcaa-1f4d2bc9c9f5)| Descripción: Gael Rivera opinó que muchas empresas pequeñas desconocen los beneficios de adoptar una gestión ambiental activa. Sugirió que CleanView podría incluir comparativas por rubro y casos de éxito para motivar a las pymes. También valoró que la plataforma tuviera indicadores clave de rendimiento ambientales. |
 | Duración de todas las entrevistas: 23:29 - 1:05:20 | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
 
 
