@@ -64,21 +64,29 @@
 
 | URL del repositorio de la landing page | URL del repositorio del frontend | URL del repositorio del BackEnd |
 | :-----------------------------------------------: | :------------------------------: |:------------------------------: |
-| https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page | https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend |https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications |
+| https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page | https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend |https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications
 
 
 **URL LANDING PAGE DESPLEGADO**: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
 
 **URL FRONTEND DESPLEGADO:**: https://frontend-web-applications.vercel.app/
 
-**URL BACKEND DESPLEGADO:**: 
+**URL BACKEND DESPLEGADO:**: https://backend-web-applications-1.onrender.com/swagger-ui/index.html
 
 
 TB1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/1ASI0729-2510-4313-G1-CleanView. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio:  https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Report, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/1ASI0729-2510-4313-G1-CleanView/Landing-Page .
 
-TB2: Se han -----------------------------------
+TP1: Se han completado todas las tareas asignadas correspondientes al desarrollo del frontend para la entrega del TP1. Estas tareas se encuentran registradas en el repositorio oficial del equipo, disponible en el siguiente enlace:
+https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Frontend.
+Cada integrante del equipo colaboró en la implementación de componentes, vistas y funcionalidades según su asignación, realizando además correcciones y mejoras visuales con base en la retroalimentación obtenida de la entrega anterior. Este trabajo permitió dejar una primera versión funcional del frontend, integrada y lista para pruebas con el backend.
 
-TB1:
+TB2: Para esta segunda entrega se finalizó el desarrollo del frontend, incorporando todas las funcionalidades requeridas, mejoras visuales, validaciones y conexión con el backend. Todo el trabajo realizado se encuentra registrado en el repositorio oficial del frontend:
+https://github.com/1ASI0729-2510-4313-G1-CleanView/CleanView-Frontend.
+
+Además, se implementó la primera versión estable del backend, que incluye los endpoints necesarios para la gestión de datos, así como su despliegue en línea mediante Render. Este código backend se encuentra en el repositorio:
+https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications.
+
+Ambos módulos fueron integrados exitosamente, permitiendo una comunicación efectiva entre el cliente y el servidor, cumpliendo con los objetivos propuestos para esta entrega.
 
 <br>**Vista de commits: **Report:****
 
@@ -136,6 +144,15 @@ TB1:<br>
 | **Gabriel Fernando Gordon Salas**   | Desarrolló el bounded context de **Reports**, implementando módulos para la generación de reportes dinámicos y visualizaciones gráficas. Utilizó librerías de gráficos para representar estadísticas relacionadas con residuos recolectados, impacto ambiental y rendimiento de cada zona. Diseñó una interfaz clara para la selección de filtros de tiempo, tipo de dato y exportación de reportes. Además, colaboró en el testeo cruzado con los demás contextos para asegurar consistencia en los datos. |
 
 **TB2:**
+
+| **Integrante**                      | **Tarea Asignada**                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Renzo Sebastian Uribe Livia**     | Se encargó del desarrollo del bounded context de **Home**, creando la estructura base de la página principal de la plataforma. Implementó el diseño responsivo, los componentes de navegación y elementos visuales clave para mejorar la experiencia del usuario. Además, integró datos del backend para mostrar información en tiempo real en el dashboard inicial. Participó en la revisión de interfaz y pruebas funcionales finales. |
+| **Sandoval Paiva Valentino**        | Desarrolló todo el **Sprint 2**, incluyendo planificación, ejecución, documentación y revisión. Se encargó del bounded context de **Collection Points**, implementando formularios, visualización de datos, validaciones y conexión con el backend. Colaboró activamente en la integración general, pruebas de funcionamiento y despliegue final del frontend y backend.                                                                 |
+| **Fabian Alejandro Oliva Lopez**    | Se ocupó del bounded context de **Control Panel**, desarrollando interfaces para la configuración de sensores, dispositivos y notificaciones. Implementó validaciones y manejo de errores, además de colaborar en la integración con la base de datos y pruebas conjuntas con los contextos de Home y Reports.                                                                                                                           |
+| **Marcia Victoria Melgarejo Gomez** | Responsable del bounded context de **Sustainable Actions**, desarrolló formularios interactivos, filtros por tipo de acción y gráficos de impacto ambiental. Integró funcionalidades con el backend para almacenamiento de registros y generación de reportes. Participó en pruebas funcionales y revisiones de código.                                                                                                                  |
+| **Gabriel Fernando Gordon Salas**   | Desarrolló el bounded context de **Reports**, con módulos para generación de reportes visuales y gráficos estadísticos. Implementó filtros por fecha, tipo de dato y exportación de información. Además, colaboró en testeo cruzado con otros contextos para validar la coherencia de los datos y la visualización adecuada.                                                                                                             |
+
 
 ## Student Outcome
 | Resultado del curso                                                               | Evidencia individual                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Evidencia grupal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -2252,7 +2269,6 @@ Commits realizados en el repositorio de Backend durante el sprint 3:
 
 
 
-### 5.2.3.5 Testing Suite Evidence for Sprint Review.
 
 ### 5.2.3.6 Execution Evidence for Sprint Review
 
@@ -2452,6 +2468,49 @@ LINK FRONTEND DESPLEGADA: https://frontend-web-applications.vercel.app/
 
 **BackEnd**
 
+Para desplegar el backend, hemos utilizado Render, una plataforma que permite alojar servidores web de manera gratuita y sencilla.
+
+1. Crear nuevo servicio web
+
+- Desde el panel de Render, hacer clic en el botón "New +" y luego seleccionar "Web Service".
+
+![Ejemplo de Imagen](img/TB2/D1.png)
+
+2. Conectar repositorio
+
+- Autorizar a Render para que acceda a tus repositorios de GitHub. Luego, elige el repositorio donde se encuentra tu backend.
+
+![Ejemplo de Imagen](img/TB2/D2.png)
+
+3. Configurar despliegue
+
+- Configura tu servicio con los siguientes datos:
+
+   - Name: Nombre del servicio (ej. backend-cleanview)
+
+  - Environment: Node, Python, .NET, etc. (según tu tecnología)
+
+  - Build Command: Comando para construir el proyecto (ej. dotnet build, npm install)
+
+  - Start Command: Comando para iniciar el servidor (ej. dotnet run, npm start)
+
+  - Branch: Rama del repositorio (por defecto main o la que uses)
+
+  - Root Directory: Carpeta donde está el backend (si está en la raíz, dejar vacío)
+
+  ![Ejemplo de Imagen](img/TB2/D3.png)
+
+4. Deploy automático
+
+- Haz clic en "Create Web Service". Render comenzará el despliegue automáticamente. Este proceso puede tardar unos minutos.
+
+  ![Ejemplo de Imagen](img/TB2/D4.png)
+
+5. Acceder al backend desplegado
+- Una vez desplegado, Render generará un link del tipo:
+
+https://backend-web-applications-1.onrender.com/swagger-ui/index.html
+
 
 ### 5.2.3.9. Team Collaboration Insights during Sprint.
 
@@ -2468,7 +2527,7 @@ Avances:
 
 **Landing Page**
 
-En este sprint en la LandingPage no hubieron muchos cambios significativos, mas que nada solo el cambio de idioma.
+En este sprint en la LandingPage no hubieron muchos cambios significativos, mas que nada solo se añadieron capturas de nuestro frontend.
 
 ![Commits](img/TP/colan.png)
 
@@ -2482,20 +2541,37 @@ En este sprint en la LandingPage no hubieron muchos cambios significativos, mas 
 - Gabriel Fernando Gordon Salas. 16
 
 
-**Report:**
+**FrontEnd**
 
-![alt text](img/TP/co1.png)
+En este sprint, en la sección del frontend se mantuvo la estructura general del proyecto, sin cambios funcionales significativos. Principalmente se añadieron nuevas capturas de pantalla que muestran el avance visual de la interfaz, reflejando la integración con el backend y la correcta visualización de los datos. Estos cambios buscan evidenciar el desarrollo alcanzado hasta el momento sin modificar la lógica principal del código.
 
-![alt text](img/TP/co2.png)
+![Commits](img/TB2/F1.png)
 
-![alt text](img/TP/co3.png)
+![Commits](img/TB2/F2.png)
 
 
-- Renzo Sebastian Uribe Livia: 13
-- Fabian Alejandro Oliva Lopez: 21
-- Marcia Victoria Melgarejo Gomez: 42
-- Gabriel Fernando Gordon Salas: 28
-- Valentino Sandoval Paiva: 8
+- Valentino Sandoval Paiva: 2
+- Renzo Sebastian Uribe Livia: 4
+- Fabian Alejandro Oliva Lopez: 4
+- Marcia Victoria Melgarejo Gomez: 5
+- Gabriel Fernando Gordon Salas. 16
+
+**BackEnd**
+
+En este sprint se implementó la primera versión funcional del backend. Se desarrollaron los endpoints principales necesarios para el manejo de datos, permitiendo realizar operaciones CRUD básicas. Además, se estructuró el proyecto siguiendo buenas prácticas, separando controladores, modelos y servicios. Esta versión sentó las bases para la integración con el frontend, asegurando la correcta comunicación entre ambos componentes.
+
+![Commits](img/TB2/B1.png)
+
+![Commits](img/TB2/B2.png)
+
+![Commits](img/TB2/B3.png)
+
+
+- Valentino Sandoval Paiva: 15
+- Marcia Victoria Melgarejo Gomez: 4
+- Gabriel Fernando Gordon Salas. 1
+
+
 
 
 ### 5.3 Validation Interviews
