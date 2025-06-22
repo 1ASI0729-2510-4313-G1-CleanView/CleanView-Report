@@ -2698,7 +2698,7 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Inicio del video | 02:01 |
 | Fin del video | 06:27 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
-| ![Ejemplo de Imagen]( ) | |
+| <br>  ![image](https://github.com/user-attachments/assets/5fff0976-11cd-48a3-9d96-0dacffbac936)| |
 | ENTREVISTA 2 |
 | **Nombre entrevistado** | **Oscar Espinoza** |
 | Edad | 18 |
@@ -2707,7 +2707,7 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Inicio del video | 06:29 |
 | Fin del video | 14:28 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
-| ![Ejemplo de Imagen](---- ) | ------- |
+| <br> ![image](https://github.com/user-attachments/assets/af4b59a1-000f-4772-8646-cdf5930e0570)| ------- |
 | ENTREVISTA 3 |
 | **Nombre entrevistado** | **Miguel Angel Vidal** |
 | Edad | 18 |
@@ -2716,7 +2716,7 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Inicio del video | 14:30 |
 | Fin del video | 23:25 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
-| ![Ejemplo de Imagen]( ) | ------ |
+| <br> ![image](https://github.com/user-attachments/assets/a5b7f1fd-1abf-4f87-9180-22ccf9b11903)| ------ |
 | Duración de todas las entrevistas: 0:00 - 23:27 | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
 
 **Segmento 2:** Empresas (PyMEs, Grandes empresas, ONGs)
@@ -2731,7 +2731,7 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Inicio del video | 23:27 |
 | Fin del video | 39:48 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
-| ![Ejemplo de Imagen]( ) | ----------- |
+| <br> ![image](https://github.com/user-attachments/assets/7b465980-9c27-495e-a98b-7bfd0abc8950)| ----------- |
 | ENTREVISTA 2 |
 | **Nombre entrevistado** | **Guillermo Tantalean** |
 | Edad | 20 |
@@ -2740,7 +2740,7 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Inicio del video | 39:50 |
 | Fin del video | 54:07 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
-| ![Ejemplo de Imagen](---- ) | ------- |
+| <br> ![image](https://github.com/user-attachments/assets/b7c7c0e0-4f68-475c-b78e-38fbac5ea9f1)| ------- |
 | ENTREVISTA 3 |
 | **Nombre entrevistado** | **Gael Rivera** |
 | Edad | 19 |
@@ -2749,7 +2749,7 @@ Preguntas para ambos segmentos (Personas Naturales y Empresas)
 | Inicio del video | 54:09 |
 | Fin del video | 1:05:20 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
-| ![Ejemplo de Imagen](---- ) | ------ |
+| <br> ![image](https://github.com/user-attachments/assets/5dabf6b2-e402-4a7e-bcaa-1f4d2bc9c9f5)| ------ |
 | Duración de todas las entrevistas: 23:29 - 1:05:20 | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312013_upc_edu_pe/EVwtjkUQZjFEmHlMTsl8tfYBdTSB-qI84wKcIwddZLF6Zg?e=RmPVaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D] |
 
 
