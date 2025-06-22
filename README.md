@@ -2287,7 +2287,29 @@ Commits realizados en el repositorio de la Landing Page durante el sprint 3:
 
 Commits realizados en el repositorio de Backend durante el sprint 3:
 
-
+| **Repository**              | **Branch**             | **Commit Id** | **Commit Message**                                              | **Commit Message body**                                          | Committed on (Date)** |
+|------------------------|--------------------|----------|-------------------------------------------------------------|--------------------------------------------------------------|--------------|
+| Backend-Web-Applications | master             | e11726e544f29fa2a4986df6b9b977ddeae11715  | Update application.properties                                | Modified config to reflect latest environment changes        | 21/06/2025   |
+| Backend-Web-Applications | master             | 65286a1c403f29171cac0f879c31877933e9754e  | Merge pull request #3 from 1ASI0729-2510-4313-G1-CleanView/feat/tips | Integrated new tips feature branch into main                | 21/06/2025   |
+| Backend-Web-Applications | master             | 15736af1190aa28f198e1e332afe13ecdae6cb12  | Feat: fix sustainable action aggregate                       | Corrected logic in action aggregation module                 | 20/06/2025   |
+| Backend-Web-Applications | master             | 771b90b3bc77a3a7169969728d3dbc9bba488822  | Feat: fix class name and add validation                      | Adjusted class naming and added input validation             | 20/06/2025   |
+| Backend-Web-Applications | master             | bf1ffa3fdfd4b368ef9c191bc4f41d02c5d158c0  | Merge pull request #2 from 1ASI0729-2510-4313-G1-CleanView/feat/tips | Merged earlier updates from feature branch                  | 18/06/2025   |
+| Backend-Web-Applications | master             | 9bbad52af47cd7862aaf97233703c6eb48e489bf  | Merge branch 'master' into feat/tips                         | Synced master into tips feature for consistency              | 18/06/2025   |
+| Backend-Web-Applications | master             | 120e17b122abe7c91ba691fb42cb81f60b984245  | feat: update server port configuration to use environment variable | Switched static port to dynamic value via env variable  | 18/06/2025   |
+| Backend-Web-Applications | master             | 68839b575a2c57696bffb82cdf8fadedeea546e1  | feat: exclude application.properties from resource filtering | Prevented app properties from being filtered at build time   | 18/06/2025   |
+| Backend-Web-Applications | master             | abb30c543cdb5d7e99a9292b1d9662eb2cc03965  | feat: remove exclusion of application.properties in resource filtering | Re-enabled filtering for application properties       | 18/06/2025   |
+| Backend-Web-Applications | master             | be0fe5edee8d30ebf6b7ff7c85629c4bb62c55ff  | feat: add temporary logging for environment variables in main application | Logged env vars for debugging purposes               | 18/06/2025   |
+| Backend-Web-Applications | master             | 5797d2679a460b12ec44bc2585b4f201322d62b6  | feat: change exposed port from 8080 to 8092 in Dockerfile    | Updated Dockerfile to expose port 8092 for compatibility     | 18/06/2025   |
+| Backend-Web-Applications | master             | dc8861b66df485323cd7c14126235bf8a767c4d6  | feat: update java.version in pom.xml from 24 to 17           | Set Java version in pom to 17 for compatibility              | 18/06/2025   |
+| Backend-Web-Applications | master             | 043e0de4c676e6c0fc809de95875680b5086e6ed  | feat: update pom.xml to improve resource filtering and clean up unused sections | Optimized pom.xml config and removed unused lines   | 18/06/2025   |
+| Backend-Web-Applications | feature/monitoring | 5b536eb617f3eb7aff42f9b0029c27df88a9bc25  | feat: added monitoring backend                               | Implemented backend logic for monitoring support             | 17/06/2025   |
+| Backend-Web-Applications | feat/tips          | 15736af1190aa28f198e1e332afe13ecdae6cb12  | Feat: fix sustainable action aggregate                       | Corrected logic in action aggregation module                 | 21/06/2025   |
+| Backend-Web-Applications | feat/tips          | 771b90b3bc77a3a7169969728d3dbc9bba488822  | Feat: fix class name and add validation                      | Adjusted class naming and added input validation             | 21/06/2025   |
+| Backend-Web-Applications | feat/tips          | 9bbad52af47cd7862aaf97233703c6eb48e489bf  | Merge branch 'master' into feat/tips                         | Synced master into tips feature for consistency              | 18/06/2025   |
+| Backend-Web-Applications | feat/tips          | 120e17b122abe7c91ba691fb42cb81f60b984245  | feat: update server port configuration to use environment variable | Switched static port to dynamic value via env variable  | 18/06/2025   |
+| Backend-Web-Applications | feat/tips          | 68839b575a2c57696bffb82cdf8fadedeea546e1  | feat: exclude application.properties from resource filtering | Prevented app properties from being filtered at build time   | 18/06/2025   |
+| Backend-Web-Applications | feat/tips          | abb30c543cdb5d7e99a9292b1d9662eb2cc03965  | feat: remove exclusion of application.properties in resource filtering | Re-enabled filtering for application properties       | 18/06/2025   |
+| Backend-Web-Applications | feat/tips          | 576b416f8663b4a039d3bb826b6edf6fb5a143c4  | feat: remove exclusion of application.properties in resource filtering | Removed exclusion again to restore resource processing | 18/06/2025   |
 
 
 ### 5.2.3.6 Execution Evidence for Sprint Review
