@@ -308,7 +308,7 @@ Ser la herramienta líder en la gestión de residuos para empresas a nivel globa
 
 | Nombre                        | Descripción                | Habilidades y conocimientos técnicos | Foto
 |-------------------------------|-------------------------|--------------------------------------------|--------------------------------------|
-| Renzo Sebastian Uribe Livia   | Me considero una persona activa en los proyectos, impulsando al equipo a realizar buenos trabajos, mi objetivo es brindar apoyo y realizar lo mejor de mi, para asi fomentar un ambiente colaborativo y de respeto. | Desarrollo en C++, diseño de HTML    | <img src="img/renzo.png"> |
+| Renzo Sebastian Uribe Livia   | Me considero una persona activa en los proyectos, impulsando al equipo a realizar buenos trabajos, mi objetivo es brindar apoyo y realizar lo mejor de mi, para asi fomentar un ambiente colaborativo y de respeto. | Desarrollo en C++, diseño de HTML    | <img src="img/Renzo.png"> |
 | Fabian Alejandro Oliva Lopez  |          | Desarrollo en Visual Studio          | |
 | Marcia Victoria Melgarejo Gomez - U20231C505 |         | Desarrollo en C++, HTML, CSS, JS     | |
 | Gabriel Fernando Gordon Salas - U20221E229 | Me considero una persona responsable y que sabe organizarse bien al momento de realizar las cosas. Mi objetivo es poder dar lo mejor en un ambiente de cooperación entre todos para que el proyecto dé una muy buena presentación   | Desarrollo en C++, HTML, CSS, JS, SQL, Python| <img src="img/foto-gabriel.png">  |
