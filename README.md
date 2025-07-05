@@ -312,13 +312,13 @@ Ser la herramienta líder en la gestión de residuos para empresas a nivel globa
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
-| Nombre                        | Rol                     | Contacto                                   | Habilidades y conocimientos técnicos |
+| Nombre                        | Descripción                | Habilidades y conocimientos técnicos | Foto
 |-------------------------------|-------------------------|--------------------------------------------|--------------------------------------|
-| Renzo Sebastian Uribe Livia   | Ingeniero de software   | renzosebastianuribelivia@gmail.com         | Desarrollo en C++, diseño de HTML    |
-| Fabian Alejandro Oliva Lopez  | Ingeniero de sofware    | fabianalejandro1001@gmail.com              | Desarrollo en Visual Studio          |                                                                             
-| Marcia Victoria Melgarejo Gomez|Ingeniera de Software   |melgarejogomezmarcia@gmail.com              | Desarrollo en C++, HTML, CSS, JS     |
-| Gabriel Fernando Gordon Salas | Ingeniero de Software   | gabrielfgs2004@gmail.com                   | Desarrollo en C++, HTML, CSS, JS, SQL, Python|
-| Valentino Sandoval Paiva |  Ingeniero de software                       |      valentinosandoval2805@gmail.com                                      | Desarrollo en C++, HTML, CSS, JS, SQL, Python, Java                                     |
+| Renzo Sebastian Uribe Livia   |          | Desarrollo en C++, diseño de HTML    | |
+| Fabian Alejandro Oliva Lopez  |          | Desarrollo en Visual Studio          | |
+| Marcia Victoria Melgarejo Gomez - U20231C505 |         | Desarrollo en C++, HTML, CSS, JS     | |
+| Gabriel Fernando Gordon Salas - U20221E229 | Me considero una persona responsable y que sabe organizarse bien al momento de realizar las cosas. Mi objetivo es poder dar lo mejor en un ambiente de cooperación entre todos para que el proyecto dé una muy buena presentación   | Desarrollo en C++, HTML, CSS, JS, SQL, Python| <img src="img/foto-gabriel.png">  |
+| Valentino Sandoval Paiva |       | Desarrollo en C++, HTML, CSS, JS, SQL, Python, Java | |
 
 ## 1.2. Solution Profile
 
