@@ -813,7 +813,18 @@ En esta sección se presenta un glosario de términos clave relacionados al domi
 | 30    | US-031         | Ver mapa con ubicación de los puntos         | Como usuario<br/>Quiero ver los puntos de acopio en un mapa<br/>Para ubicar fácilmente el más cercano                                                     | 5            |
 | 31    | US-032         | Añadir nuevo punto de acopio                 | Como administrador<br/>Quiero registrar nuevos puntos de acopio<br/>Para ampliar la red disponible para los usuarios                                      | 5            |
 | 32    | US-002         | Accesos Visibles para Login/Registro        | Como visitante<br/>Quiero registrarme a la aplicación<br/>Para acceder a los servicios que ofrecen                                                        | 3            |
-
+| 33    | TS009          | Implementar endpoint para listar puntos de acopio | Como desarrollador Quiero añadir un almacen mediante API Para que esté disponible al momento de crear funciones en la app | 5 |
+| 34    | TS010               |  Añadir Sensores mediante RESTful API | Como desarrollador Quiero añadir un sensor mediante API Para que esté disponible al momento de crear funciones en la app | 5 |
+| 35    |  TS011              |  Añadir Residuos mediante RESTful API | Como desarrollador Quiero añadir un residuo mediante API Para que esté disponible al momento de crear funciones en la app | 5 |
+| 36    |  TS0012              |  Actualizar Zonas/almacenes mediante RESTful API | Como desarrollador Quiero actualizar un almacen mediante API Para que los cambios estén disponibles al momento de crear funciones en la app |  3 |
+| 37    |  TS0013              | Actualizar Sensores mediante RESTful API  | Como desarrollador Quiero actualizar un sensor mediante API Para que los cambios estén disponibles al momento de crear funciones en la app | 3 |
+| 38    |  TS0014              | Eliminar Sensores mediante RESTful API  | Como desarrollador Quiero eliminar un sensor mediante API Para que no esté disponibles al momento de crear funciones en la app | 3 |
+| 39    |  TS015              |  Añadir Acción Sostenible mediante RESTful API  | Como desarrollador Quiero añadir una acción sostenible mediante API Para que esté disponible al momento de gestionar acciones sostenibles en la app | 5 |
+| 40    |   TS016             |  Obtener Todas las Acciones Sostenibles mediante RESTful API |  Como desarrollador Quiero obtener todas las acciones sostenibles mediante API Para que sean listadas correctamente en la app | 3 | 
+| 41    |   TS017             | Obtener Acciones Sostenibles filtradas por Tipo mediante RESTful API  | Como desarrollador Quiero obtener acciones sostenibles filtradas por tipo mediante API Para que sean consultadas por su tipo cuando sea necesario | 5 |
+| 42    |   TS018             | Obtener Tipos de Acciones Sostenibles mediante RESTful API  | Como desarrollador Quiero obtener todos los tipos de acciones sostenibles mediante API Para que sean listados en un selector de tipo en la app | 3 |
+| 43    |   TS019             | Eliminar Acción Sostenible mediante RESTful API  | Como desarrollador Quiero eliminar una acción sostenible mediante API Para que los registros obsoletos sean removidos correctamente de la app | 3 |
+ 
 # Capítulo IV
 ## 4.1 Style Guidelines
 CleanWind es una plataforma enfocada en la gestión sostenible de residuos. Para ofrecer una experiencia amigable y clara, se ha optado por un diseño visual limpio y funcional. Predominan colores fríos como el verde claro, verde oscuro, blanco y negro, transmitiendo compromiso ecológico y profesionalismo. El diseño prioriza la simplicidad, el orden y la accesibilidad, facilitando que cualquier usuario pueda interactuar con la plataforma de forma intuitiva y efectiva.
