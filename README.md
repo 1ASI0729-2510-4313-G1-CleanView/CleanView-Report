@@ -605,18 +605,30 @@ La entrevista a un empresario de una empresa en crecimiento permitió conocer c�
 
 ### 2.3.2. User Task Matrix
 
-> Leonardo Dan
+**Introducción**
+En esta sección se presenta el User Task Matrix. El análisis se ha realizado considerando dos segmentos representativos:
 
-| Actividades                                       | Frecuencia | Importancia |
-| --------------------------------------------------|------------|-------------|
-| Analizar datos en tiempo real                     | Diario     | Alto        |
-| Generar reportes de impacto ambiental             | Semanal    | Alto        |
-| Revisar cimplimiento de normativas ambientales    | Mensual    | Alto        |
-| Capacitar al equipo en uso de la app              | Diario     | Alto        |
+- **Segmento 1**: Empresas.
+- **Segmento 2**: Persona natural.
  
-> Diana Costa
+El objetivo es identificar las tareas que estos usuarios realizan actualmente independientemente de la existencia de CleanView, para así detectar oportunidades reales de intervención de la solución. Estas tareas se basan en las entrevistas anteriores.
 
-| Actividades                                       | Frecuencia | Importancia |
+> Segmento 1: Empresas
+
+| Tarea                                             | Frecuencia | Importancia |
+| --------------------------------------------------|------------|-------------|
+| Analizar datos en tiempo real                     | Diario     | Alta        |
+| Generar reportes de impacto ambiental             | Semanal    | Alta        |
+| Revisar cimplimiento de normativas ambientales    | Mensual    | Alta        |
+| Monitorear los almacenes o zonas de la empresa    | Diario     | Alta        |
+| Revisar datos sobre los sensores instalados       | Semanal    | Alta        |
+| Registrar datos evidenciados en los gráficos  en pdf, excel o png     | Semanal | Alta |
+| Identificar picos de incremento de residuos | Diario | Alta |
+| Capacitar al personal para un buen manejo de las alertas ante el incremento de residuos | Mensual | Medio |
+
+> **Segmento 2**: Persona natural.
+
+| Tarea                                             | Frecuencia | Importancia |
 | --------------------------------------------------|------------|-------------|
 | Registrar residuos diarios                        | Diario     | Alto        |
 | Monitorear el impacto ambiental                   | Semanal    | Alto        |
