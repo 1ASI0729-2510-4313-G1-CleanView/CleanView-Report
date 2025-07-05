@@ -768,7 +768,7 @@ En esta sección se presenta un glosario de términos clave relacionados al domi
 
 ## 3.3. Impact Mapping
 
-![Impact Mapping](./img/Impact%20Mapping.jpg)
+![Impact Mapping](./img/ImpactMapping_CleanView.jpg)
 > https://miro.com/welcomeonboard/NFZvdkRBQXJwLzdFTTM4OXNGSkQxOFpsSTFtQmE2bFVxYTJhMEw4YzhseXgxTFpVbDFLQnpydlUrdVNuM1ZCalF6U3Bha2g3dUhqeUsrbWtERUxFeVpjeFp5Z0xpTFR0Y0hzdFl2SkxITzBwQUo0T090VnNkaTJsUHdZODNlYUtyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=65294902373 
 
 ## 3.4. Product Backlog
