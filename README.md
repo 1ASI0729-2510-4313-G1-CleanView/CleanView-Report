@@ -552,14 +552,14 @@ Video de las entrevistas: https://shorturl.at/WQtdR
 | **Entrevista** | 1 | **Nombre** | Guillermo Tantalean |
 |----------------|---|------------|----------------|
 | **Edad**       | 19 | **Ciudad** | Lima         |
-| **Captura de la entrevista** <br> ![image](https://github.com/user-attachments/assets/b3c1ede4-300d-4327-bcdb-280639e6485e) | **Descripción** <br> Paolo Saavedra explica que se dedica al diseño web de manera independiente, apoyándose fundamentalmente en Figma para el prototipado y en Adobe Illustrator para la elaboración de elementos ilustrativos. Destaca que, aunque tiene la habilidad técnica y la experiencia necesaria, su principal obstáculo es la falta de un espacio dedicado exclusivamente a conectar diseñadores con potenciales clientes. | |
+| **Captura de la entrevista** <br> ![image](https://github.com/user-attachments/assets/b3c1ede4-300d-4327-bcdb-280639e6485e) | **Descripción** <br> Paolo Saavedra explica que se dedica al diseño web de manera independiente, apoyándose fundamentalmente en Figma para el prototipado y en Adobe Illustrator para la elaboración de elementos ilustrativos. Destaca que, aunque tiene la habilidad técnica y la experiencia necesaria, su principal obstáculo es la falta de un espacio dedicado exclusivamente a conectar diseñadores con potenciales clientes. | 
 | **URL de la grabación** | URL: https://shorturl.at/WQtdR| 
 |**Timing** | 0:05 - 6:16 |
 
 | **Entrevista** | 2 | **Nombre** | Guisseppe Gotuzzo |
 |----------------|---|------------|-------------------|
 | **Edad**       | 19 | **Ciudad** | Ica               |
-| **Captura de la entrevista** <br> ![image](https://github.com/user-attachments/assets/f0bcfe7d-9a78-4933-aa2f-549d2572ef35) | **Descripción** <br> ... | |
+| **Captura de la entrevista** <br> ![image](https://github.com/user-attachments/assets/f0bcfe7d-9a78-4933-aa2f-549d2572ef35) | **Descripción** <br> Guisseppe Gotuzzo menciona que se especializa en la creación de identidades visuales para emprendimientos emergentes. Su enfoque combina la investigación de marca con una ejecución gráfica sólida, utilizando principalmente Adobe Photoshop y Canva como herramientas principales. Aunque ha trabajado en diversos proyectos freelance, reconoce que aún está construyendo una red de contactos sólida que le permita obtener encargos constantes y expandir su portafolio. | 
 | **URL de la grabación** | URL: https://shorturl.at/WQtdR | 
 |**Timing** | 6:24 - 10:05 |
 
@@ -568,7 +568,7 @@ Video de las entrevistas: https://shorturl.at/WQtdR
 | **Entrevista** | 3 | **Nombre** | Alvaro Gomez |
 |----------------|---|------------|--------------|
 | **Edad**       | 19 | **Ciudad** | Ica          |
-| **Captura de la entrevista** <br> ![image](https://github.com/user-attachments/assets/f88dba93-15f3-4d1f-88be-e5f71a269529) | **Descripción** <br> ... | |
+| **Captura de la entrevista** <br> ![image](https://github.com/user-attachments/assets/f88dba93-15f3-4d1f-88be-e5f71a269529) | **Descripción** <br> Álvaro Gómez se dedica al desarrollo de experiencias digitales, especialmente centradas en la interacción y la usabilidad. Utiliza herramientas como Sketch y InVision para diseñar interfaces web y aplicaciones móviles que sean tanto funcionales como estéticamente atractivas. Su enfoque es siempre centrado en el usuario, y se especializa en la optimización de flujos de navegación. A pesar de su experiencia trabajando con equipos pequeños, le gustaría tener más oportunidades para colaborar en proyectos más grandes y diversificados. | 
 | **URL de la grabación** | URL: https://shorturl.at/WQtdR | 
 |**Timing** | 10:12 - 15:22 |
 
@@ -578,7 +578,7 @@ Video de las entrevistas: https://shorturl.at/WQtdR
 | **Entrevista** | 4 | **Nombre** | Alejandro Oroncoy |
 |----------------|---|------------|--------------------|
 | **Edad**       | 20 | **Ciudad** | Lima              |
-| **Captura de la entrevista** <br> ![image](https://github.com/user-attachments/assets/d7a3ed15-c520-443d-ae9c-a5c77b656d6d) | **Descripción** <br> Alejandro forma parte de una pequeña empresa que opera en una oficina de dimensiones reducidas. Aunque el espacio de trabajo es acogedor y funcional, a menudo enfrentan dificultades relacionadas con la gestión de residuos. Esto se debe principalmente a que, al ser una empresa de tamaño limitado, cuentan únicamente con una persona encargada de supervisar y manejar todos los residuos generados. Esta situación provoca que, en ocasiones, se acumulen desechos o no se sigan correctamente los protocolos de reciclaje y disposición adecuada. Además, la falta de infraestructura específica y de un sistema organizado de recolección selectiva complica aún más el manejo eficiente de los residuos, afectando tanto la limpieza del lugar como el compromiso de la empresa con la sostenibilidad ambiental. | |
+| **Captura de la entrevista** <br> ![image](https://github.com/user-attachments/assets/d7a3ed15-c520-443d-ae9c-a5c77b656d6d) | **Descripción** <br> Alejandro forma parte de una pequeña empresa que opera en una oficina de dimensiones reducidas. Aunque el espacio de trabajo es acogedor y funcional, a menudo enfrentan dificultades relacionadas con la gestión de residuos. Esto se debe principalmente a que, al ser una empresa de tamaño limitado, cuentan únicamente con una persona encargada de supervisar y manejar todos los residuos generados. Esta situación provoca que, en ocasiones, se acumulen desechos o no se sigan correctamente los protocolos de reciclaje y disposición adecuada. Además, la falta de infraestructura específica y de un sistema organizado de recolección selectiva complica aún más el manejo eficiente de los residuos, afectando tanto la limpieza del lugar como el compromiso de la empresa con la sostenibilidad ambiental. | 
 | **URL de la grabación** | URL: https://shorturl.at/WQtdR | 
 |**Timing** | 15:30 - 21:20 |
 
