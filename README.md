@@ -2948,6 +2948,157 @@ Personalizar vistas y accesos según tipo de usuario para mejorar la experiencia
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c505_upc_edu_pe/EbNviDsj3dBJrwaky73TP6gBWPO8axYg3JntO4-eZArGZw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9ouj9e
 
+
+## 5.4.1 Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+ El Sprint #4 tiene como fecha de inicio el 04/07/2025 y como meta establece culminar, conectar y desplegar el front end y el
+ back end de la aplicación.
+
+| Sprint #      | Sprint 4         |
+|-------------- |------------------|
+| **Location**  | Discord meeting  |
+| **Prepared by** | Valentino Sandoval   |
+| **Attendees (to planning meeting)** | Renzo Uribe, Valentino Sandoval, Marcia Melgarejo, Fabian Oliva, Gabriel Gordon |
+| **Sprint 4 Review Summary** | El sprint anterior propuso continuar el desarrollo del front end de la aplicación, y desplegar una primera versión del back end con endpoints funcionales. Se evidencia que el equipo logró cumplir con todos los objetivos propuestos. |
+| **Sprint 4 Retrospective Summary** | **¿Qué funciona bien?** Los story points fueron acertados. A su vez, la comunicación activa durante el sprint permitió que los miembros del grupo se mantengan informados sobre el proceso de desarrollo del proyecto. **¿Qué no salió bien o cómo se esperaba?** El testing pudo haber sido documentado de mejor manera. Sintaxis de historias de usuario poco claras. **¿Qué deberíamos intentar hacer a continuación?** Investigar sobre testing y documentarlo de manera apropiada. Revisar las user stories y reestructurarlas para que todos los developers comprendan con simplicidad su propósito. |
+| **Sprint 4 Goal** | Elaborar la sección "IAM", conectar la aplicación con el backend e implementar el JWT para la autenticacion, conectar el frontend con el backend y completar los Bounded Contexts que faltaban |
+| **Sprint 4 Velocity** | 33 |
+| **Sum of story points** | 33 |
+
+
+
+### 5.2.4.2. Sprint Backlog 4.
+
+ Durante el cuarto sprint backlog, el equipo completó el front end y back end de la web application. La herramienta utilizada para
+ organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se puedan dividir todas las user stories
+ en tareas manejables y asignarlas a los diferentes miembros de acuerdo a sus diferentes habilidades.
+
+![alt text](./img/TF/trello.jpg)
+
+Link del Trello: https://trello.com/b/GTdLG6Ox/1asi0729-2510-4313-g1-cleanview
+
+
+
+### 5.2.4.3. Development Evidence for Sprint Review.
+
+  Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este
+  cuarto   sprint. Como se establecio trabajar el frontend y backendde la web application, se muestran commits de diferentes
+   repositorios donde se trabajo  
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|---------------|--------------------|--------------------|
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | ef035b3 | chore: updated monitoring endpoints |  | 2025-07-02 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | e11726e | Update application.properties |  | 2025-06-21 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 65286a1 | Merge pull request #3 from 1ASI0729-2510-4313-G1-CleanView/feat/tips | Feat/tips | 2025-06-21 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 15736af | Feat: fix sustainable action aggregate |  | 2025-06-21 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 771b90b | Feat: fix class name and add validation |  | 2025-06-21 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | bf1ffa3 | Merge pull request #2 from 1ASI0729-2510-4313-G1-CleanView/feat/tips | Feat/tips | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 9bbad52 | Merge branch 'master' into feat/tips |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 120e17b | feat: update server port configuration to use environment variable |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 68839b5 | feat: update server port configuration to use environment variable |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | abb30c5 | feat: exclude application.properties from resource filtering |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 576b416 | feat: remove exclusion of application.properties in resource filtering |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | be0fe5e | feat: add temporary logging for environment variables in main application |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 5797d26 | feat: change exposed port from 8080 to 8092 in Dockerfile |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | dc8861b | feat: update java.version in pom.xml from 24 to 17 |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 0aa5cd8 | feat: update java.version in pom.xml from 24 to 17 |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 043e0de | feat: update pom.xml to improve resource filtering and clean up unused sections |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | a5438ab | feat: remove commented stage for lightweight Java image in Dockerfile |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 6d9399c | feat: update application.properties to use environment variables for database configuration |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 6d5f908 | feat: update application.properties to use environment variables for database configuration |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | b354970 | feat: update Dockerfile for multi-stage build with Maven |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 2648430 | feat: add Dockerfile for application deployment |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | e6ffb1f | feat: add Dockerfile for application deployment |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 3d032aa | Merge pull request #1 from 1ASI0729-2510-4313-G1-CleanView/feature/monitoring | feat: added monitoring backend | 2025-06-17 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 5b536eb | feat: added monitoring backend |  | 2025-06-17 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | ab22568 | Feat: Add delete command and get actions by type in tips bc |  | 2025-06-15 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 43d9ddb | Feat: create DB table Action |  | 2025-06-15 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications](https://github.com/1ASI0729-2510-4313-G1-CleanView/Backend-Web-Applications) | master | 4220fd5 | Initial commit |  | 2025-06-14 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | cdaccb0 | chore: updated adaptations of language texts |  | 2025-07-02 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 10a66b1 | chore: upated attributes of json for monitoring bc |  | 2025-07-02 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 79e8080 | chore: updated control panel funtions |  | 2025-07-02 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 33eda3d | feat: remove unused styles from reports component CSS |  | 2025-07-02 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 4e9376e | feat: refactor collection point entity and service to use string IDs for consistency |  | 2025-07-02 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 51b8ab3 | feat: update collection card component to use string IDs for deletion and improve filtering logic |  | 2025-07-02 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 629c77f | feat: enhance add collection point component with responsive layout and map integration |  | 2025-07-02 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 9c68ccd | Merge pull request #6 from 1ASI0729-2510-4313-G1-CleanView/feat/rewards | Feat/rewards | 2025-07-02 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 5d06968 | Merge pull request #5 from 1ASI0729-2510-4313-G1-CleanView/feat/SusteinableActions | Fix: design Sustainable actions | 2025-07-02 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 45bcb8b | Fix: design Sustainable actions |  | 2025-06-22 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 99cc90c | Update db.json |  | 2025-06-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 42c1e27 | feat:rewards finish |  | 2025-06-15 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 4f9142a | Fix: database connection |  | 2025-06-11 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 9110d75 | Fix: favourite logic of sustainable actions |  | 2025-06-01 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 2b8ab3f | Fix: action card api |  | 2025-05-31 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 496ce90 | Merge main into feat/SusteinableActions: resolved conflicts |  | 2025-05-31 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 64da9ef | feat: add more dependencies |  | 2025-05-26 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | b111a40 | feat(login): add import NgIf |  | 2025-05-26 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 12483e1 | chore: update reports |  | 2025-05-26 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 18ca2af | feat: add Control Panel updated |  | 2025-05-26 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 36de2cd | chore: delete outdated controlPanel |  | 2025-05-26 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | a83b68a | chore: delete zone.service - bad path |  | 2025-05-26 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | e57063e | chore: delete store.service - bad path |  | 2025-05-26 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 61cce91 | chore: delete graphic.service - bad path |  | 2025-05-26 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | b1d4ff7 | fix: fix shared file |  | 2025-05-26 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | c5febed | feat(environments): add endpoints of controlPanel |  | 2025-05-26 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 05bb286 | feat: change zones, sensor and waste stucture |  | 2025-05-26 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | a1822ac | feat: add control panel texts |  | 2025-05-26 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | e7f9b81 | feat: add registration component with form, styles, and error handling |  | 2025-05-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | c8b620a | feat: add login component with template, styles, and authentication logic |  | 2025-05-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 4ae6040 | feat: add user authentication data and localization for login and registration |  | 2025-05-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | e1120a5 | feat: add user authentication data and localization for login and registration |  | 2025-05-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 07c42da | feat: implement authentication service and guard for user login and registration |  | 2025-05-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | d1fedec | feat: implement authentication buttons and role-based menu options in the main application |  | 2025-05-18 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | a6d4052 | feat: add sustainable actions feature with create, edit, and display components |  | 2025-05-16 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 19f270c | feat: i18n sustainableactions |  | 2025-05-16 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | e0d489d | feat: add create actions |  | 2025-05-16 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 61b7919 | feat: add action-entity |  | 2025-05-16 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 3883b9b | feat. add collections |  | 2025-05-16 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | d5e9827 | feat:add card and search |  | 2025-05-16 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 43f859e | Reports complete and ControlPanel Fix |  | 2025-05-16 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 88e2004 | feat: add reports route and update API URL in collection points service |  | 2025-05-16 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | f4565ac | Fix: routes |  | 2025-05-15 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 55a1562 | Merge pull request #4 from 1ASI0729-2510-4313-G1-CleanView/feat-controlPanel | Feat control panel | 2025-05-15 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 031abf2 | Add files via upload |  | 2025-05-14 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 42b36a6 | feat: add control panel component |  | 2025-05-14 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 3c36415 | Merge pull request #3 from 1ASI0729-2510-4313-G1-CleanView/reports | Reports complete | 2025-05-14 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | f4c6a33 | Reports complete |  | 2025-05-14 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | d73d10a | Merge pull request #2 from 1ASI0729-2510-4313-G1-CleanView/feature/add-styles | add main application structure with navigation, styling, and language… | 2025-05-13 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | ae0a2e2 | add main application structure with navigation, styling, and language switcher |  | 2025-05-13 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 005b7b4 | Merge pull request #1 from 1ASI0729-2510-4313-G1-CleanView/feat-collection | Feat collection | 2025-05-11 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 2b1d888 | add search-bar component with HTML, CSS, and TypeScript logic |  | 2025-05-11 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 8037f74 | add filter-tags component with HTML, CSS, and TypeScript logic |  | 2025-05-11 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 6da11cb | add collection-card component with modal and styles |  | 2025-05-11 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | bac4f83 | add collection-card component with modal and styles |  | 2025-05-11 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 8fb1599 | add add-collection-point component with form and styles |  | 2025-05-11 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 41eb349 | add initial configuration and localization files for the project |  | 2025-05-11 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | eea2099 | add initial project configuration files: .editorconfig, .gitignore, and angular.json |  | 2025-05-11 |
+| [https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend](https://github.com/1ASI0729-2510-4313-G1-CleanView/Frontend) | main | 99749f9 | Initial commit |  | 2025-05-11 |
+
+### 5.2.4.4.Execution Evidence for Sprint Review.
+
+ En el sprint 3 se alcanzo un desarrollo parcial del frontend y backend de la web application. La cual muestra nuevas vistas
+ relevantes acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. A continuación
+ se muestran algunas evidencias:
+
+![alt text](./img/TF/executionevidence1.jpg)
+
+![alt text](./img/TF/executionevidence2.jpg)
+
+![alt text](./img/TF/executionevidence3.jpg)
+
+![alt text](./img/TF/executionevidence4.jpg)
+
+![alt text](./img/TF/executionevidence5.jpg)
+
+![alt text](./img/TF/executionevidence6.jpg)
+
+![alt text](./img/TF/executionevidence7.jpg)
+
+![alt text](./img/TF/executionevidence8.jpg)
+
+
 <div id='6.'><h2>Conclusiones</h2></div>
 
 El desarrollo de CleanView representó un desafío enriquecedor que permitió al equipo demostrar un alto grado de compromiso, organización y trabajo colaborativo. A través de la implementación de bounded contexts como Home, Control Panel, Sustainable Actions, Collection y Reports, se logró construir una solución enfocada en la gestión ambiental y el monitoreo de residuos. Durante el proceso, se aplicaron metodologías ágiles, diseño centrado en el usuario, integración continua en GitHub, y prácticas de Domain Driven Design, lo que facilitó una estructura de código escalable y alineada a los objetivos del sistema. La planificación y documentación también jugaron un rol crucial, permitiendo una ejecución clara y coordinada entre los miembros.
