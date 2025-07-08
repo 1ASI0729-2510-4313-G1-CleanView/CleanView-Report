@@ -3098,6 +3098,48 @@ Link del Trello: https://trello.com/b/GTdLG6Ox/1asi0729-2510-4313-g1-cleanview
 
 ![alt text](./img/TF/executionevidence8.jpg)
 
+### 5.2.4.5 Services Documentation Evidence for Sprint Review
+
+### 5.2.4.6 Software Deployment Evidence for Sprint Review
+
+### 5.2.4.7 Team Collaboration Insights during Sprint
+
+Durante este sprint, el equipo trabajó en las mejoras del FrontEnd y BackEnd. Estas tareas se organizaron aplicando metodologías ágiles, lo que facilitó una coordinación efectiva entre todos los integrantes del equipo.
+
+Se uso herramientas como GitHub y Trello para coordinar estas actividades y poder visualizar la contribución de cada integrante
+
+Avances: 
+
+- FrontEnd: Se mejoró el diseño, haciendolo mas interactivo y responsivo. 
+- BackEnd: Se mejoró endpoint principales para el manejo de datos. 
+- Documentación: Se documento los avances y se configuró un entorno de prueba para poder desplagar la aplicación.
+
+**FrontEnd**
+Durante este sprint, en la sección del frontend se realizaron cambios mínimos, manteniéndose la estructura general del proyecto. Se incorporaron nuevas capturas de pantalla para mostrar el avance visual de la interfaz, resaltando la integración con el backend y la correcta presentación de los datos. Estas actualizaciones tienen como objetivo evidenciar el progreso sin alterar la lógica principal del código.
+
+![image](https://github.com/user-attachments/assets/e7716486-4c4d-4f2b-b0c0-5e7df38e062d)
+
+![image](https://github.com/user-attachments/assets/31f65511-b758-4c06-b9ef-56cd2089b8d4)
+
+- Valentino Sandoval Paiva: 18
+- Marcia Victoria Melgarejo Gómez: 12   
+- Renzo Sebastián Uribe Livia: 2
+- Gabriel Fernando Gordón Salas: 18
+- Fabián Alejandro Oliva López: 2
+
+**BackEnd**
+En este sprint, el enfoque principal del backend estuvo en la implementación del módulo de IAM. Se desarrollaron nuevos controladores con sus respectivos endpoints orientados a la gestión de identidad y acceso dentro del sistema. Esta integración refuerza los mecanismos de seguridad y permite una administración más eficiente de usuarios y autenticación. El desarrollo se realizó respetando la estructura por capas, manteniendo la separación entre controladores, modelos y servicios establecida en versiones anteriores.
+
+![image](https://github.com/user-attachments/assets/c66956b0-c75d-4163-b05a-4dd0e2b6e4c7)
+![image](https://github.com/user-attachments/assets/f90b3c36-564c-4372-aafe-b3ee378c4680)
+
+![image](https://github.com/user-attachments/assets/19042b6f-fe0d-4732-938b-ba01ecc869ac)
+
+![image](https://github.com/user-attachments/assets/9074ed3c-c8b9-4390-951d-0091dbe13953)
+
+- Marcia Victoria Melgarejo Gomez: 6 
+- Valentino Sandoval Paiva: 1
+- Gabriel Fernando Gordon Salas: 3
 
 <div id='6.'><h2>Conclusiones</h2></div>
 
