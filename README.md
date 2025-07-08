@@ -3100,7 +3100,156 @@ Link del Trello: https://trello.com/b/GTdLG6Ox/1asi0729-2510-4313-g1-cleanview
 
 ### 5.2.4.5 Services Documentation Evidence for Sprint Review
 
+Para el sprint 4 se documentaron 23 endpoints repartidos en 5 controladores. Además se empleó swagger para hacer las pruebas a los endpoints. Link al repositorio de backend:
+
+<h3> Collection Bounded Context</h3>
+
+**CollectionPointsController**
+
+| **Tag**          | **HTTP Verbs** | **Endpoint**                     | **Summary**                  | **Description**                         | **OperationId**          |
+| ---------------- | -------------- | -------------------------------- | ---------------------------- | --------------------------------------- | ------------------------ |
+| CollectionPoints | POST           | /api/v1/collection-points        | Create Collection Point      | Create a new collection point           | CreateCollectionPoint    |
+| CollectionPoints | GET            | /api/v1/collection-points/{id}   | Get Collection Point by Id   | Get a collection point by its ID        | GetCollectionPointById   |
+| CollectionPoints | GET            | /api/v1/collection-points        | Get All Collection Points    | Retrieve all collection points          | GetAllCollectionPoints   |
+| CollectionPoints | GET            | /api/v1/collection-points/search | Get Collection Point by Name | Retrieve a collection point by its name | GetCollectionPointByName |
+| CollectionPoints | PUT            | /api/v1/collection-points/{id}   | Update Collection Point      | Update an existing collection point     | UpdateCollectionPoint    |
+| CollectionPoints | DELETE         | /api/v1/collection-points/{id}   | Delete Collection Point      | Delete a collection point by its ID     | DeleteCollectionPoint    |
+
+
+![Commits](img/TB2/CB1.png)
+
+![Commits](img/TB2/CB2.png)
+
+![Commits](img/TB2/CB3.png)
+
+![Commits](img/TB2/CB4.png)
+
+
+<h3> Control Panel Bounded Context</h3>
+
+**SensorsController**
+
+| **Tag** | **HTTP Verbs** | **Endpoint**         | **Summary**      | **Description**             | **OperationId** |
+| ------- | -------------- | -------------------- | ---------------- | --------------------------- | --------------- |
+| Sensors | POST           | /api/v1/sensors      | Create Sensor    | Create a new sensor         | CreateSensor    |
+| Sensors | GET            | /api/v1/sensors/{id} | Get Sensor by ID | Retrieve a sensor by its ID | GetSensorById   |
+| Sensors | GET            | /api/v1/sensors      | Get All Sensors  | Retrieve all sensors        | GetAllSensors   |
+| Sensors | PUT            | /api/v1/sensors/{id} | Update Sensor    | Update an existing sensor   | UpdateSensor    |
+| Sensors | DELETE         | /api/v1/sensors/{id} | Delete Sensor    | Delete a sensor by its ID   | DeleteSensor    |
+
+![Commits](img/TB2/CB5.png)
+
+![Commits](img/TB2/CB6.png)
+
+![Commits](img/TB2/CB7.png)
+
+![Commits](img/TB2/CB8.png)
+
+
+**StoresController**
+
+| **Tag** | **HTTP Verbs** | **Endpoint**          | **Summary**       | **Description**              | **OperationId** |
+| ------- | -------------- | --------------------- | ----------------- | ---------------------------- | --------------- |
+| Stores  | POST           | /api/v1/stores        | Create Store      | Create a new store           | CreateStore     |
+| Stores  | GET            | /api/v1/stores/{id}   | Get Store by ID   | Retrieve a store by its ID   | GetStoreById    |
+| Stores  | GET            | /api/v1/stores/{name} | Get Store by Name | Retrieve a store by its name | GetStoreByName  |
+| Stores  | GET            | /api/v1/stores        | Get All Stores    | Retrieve all stores          | GetAllStores    |
+| Stores  | PUT            | /api/v1/stores/{id}   | Update Store      | Update an existing store     | UpdateStore     |
+
+![Commits](img/TB2/CB9.png)
+
+![Commits](img/TB2/CB10.png)
+
+![Commits](img/TB2/CB11.png)
+
+**WastesController**
+
+| **Tag** | **HTTP Verbs** | **Endpoint**        | **Summary**     | **Description**                   | **OperationId** |
+| ------- | -------------- | ------------------- | --------------- | --------------------------------- | --------------- |
+| Wastes  | POST           | /api/v1/wastes      | Create Waste    | Create a new waste record         | CreateWaste     |
+| Wastes  | GET            | /api/v1/wastes/{id} | Get Waste by ID | Retrieve a waste record by its ID | GetWasteById    |
+
+![Commits](img/TB2/CB12.png)
+
+![Commits](img/TB2/CB13.png)
+
+![Commits](img/TB2/CB14.png)
+
+<h3> Tips Bounded Context</h3>
+
+**SustainableActionController**
+
+| **Tag**             | **HTTP Verb** | **Endpoint**                                   | **Summary**                    | **Description**                                                                                             | **OperationId**               |
+|---------------------|--------------|------------------------------------------------|--------------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------|
+| Sustainable Actions | POST         | /api/v1/sustainable-actions                    | Create Sustainable Action      | Creates a new sustainable action with the provided details.                                                 | CreateSustainableAction        |
+| Sustainable Actions | GET          | /api/v1/sustainable-actions                    | Get All Sustainable Actions    | Retrieves a list of all available sustainable actions.                                                      | GetAllSustainableActions       |
+| Sustainable Actions | GET          | /api/v1/sustainable-actions/type/{type}        | Get Sustainable Actions by Type| Retrieves a list of sustainable actions filtered by their type.                                             | GetSustainableActionsByType    |
+| Sustainable Actions | DELETE       | /api/v1/sustainable-actions/{id}               | Delete Sustainable Action      | Deletes a sustainable action based on its unique identifier.                                                | DeleteSustainableAction        |
+| Sustainable Actions | GET          | /api/v1/sustainable-actions/types              | Get Sustainable Action Types   | Retrieves a list of all sustainable action types supported by the system.                                   | GetAllSustainableActionTypes    |
+
+![Commits](img/TB2/CB15.png)
+
+![Commits](img/TB2/CB16.png)
+
+![Commits](img/TB2/CB17.png)
+
+
 ### 5.2.4.6 Software Deployment Evidence for Sprint Review
+
+En este Sprint, las actividades de despliegue se enfocaron en garantizar el correcto funcionamiento del frontend y backend de la plataforma. Se realizaron pruebas en entorno local y de desarrollo para asegurar que ambos componentes estén adecuadamente configurados y se comuniquen de forma efectiva. Se documentaron los resultados mediante capturas de pantalla que evidencian la operatividad del sistema en esta etapa. Estas pruebas respaldan el avance del proyecto y sientan las bases para futuros despliegues en entornos de producción.
+
+**Frontend**
+
+![Ejemplo de Imagen](img/TP/front.png)
+
+![Ejemplo de Imagen](img/TP/front2.png)
+
+LINK FRONTEND DESPLEGADA: https://frontend-web-applications.vercel.app/
+
+**BackEnd**
+
+Para desplegar el backend, hemos utilizado Render, una plataforma que permite alojar servidores web de manera gratuita y sencilla.
+
+1. Crear nuevo servicio web
+
+- Desde el panel de Render, hacer clic en el botón "New +" y luego seleccionar "Web Service".
+
+![Ejemplo de Imagen](img/TB2/D1.png)
+
+2. Conectar repositorio
+
+- Autorizar a Render para que acceda a tus repositorios de GitHub. Luego, elige el repositorio donde se encuentra tu backend.
+
+![Ejemplo de Imagen](img/TB2/D2.png)
+
+3. Configurar despliegue
+
+- Configura tu servicio con los siguientes datos:
+
+   - Name: Nombre del servicio (ej. backend-cleanview)
+
+  - Environment: Node, Python, .NET, etc. (según tu tecnología)
+
+  - Build Command: Comando para construir el proyecto (ej. dotnet build, npm install)
+
+  - Start Command: Comando para iniciar el servidor (ej. dotnet run, npm start)
+
+  - Branch: Rama del repositorio (por defecto main o la que uses)
+
+  - Root Directory: Carpeta donde está el backend (si está en la raíz, dejar vacío)
+
+  ![Ejemplo de Imagen](img/TB2/D3.png)
+
+4. Deploy automático
+
+- Haz clic en "Create Web Service". Render comenzará el despliegue automáticamente. Este proceso puede tardar unos minutos.
+
+  ![Ejemplo de Imagen](img/TB2/D4.png)
+
+5. Acceder al backend desplegado
+- Una vez desplegado, Render generará un link del tipo:
+
+https://backend-web-applications-1.onrender.com/swagger-ui/index.html
 
 ### 5.2.4.7 Team Collaboration Insights during Sprint
 
