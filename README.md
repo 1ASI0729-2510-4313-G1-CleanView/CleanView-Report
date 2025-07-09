@@ -319,10 +319,10 @@ Ser la herramienta líder en la gestión de residuos para empresas a nivel globa
 | Nombre                        | Descripción                | Habilidades y conocimientos técnicos | Foto
 |-------------------------------|-------------------------|--------------------------------------------|--------------------------------------|
 | Renzo Sebastian Uribe Livia   | Me considero una persona activa en los proyectos, impulsando al equipo a realizar buenos trabajos, mi objetivo es brindar apoyo y realizar lo mejor de mi, para asi fomentar un ambiente colaborativo y de respeto. | Desarrollo en C++, diseño de HTML    | <img src="img/Renzo.png"> |
-| Fabian Alejandro Oliva Lopez  |          | Desarrollo en Visual Studio          | |
+| Fabian Alejandro Oliva Lopez  |  Me considero una persona responsable y proactiva en los trabajos que se me asignen, mi objectivo durante el trabajo es mejorar mi conocimiento para la base de datos y creo que debo de mejorar en mi comunicacion con mi grupo         | Desarrollo en Visual Studio          | <img src="img/fabian.jpg"> |
 | Marcia Victoria Melgarejo Gomez - U20231C505 |         | Desarrollo en C++, HTML, CSS, JS     | <img src="img/foto-Melgarejo.png">|
 | Gabriel Fernando Gordon Salas - U20221E229 | Me considero una persona responsable y que sabe organizarse bien al momento de realizar las cosas. Mi objetivo es poder dar lo mejor en un ambiente de cooperación entre todos para que el proyecto dé una muy buena presentación   | Desarrollo en C++, HTML, CSS, JS, SQL, Python| <img src="img/foto-gabriel.png">  |
-| Valentino Sandoval Paiva |       | Desarrollo en C++, HTML, CSS, JS, SQL, Python, Java | |
+| Valentino Sandoval Paiva |  Me considero una persona que puede apoyar al grupo de muchas maneras mediante mi criterio, considero que hice buen trabajo al momento de implementar todo lo que se me encargo.   | Desarrollo en C++, HTML, CSS, JS, SQL, Python, Java |<img src="img/valentino.jpg">  |
 
 ## 1.2. Solution Profile
 
@@ -2411,7 +2411,7 @@ LANDING PAGE: https://1asi0729-2510-4313-g1-cleanview.github.io/Landing-Page/
 
 # FrontEnd:
 
-LINK DEL FRONTEND DESPLEGADO: https://frontend-web-applications.vercel.app/
+LINK DEL FRONTEND DESPLEGADO: https://clean-view-front.vercel.app/login
 
 - **Bounded Context: Collection**
 
